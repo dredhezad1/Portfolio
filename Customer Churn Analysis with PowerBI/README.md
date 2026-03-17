@@ -37,11 +37,12 @@ Examines how **contract types, internet services, streaming features, and suppor
 
 Geographic heatmaps and age-based distribution identifying Texas and senior citizens (65+) as high-risk segments.
 
-📈 Key Business Insights
-The "Early Exit" Risk: Customers in their first 6 months have a 17.82% churn rate, suggesting a need for better onboarding or introductory offers.
+📈 **Key Business Insights**
 
-Service Friction: "Poor expertise of phone support" is the #1 reason for churn, accounting for the highest revenue loss ($2,596/month).
+**The "Early Exit" Risk:** Customers in their first 6 months have a 17.82% churn rate, suggesting a need for better onboarding or introductory offers.
 
-Contractual Impact: Month-to-month contracts exhibit significantly higher churn compared to one- or two-year commitments.
+**Service Friction:** "Poor expertise of phone support" is the #1 reason for churn, accounting for the highest revenue loss ($2,596/month).
 
-Geographic Hotspots: Texas leads the churn rate at 3.41%, indicating potential regional service or pricing competition issues.
+**Contractual Impact:** Month-to-month contracts exhibit significantly higher churn compared to one- or two-year commitments.
+
+**Geographic Hotspots:** Texas leads the churn rate at 3.41%, indicating potential regional service or pricing competition issues.
