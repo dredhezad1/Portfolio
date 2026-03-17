@@ -12,7 +12,7 @@ This project features a multi-layered interactive dashboard suite built to analy
 * **Critical Insight:** Average Order Value (AOV) is trending downward. We are becoming a "high-volume, low-ticket" marketplace, which increases pressure on fixed logistics costs.
 * **Strategic Action:** Implement "Bundle & Save" triggers at checkout to increase AOV and protect net margins.
 
-<p align="center"> <img src="E-commerce Analysis with PowerBI/1_Dashboard.png" width="1200"> </p>
+<p align="center"> <img src="Images/1_Dashboard.png" width="1200"> </p>
 
 ### 2. Marketplace & Unit Economics
 * **The Challenge:** High "Logistics Tax" on the top-performing category (Fashion).
