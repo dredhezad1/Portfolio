@@ -17,6 +17,7 @@ The analysis focuses on answering three critical business questions:
 Key insights reveal that customers with month-to-month contracts and shorter tenure periods are significantly more likely to churn, while service issues such as poor support expertise, network reliability, and pricing concerns are major churn drivers.
 
 **Dashboard Preview**
+
 *Executive Summary* 
 <p align="center"> <img src="Images/1_Executive Summary.png" width="1200"> </p>
 
