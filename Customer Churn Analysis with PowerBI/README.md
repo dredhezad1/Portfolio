@@ -9,6 +9,6 @@ Key insights reveal that customers with month-to-month contracts and shorter ten
 
 Dashboard Preview
 Executive Summary
-<p align="center"> <img src="Images/1_Executive Summary.png" width="800"> </p>
+<p align="center"> <img src="Images/1_Executive Summary.png" width="1200"> </p>
 
 Provides a high-level overview of churn performance including total customers, churn rate, revenue impact, churn trends, and key churn reasons.
