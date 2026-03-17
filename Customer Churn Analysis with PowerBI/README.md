@@ -1,6 +1,6 @@
 **Customer Churn Analysis Dashboard**
 
-*Project Overview*
+***Project Overview***
 
 This project analyzes customer churn behavior for a telecommunications company using Power BI. The dashboard identifies key drivers of customer attrition and evaluates the financial impact of churn to support data-driven retention strategies.
 
@@ -8,11 +8,11 @@ The analysis explores churn patterns across customer tenure, contract types, ser
 
 The analysis focuses on answering three critical business questions:
 
-Who is leaving? (Demographic & Tenure analysis)
+*Who is leaving? (Demographic & Tenure analysis)*
 
-Why are they leaving? (Service quality & Contractual friction)
+*Why are they leaving? (Service quality & Contractual friction)*
 
-What is the financial impact? (Revenue loss & LTV forecasting)
+*What is the financial impact? (Revenue loss & LTV forecasting)*
 
 Key insights reveal that customers with month-to-month contracts and shorter tenure periods are significantly more likely to churn, while service issues such as poor support expertise, network reliability, and pricing concerns are major churn drivers.
 
