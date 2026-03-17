@@ -6,6 +6,14 @@ This project analyzes customer churn behavior for a telecommunications company u
 
 The analysis explores churn patterns across customer tenure, contract types, services used, demographics, and regional performance. The data model is built using a Snowflake Schema, with key metrics developed in DAX, and includes Row-Level Security (RLS) to simulate enterprise-level access control.
 
+The analysis focuses on answering three critical business questions:
+
+Who is leaving? (Demographic & Tenure analysis)
+
+Why are they leaving? (Service quality & Contractual friction)
+
+What is the financial impact? (Revenue loss & LTV forecasting)
+
 Key insights reveal that customers with month-to-month contracts and shorter tenure periods are significantly more likely to churn, while service issues such as poor support expertise, network reliability, and pricing concerns are major churn drivers.
 
 **Dashboard Preview**
