@@ -47,3 +47,11 @@ Geographic heatmaps and age-based distribution identifying Texas and senior citi
 **Contractual Impact:** Month-to-month contracts exhibit significantly higher churn compared to one- or two-year commitments.
 
 **Geographic Hotspots:** Texas leads the churn rate at 3.41%, indicating potential regional service or pricing competition issues.
+
+💡 **Recommendations**
+
+**Enhance Customer Support:** Targeted training for phone support teams to address the leading cause of dissatisfaction.
+
+**Incentivize Long-term Contracts:** Move month-to-month users toward annual plans through loyalty discounts.
+
+**Targeted Retention for Seniors:** Create specialized support or simplified billing for the 65+ demographic, which represents the largest active customer block but shows increasing churn sensitivity.
