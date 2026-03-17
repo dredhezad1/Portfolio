@@ -1,8 +1,0 @@
-Customer Churn Analysis Dashboard
-Project Overview
-
-This project analyzes customer churn patterns and identifies the main factors driving customer attrition. The dashboard provides insights into customer behavior, contract types, services used, revenue impact, and churn trends over time.
-
-The goal is to help businesses understand why customers leave, how churn affects revenue, and what strategies can improve customer retention.
-
-The analysis is built using Power BI, with interactive visualizations that allow stakeholders to explore churn drivers across multiple business dimensions.
