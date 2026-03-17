@@ -38,6 +38,12 @@ Examines how **contract types, internet services, streaming features, and suppor
 
 Geographic heatmaps and age-based distribution identifying Texas and senior citizens (65+) as high-risk segments.
 
+**🏗️ Data Architecture: Snowflake Schema**
+
+To ensure high data integrity and optimized performance, the project utilizes a Snowflake Schema. This normalized approach allows for granular analysis of service tiers (Phone, Internet, Add-ons) without compromising report speed.
+
+<p align="center"> <img src="Data Modeling - Snowflake Schema/Snowflake_Schema_Data_Modeling.png" width="1200"> </p>
+
 📈 **Key Business Insights**
 
 **The "Early Exit" Risk:** Customers in their first 6 months have a 17.82% churn rate, suggesting a need for better onboarding or introductory offers.
