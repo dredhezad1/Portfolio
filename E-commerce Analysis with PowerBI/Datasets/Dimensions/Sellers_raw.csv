@@ -1,0 +1,434 @@
+SellerID,SellerName,SellerType,Country,City,Rating,CommissionRatePct,OnboardDate,SLA_Tier
+SEL00001,Seller 1,Marketplace,Italy,Bologna,4.31,17.69,2018-10-02,Standard
+SEL00002,Seller 2,Marketplace,Netherlands,Eindhoven,4.26,10.67,2020-08-19,Plus
+SEL00003,Seller 3,MARKETPLACE,SPAIN,Madrid,4.85,9.6,2017-10-06,Standard
+SEL00004,Seller 4, Marketplace,France ,Toulouse,4.24,9.53,2017-06-14,STANDARD
+SEL00005,Seller 5,Marketplace,Germany,Frankfurt ,4.2,12.5,2022-12-16,standard
+SEL00006,Seller 6,MARKETPLACE,France,Marseille,4.42,16.32,2019-03-18,Standard
+SEL00007,Seller 7,MARKETPLACE,Deutschland,hamburg,4.07,6.18,2022-11-29,Plus
+SEL00008,Seller 8,Marketplace,france, Paris,4.11,8.37,2019-05-02,Plus
+SEL00009,Seller 9,Dropship,DE,Munich,4.0,7.52,2020-02-15,Standard
+SEL00010,seller 10,MARKETPLACE,Netherlands,eindhoven,4.72,11.93,2023-06-15,PLUS
+SEL00011,Seller 11,first-party,France,Toulouse,4.18,1.6,2022-08-17,Standard
+SEL00012,Seller 12,Dropship,Netherlands,Eindhoven,4.56,12.2,2022-06-04, Standard
+SEL00013,Seller 13,First-Party,Spain, Valencia,4.34,1.68,2020-04-08,Standard 
+SEL00014,Seller 14,First-Party,ES,Madrid,4.18,0.28,2017-03-05,Standard
+SEL00015,Seller 15,marketplace,Italy,Rome,3.84,17.31,2017-08-09,Plus
+SEL00016,Seller 16,MARKETPLACE,Italy,Naples,4.13,8.24,2024-04-25,Standard
+SEL00017,Seller 17,First-Party,Germany,Munich,4.88,0.97,2023-08-02,Standard 
+SEL00018,Seller 18,Marketplace,IT,Turin,4.15,10.51,2017-05-14,Premium
+SEL00019,SELLER 19,Marketplace,DE,Frankfurt ,4.03,6.28,2022-11-11,STANDARD
+SEL00020,Seller 20,Marketplace,germany,BERLIN,4.38,16.98,2020-07-10,PLUS
+SEL00021,Seller 21,Marketplace,Spain,Barcelona,3.92,12.88,2019-07-23,standard
+SEL00022,Seller 22,Marketplace,Netherlands,Amsterdam,4.35,16.71,2022-07-10,Standard
+SEL00023,Seller 23,Dropship ,GERMANY,Berlin,4.17,7.74,2019-09-08,Standard
+SEL00024,Seller 24,Marketplace, Germany,Munich,4.15,9.24,2021-03-24, Standard
+SEL00025,seller 25,Marketplace ,Netherlands,Amsterdam,3.9,9.41,2023-03-28,Standard
+SEL00026,Seller 26,Marketplace,IT,NAPLES,5.0,14.21,2023-03-04,Standard
+SEL00027,seller 27,marketplace,Italy,Milan,4.43,6.4,2024-05-23,Standard
+SEL00028,Seller 28,Dropship,spain,Bilbao,4.63,14.46,2019-09-04,Standard
+SEL00029,seller 29,Marketplace,italy,Naples,4.9,13.91,2024-12-04,Premium
+SEL00030,Seller 30,Marketplace,Netherlands,The Hague,4.07,7.79,2018-05-11,Premium
+SEL00031,Seller 31,First-Party,Italy,Bologna,4.42,0.09,2023-11-02,Plus
+SEL00032,Seller 32,Marketplace,Italy,Milan,4.45,8.31,2024-11-09,PLUS
+SEL00033,Seller 33, Dropship,Germany,Frankfurt,4.25,7.19,2018-03-02,Standard
+SEL00034,seller 34,First-Party,Netherlands,The Hague,4.28,0.58,2020-11-15,Plus
+SEL00035,Seller 35,Marketplace,Germany,Berlin,3.83,15.33,2017-10-29,Standard
+SEL00036,Seller 36,First-Party,Netherlands,Eindhoven,4.27,1.71,2019-06-20,Plus
+SEL00037,Seller 37,First-Party,GERMANY,Munich,3.93,1.26,2019-10-07,Standard
+SEL00038,Seller 38,FIRST-PARTY,Netherlands,Utrecht,3.99,1.36,2020-06-26,Standard
+SEL00039,Seller 39,Marketplace,Germany,Cologne,3.9,17.34,2020-01-28,Plus
+SEL00040,Seller 40,Marketplace,Germany,Cologne,4.88,7.16,2023-12-22,Standard
+SEL00041,Seller 41,Marketplace,italy,Milan,3.98,16.67,2017-02-14,Plus
+SEL00042,Seller 42,Marketplace,NETHERLANDS,Utrecht,5.0,12.16,2019-12-15,Standard
+SEL00043,Seller 43,Marketplace ,Netherlands,The Hague,3.89,16.2,2024-08-11,Premium
+SEL00044,Seller 44,marketplace,Italy,Milan,4.42,16.41,2017-10-21,Standard
+SEL00045,Seller 45,Marketplace,République française,LYON,4.56,14.03,2024-11-26,Standard
+SEL00046,Seller 46,Marketplace,IT,Bologna,4.05,10.52,2022-07-07,Plus
+SEL00047,SELLER 47,Marketplace, Germany,MUNICH,3.65,6.73,2017-09-06,standard
+SEL00048,Seller 48,Marketplace,IT,TURIN,4.08,15.34,2021-08-28,Standard
+SEL00049,seller 49,First-Party,NL,Utrecht,3.95,1.51,2023-09-10,STANDARD
+SEL00050,Seller 50,Marketplace,Netherlands,Amsterdam,4.34,17.73,2023-11-29,Plus
+SEL00051,Seller 51,Marketplace,Italy,Naples,4.47,8.62,2020-07-30,Plus
+SEL00052,Seller 52,Marketplace,Italy,Bologna,4.65,11.18,2020-02-20,standard
+SEL00053,Seller 53 ,Marketplace,France,Marseille,4.36,14.73,2019-12-30,Standard
+SEL00054,Seller 54,Marketplace,France, Marseille,4.66,12.62,2021-05-29,standard
+SEL00055,Seller 55,Marketplace,Germany,Hamburg,4.76,9.63,2024-02-19,Plus
+SEL00056,Seller 56,First-Party,France,toulouse,4.43,1.44,2023-02-04,Standard
+SEL00057,Seller 57, Marketplace,Germany,Hamburg,4.69,13.23,2023-05-16,Plus
+SEL00058,Seller 58,Marketplace,Netherlands,Eindhoven,4.46,10.57,2023-12-10,Premium 
+SEL00059,SELLER 59,First-Party,Spain,MADRID,3.94,1.78,2023-02-04,Standard
+SEL00060,Seller 60,Marketplace,Netherlands,The Hague,4.4,9.43,2019-06-04,Standard
+SEL00061,Seller 61,marketplace,Germany,FRANKFURT,4.38,10.0,2023-07-25,Standard
+SEL00062,Seller 62,Marketplace,France,Toulouse,3.5,8.51,2022-11-09,Premium
+SEL00063,Seller 63,Dropship,Italy,Rome,4.6,6.63,2017-12-09,Plus
+SEL00064,Seller 64,First-Party, Italy,Rome,5.0,1.72,2018-04-18,Standard
+SEL00065,Seller 65,Marketplace,Spain,valencia,4.12,7.78,2019-05-05,Plus
+SEL00066,seller 66,Marketplace,SPAIN,Barcelona,3.96,15.64,2021-07-20,standard
+SEL00067,Seller 67,Marketplace ,Italy,milan,3.61,11.55,2021-08-08,STANDARD
+SEL00068,SELLER 68,Marketplace,Spain,Madrid,5.0,11.61,2017-09-30,Plus
+SEL00069,Seller 69,Marketplace,Spain,Valencia,3.88,13.13,2023-08-26,Standard
+SEL00070,Seller 70,Marketplace,Netherlands,Amsterdam,4.22,14.83,2024-12-16,Standard
+SEL00071,Seller 71,Marketplace,République française,nice,5.0,16.74,2023-04-26,Standard
+SEL00072,Seller 72,First-Party,Italy ,Rome,4.51,1.74,2022-09-26,standard
+SEL00073,Seller 73,Marketplace,FR,lyon,4.19,9.97,2022-06-30,STANDARD
+SEL00074,Seller 74,Marketplace,IT, Bologna,4.02,13.25,2017-04-15,Premium 
+SEL00075,seller 75,Marketplace,Netherlands,AMSTERDAM,4.1,8.92,2021-05-20,Plus
+SEL00076,Seller 76, Marketplace,France,Nice,4.15,17.75,2024-04-07,Plus
+SEL00077,Seller 77, Dropship,France,Marseille,4.49,15.55,2023-09-17,standard
+SEL00078,Seller 78 ,first-party,SPAIN,Madrid,4.33,1.23,2022-05-02,Premium
+SEL00079,Seller 79,Dropship,Netherlands,The Hague,4.53,14.83,2020-08-25,Standard
+SEL00080,SELLER 80,Marketplace,Netherlands,THE HAGUE,4.21,9.7,2017-01-10,Plus
+SEL00081,Seller 81, Marketplace,Spain ,Seville,4.25,8.12,2020-11-30,Standard
+SEL00082,Seller 82,Marketplace,France,Paris,3.62,14.65,2021-07-04,Standard
+SEL00083,Seller 83 ,First-Party, Germany,Hamburg,4.34,0.2,2019-12-31,Standard
+SEL00084, Seller 84,dropship,Netherlands,Utrecht,4.38,13.45,2023-08-10,premium
+SEL00085,Seller 85,MARKETPLACE,DE,Munich,4.12,11.86,2017-07-26,Plus
+SEL00086,Seller 86,Marketplace,Netherlands,Utrecht,4.61,14.86,2023-04-10,Standard
+SEL00087,Seller 87,First-Party,Germany,Frankfurt,4.36,0.9,2024-09-21,plus
+SEL00088,Seller 88,Marketplace,France,Lyon ,3.96,15.07,2017-02-20,standard
+SEL00089,Seller 89, Marketplace,SPAIN,Valencia,4.69,11.41,2017-04-23,Standard
+SEL00090,Seller 90,Marketplace ,Netherlands,Amsterdam,5.0,12.14,2020-09-29,Standard 
+SEL00091,Seller 91,Marketplace,Italy,Bologna,4.32,14.66,2020-05-25, Standard
+SEL00092,Seller 92,Marketplace,Netherlands,The Hague,4.24,8.34,2023-07-18,STANDARD
+SEL00093,Seller 93,First-Party, Netherlands,Rotterdam,3.92,0.94,2019-08-05,Plus
+SEL00094,Seller 94,MARKETPLACE,Germany,Frankfurt,4.25,13.88,2020-02-24,Standard
+SEL00095,SELLER 95,First-Party,Spain,Bilbao,4.52,1.08,2020-04-08,Standard
+SEL00096,Seller 96,MARKETPLACE,Germany,Hamburg,4.29,14.09,2017-10-23,plus
+SEL00097,SELLER 97,FIRST-PARTY,France,Lyon,4.91,0.07,2023-08-20, Premium
+SEL00098,seller 98,Marketplace,Germany,Hamburg,4.66,6.71,2024-06-21,Plus
+SEL00099,Seller 99,Marketplace,germany,Cologne,4.39,6.57,2019-08-03,standard
+SEL00100,Seller 100, Marketplace,spain,Barcelona,3.99,8.05,2019-03-12,Standard 
+SEL00101,seller 101,Marketplace,Italy,Naples,3.61,13.67,2017-11-03,Standard
+SEL00102,Seller 102,Marketplace,IT,MILAN,4.42,16.26,2018-09-22,Standard
+SEL00103,Seller 103,Marketplace,France,nice,4.06,15.51,2020-06-03,Premium
+SEL00104,SELLER 104,Marketplace,Netherlands,Utrecht,4.21,11.54,2020-07-10,Standard
+SEL00105,Seller 105,Marketplace,DE,Cologne,4.5,8.92,2017-01-28,Standard
+SEL00106,Seller 106,Marketplace,Italy,Turin,3.81,16.96,2024-04-24,Standard
+SEL00107,Seller 107,Marketplace,Netherlands,Eindhoven,4.15,15.97,2021-05-30,Standard
+SEL00108,Seller 108,Marketplace,NL,Amsterdam,4.26,6.14,2017-10-13,Plus
+SEL00109, Seller 109,Marketplace,Germany,Berlin,4.45,14.68,2018-10-09,Plus
+SEL00110,Seller 110,Marketplace,GERMANY,FRANKFURT,4.16,8.74,2020-08-24,Plus
+SEL00111,Seller 111,Marketplace,Germany,Berlin,4.5,7.54,2020-04-09,Standard
+SEL00112, Seller 112,First-Party,Germany,Berlin,4.9,1.0,2021-04-19,Standard
+SEL00113,Seller 113,FIRST-PARTY,ITALY,Bologna,4.44,1.09,2022-03-23,standard
+SEL00114,Seller 114,Marketplace,Germany,Cologne,4.63,11.8,2019-08-01,Premium
+SEL00115,Seller 115,Marketplace,Italy,Milan,4.41,15.68,2018-12-27, Standard
+SEL00116,Seller 116,Marketplace,Italy,Rome,4.28,15.15,2024-04-20,STANDARD
+SEL00117,SELLER 117,First-Party,Germany,Hamburg,3.88,1.74,2019-08-07,Premium 
+SEL00118, Seller 118,Marketplace,Italy,Bologna,3.97,12.59,2021-09-20,Standard
+SEL00119,Seller 119,Marketplace,Spain,barcelona,4.01,10.88,2018-06-02,plus
+SEL00120,seller 120,Marketplace,ITALY,Turin,4.33,7.77,2020-12-04,Standard
+SEL00121, Seller 121,Marketplace,Netherlands,Eindhoven ,4.22,15.83,2021-01-28,Plus
+SEL00122,Seller 122,Marketplace,France,Marseille,4.0,17.14,2024-05-04,PREMIUM
+SEL00123,Seller 123,Marketplace,Spain,Seville,4.72,6.65,2020-07-30,Premium 
+SEL00124,SELLER 124,FIRST-PARTY, Italy,Milan,4.63,1.39,2019-11-19,Standard
+SEL00125, Seller 125,DROPSHIP,Italy,Naples,3.5,13.16,2019-03-12,Standard
+SEL00126,Seller 126,Marketplace,Germany,Frankfurt,4.05,13.03,2023-08-27,Standard
+SEL00127,Seller 127,FIRST-PARTY,ES ,Madrid,4.71,0.27,2022-08-20,Standard
+SEL00128,seller 128,Marketplace,Italy,Rome,3.75,11.92,2018-04-04,STANDARD
+SEL00129,Seller 129,First-Party,italy,Naples,3.85,0.26,2019-03-09,Plus
+SEL00130,Seller 130,FIRST-PARTY,Italy,Milan,5.0,1.97,2018-10-26,Plus
+SEL00131,Seller 131,Marketplace,netherlands,Utrecht,3.93,6.41,2023-09-05,Plus
+SEL00132,Seller 132,Marketplace,France,LYON,4.59,17.95,2023-05-20,PLUS
+SEL00133,Seller 133,Marketplace,France,Lyon,4.41,7.44,2019-06-17,Standard
+SEL00134, Seller 134,Marketplace, Spain,Madrid,3.94,12.46,2017-10-07,Standard
+SEL00135,Seller 135,MARKETPLACE,FR,Toulouse,4.37,6.18,2022-06-20,Standard 
+SEL00136,Seller 136,Marketplace,Germany,Frankfurt,4.03,11.19,2017-02-18,Premium 
+SEL00137,SELLER 137,Marketplace,Spain,Valencia,4.34,14.97,2017-04-05,Standard
+SEL00138,Seller 138,First-Party,Spain,Madrid,4.25,1.03,2024-04-10,Premium
+SEL00139,seller 139,Marketplace,Holland,Rotterdam,4.65,9.76,2021-10-06,Standard
+SEL00140,Seller 140,marketplace,Italy,Bologna,4.31,13.21,2017-05-06,STANDARD
+SEL00141,Seller 141,DROPSHIP,es,barcelona,4.35,6.12,2019-08-26,Plus
+SEL00142,Seller 142 ,Dropship,Germany,Hamburg,4.18,8.5,2020-03-13,Standard
+SEL00143,Seller 143,MARKETPLACE,Italy,BOLOGNA,4.47,16.9,2021-08-15,plus
+SEL00144,Seller 144 ,Marketplace , France,Marseille,3.66,7.79,2018-03-28,STANDARD
+SEL00145,Seller 145,FIRST-PARTY,Netherlands,Amsterdam,3.51,0.35,2019-05-11,Plus
+SEL00146,Seller 146,Marketplace,Netherlands,Utrecht ,4.08,10.18,2021-04-12,Standard
+SEL00147,Seller 147 ,Marketplace,France,NICE,4.71,15.62,2018-01-20,Standard
+SEL00148,Seller 148,First-Party,germany,Munich,4.77,0.14,2020-04-16,Premium
+SEL00149,Seller 149,Marketplace,Germany,Berlin,4.16,14.4,2024-01-20,STANDARD
+SEL00150,Seller 150, Marketplace,Deutschland,Munich,4.21,6.45,2020-09-11,STANDARD
+SEL00151,seller 151,Dropship,Italy,Rome,4.32,10.11,2024-08-07,Plus
+SEL00152,Seller 152,Marketplace,FR,PARIS,3.99,6.39,2021-02-11,plus
+SEL00153,Seller 153,Dropship,République française,Nice,4.3,12.41,2021-05-21,Plus
+SEL00154,Seller 154,Marketplace,Germany ,frankfurt,4.81,12.89,2018-02-24,Standard
+SEL00155,Seller 155,MARKETPLACE,italy,Turin,4.11,10.99,2018-10-23,Premium
+SEL00156,seller 156,Marketplace,ES,Barcelona,4.1,14.49,2024-07-30,Standard
+SEL00157,Seller 157,Marketplace,Italy,Naples,4.35,14.95,2024-11-14,Standard
+SEL00158,seller 158,First-Party,Germany,BERLIN,4.38,1.79,2018-06-24,standard
+SEL00159,Seller 159, Marketplace, France,nice,4.36,11.88,2017-07-25,Standard
+SEL00160,Seller 160,MARKETPLACE,Netherlands,eindhoven,4.05,16.81,2018-05-28,Standard
+SEL00161,Seller 161,marketplace,Italy,Milan,4.32,6.67,2019-02-05,Standard
+SEL00162,Seller 162,First-Party,Italy,Turin,4.84,1.81,2021-09-02,Plus
+SEL00163,Seller 163,Marketplace,Germany,Frankfurt ,4.39,10.79,2017-09-04,Standard
+SEL00164,Seller 164,Dropship,Deutschland,Hamburg,4.73,16.21,2019-02-11,Standard
+SEL00165,Seller 165,Marketplace,FRANCE,Toulouse,4.13,15.85,2021-10-30,Standard
+SEL00166,SELLER 166,First-Party,France,Lyon,3.92,1.19,2018-08-12,Standard
+SEL00167,Seller 167,Marketplace,SPAIN,Bilbao,3.97,6.43,2021-08-22,Standard
+SEL00168,seller 168,Dropship,Spain,Seville,4.25,14.84,2024-05-05,Plus
+SEL00169,Seller 169,Marketplace,Spain,Seville,3.85,8.33,2019-12-13,Standard 
+SEL00170,Seller 170,Marketplace,France ,Lyon,4.0,14.66,2021-11-16,Plus
+SEL00171,Seller 171,Marketplace,Spain,Barcelona,3.59,9.1,2024-02-15,Standard
+SEL00172,Seller 172,Marketplace,Spain,Seville,3.61,16.5,2024-12-08,Standard
+SEL00173,seller 173,Marketplace,SPAIN, Bilbao,4.13,16.33,2021-12-06, Plus
+SEL00174,Seller 174,MARKETPLACE,Spain,barcelona,4.65,6.62,2022-03-06,Standard
+SEL00175,Seller 175,Dropship,Netherlands ,The Hague,4.16,15.77,2020-09-03,Plus
+SEL00176,Seller 176,Marketplace,spain,Valencia,3.82,6.2,2020-01-16,Standard
+SEL00177,Seller 177,Marketplace,ES,Bilbao,4.08,12.77,2021-12-12,PLUS
+SEL00178,Seller 178,Dropship,Italy,Rome,3.63,7.71,2022-10-02,PLUS
+SEL00179,Seller 179 ,Marketplace,IT,Naples,4.13,8.67,2024-10-24,STANDARD
+SEL00180,Seller 180,FIRST-PARTY,ITALY,Bologna,4.72,1.96,2018-03-19,Standard
+SEL00181,Seller 181 ,Marketplace,DE,Hamburg,4.36,8.45,2017-08-03,Standard 
+SEL00182,Seller 182,First-Party,FR,Toulouse,4.87,1.05,2022-09-10,Premium
+SEL00183,Seller 183 ,First-Party,France,Marseille,4.25,1.71,2018-10-25,Premium
+SEL00184,Seller 184,FIRST-PARTY,Netherlands,The Hague,3.56,1.9,2021-04-06,Standard
+SEL00185,Seller 185,Marketplace,GERMANY,Cologne,3.86,15.61,2024-12-04,standard
+SEL00186,seller 186,Marketplace,Germany,Frankfurt,4.4,6.95,2021-05-31,Plus
+SEL00187,Seller 187,First-Party,Netherlands,Amsterdam,3.84,0.17,2024-11-25,STANDARD
+SEL00188,Seller 188,Marketplace,Spain,barcelona,3.99,10.38,2020-12-12,Standard 
+SEL00189,Seller 189,First-Party,Germany,Berlin ,4.76,0.23,2023-11-24,Standard
+SEL00190,SELLER 190,Marketplace,SPAIN,Valencia,3.56,11.75,2023-02-18,Premium
+SEL00191,Seller 191,marketplace,Germany,Berlin,4.3,6.03,2022-05-14,Standard 
+SEL00192,Seller 192,First-Party,Italy,Milan,4.18,1.02,2023-04-23,Plus
+SEL00193,Seller 193,Marketplace,NL,Rotterdam,5.0,6.13,2022-12-04,Plus
+SEL00194,Seller 194,Marketplace,IT,NAPLES,4.41,17.32,2018-06-07,Standard
+SEL00195,Seller 195,First-Party,France,Nice,4.34,1.0,2021-01-28,Standard
+SEL00196,Seller 196 ,MARKETPLACE,Italy,Bologna,4.33,13.42,2017-05-05,Standard
+SEL00197,Seller 197,Marketplace,Italy,Turin,5.0,7.0,2020-11-07,PLUS
+SEL00198,Seller 198,Marketplace,Spain,Bilbao ,4.84,14.3,2019-11-26,Plus
+SEL00199,Seller 199,First-Party,Italy ,BOLOGNA,4.25,1.02,2023-03-25,Premium
+SEL00200,Seller 200 ,Marketplace,Germany,Cologne,4.73,12.53,2019-09-19,Premium
+SEL00201,Seller 201,Dropship,Spain,Valencia,4.12,9.39,2021-07-03,Standard
+SEL00202,Seller 202,Marketplace,Germany ,Hamburg,4.01,7.76,2023-06-05,Plus
+SEL00203,SELLER 203,MARKETPLACE, DE,Munich,4.9,15.92,2020-02-17,Standard
+SEL00204,SELLER 204,Marketplace,Netherlands,Utrecht,3.89,10.47,2023-05-28,Standard
+SEL00205,Seller 205,Marketplace,netherlands,The Hague,3.89,13.49,2021-10-13,Standard
+SEL00206,Seller 206,FIRST-PARTY,Germany,Frankfurt,4.47,1.2,2024-10-24,Plus
+SEL00207,Seller 207,First-Party,IT ,Turin,4.31,1.26,2024-10-25,STANDARD
+SEL00208,Seller 208, Marketplace,ES,Bilbao,4.62,9.55,2018-05-15,Standard
+SEL00209,Seller 209,Marketplace,FRANCE,Marseille,4.12,8.77,2022-09-03,Standard
+SEL00210,Seller 210,Marketplace,España,bilbao,4.33,6.88,2021-02-15,Standard
+SEL00211,seller 211,Marketplace,IT,Turin,4.06,16.01,2021-08-28,Premium
+SEL00212,Seller 212,Dropship,ITALY,Turin,4.94,12.26,2024-11-13,Premium
+SEL00213,Seller 213 ,Marketplace,NL,Utrecht,4.86,7.46,2022-12-19,Plus
+SEL00214,Seller 214,Marketplace,Germany,Cologne,5.0,11.29,2023-02-25,Plus
+SEL00215,SELLER 215,Marketplace,IT,Milan,4.24,12.23,2019-03-31,Plus
+SEL00216,Seller 216,marketplace,spain,Valencia,4.31,11.23,2019-10-23,Plus 
+SEL00217,Seller 217,Marketplace,ES,seville,4.04,14.71,2023-11-24, Standard
+SEL00218,Seller 218,Marketplace,France ,Marseille ,4.63,12.8,2021-09-16,Standard
+SEL00219,Seller 219,Dropship,France , Paris,4.78,11.1,2023-05-09,Premium 
+SEL00220,Seller 220,Marketplace ,France,Marseille,4.32,17.1,2020-03-09,PREMIUM
+SEL00221,Seller 221,First-Party,IT,Naples,3.88,1.21,2018-05-24,Premium
+SEL00222,Seller 222,Marketplace,Germany,Berlin,3.68,17.87,2023-01-07,Standard
+SEL00223,Seller 223,Marketplace,Italy,Rome,4.53,6.85,2019-05-06,Standard
+SEL00224,Seller 224,Marketplace,Netherlands,Rotterdam,4.93,14.76,2021-03-13,Standard
+SEL00225,Seller 225,Marketplace,Spain,Bilbao,4.02,13.45,2019-07-10,PLUS
+SEL00226,Seller 226,Marketplace,NL,Utrecht,4.37,9.96,2024-08-24,Standard
+SEL00227,seller 227,Marketplace,NETHERLANDS,Eindhoven,4.14,10.38,2019-10-30,standard
+SEL00228,Seller 228,Marketplace ,Germany,Hamburg,4.5,9.34,2022-11-08,Standard
+SEL00229,Seller 229 ,Marketplace ,nl,Rotterdam,3.82,14.41,2023-04-07,Standard
+SEL00230,Seller 230,Marketplace,Italy,Rome,4.5,17.88,2023-10-26,Standard
+SEL00231,Seller 231 ,MARKETPLACE,Netherlands ,EINDHOVEN,4.17,16.92,2018-09-26,Standard
+SEL00232,Seller 232,Marketplace,ES,Madrid ,4.68,16.21,2021-03-26,Plus
+SEL00233,Seller 233,Marketplace,France,lyon,4.52,8.21,2022-05-25,Premium
+SEL00234,Seller 234,Marketplace,germany,Hamburg,4.48,16.3,2019-06-27,Premium
+SEL00235,SELLER 235,Marketplace,France,Nice,4.25,9.95,2022-09-04,Plus
+SEL00236,Seller 236,Marketplace,Netherlands,Eindhoven,3.98,11.02,2018-08-07,Standard
+SEL00237,seller 237,Marketplace,Netherlands,Amsterdam,4.54,8.8,2024-01-21,Standard
+SEL00238,Seller 238,Marketplace,ITALY,Bologna,4.42,6.89,2019-07-26,Standard
+SEL00239,Seller 239,Dropship,Germany,berlin,3.48,7.81,2021-09-20, Premium
+SEL00240,Seller 240,Marketplace,Italy,Turin,4.05,16.03,2020-09-19,Plus
+SEL00241,Seller 241,marketplace,Italia,rome,4.07,12.68,2021-01-24,Standard
+SEL00242,Seller 242,Dropship,Italy,naples,4.35,6.61,2019-03-04,Standard
+SEL00243,Seller 243,First-Party,Germany,Berlin,3.65,1.13,2022-10-18,Standard
+SEL00244,Seller 244,Marketplace,Germany,Berlin ,4.26,12.25,2022-12-14,Standard
+SEL00245,Seller 245,First-Party,Germany,Cologne ,4.43,1.13,2022-05-26,Standard
+SEL00246,Seller 246,First-Party,France,Nice,4.08,1.38,2020-08-30,Standard
+SEL00247,SELLER 247,MARKETPLACE,Netherlands,the hague,4.05,15.43,2017-10-15,Standard
+SEL00248,Seller 248,Marketplace,IT ,Milan,3.47,14.72,2022-01-13,Premium
+SEL00249,Seller 249,Marketplace,NL,Rotterdam,3.98,9.29,2018-08-01,Plus
+SEL00250,Seller 250 ,Dropship,netherlands,Utrecht,4.21,6.56,2018-07-19,PLUS
+SEL00251,Seller 251,First-Party,Italy,Bologna,4.61,0.54,2020-07-01,Standard
+SEL00252,Seller 252,Marketplace,Netherlands,Amsterdam,4.14,6.23,2024-04-03,Standard
+SEL00253,Seller 253,Dropship,Germany,Hamburg,3.83,17.86,2018-01-20, Premium
+SEL00254,Seller 254,Marketplace,SPAIN,Madrid,4.07,15.25,2019-04-10, Premium
+SEL00255,Seller 255,First-Party,netherlands,Eindhoven ,3.69,0.29,2021-01-12,Standard
+SEL00256,Seller 256,Marketplace,Spain,Valencia,3.95,13.93,2019-05-30,Premium
+SEL00257,Seller 257,Marketplace,ES,Madrid,4.51,14.75,2017-07-08,Standard
+SEL00258,Seller 258,Marketplace,Netherlands,Rotterdam,4.68,10.04,2018-09-24,Standard
+SEL00259,Seller 259,Marketplace,Italy,Turin,4.24,7.87,2022-10-18,Standard
+SEL00260,Seller 260 ,Marketplace,NETHERLANDS,Rotterdam,4.47,17.5,2021-03-12,Plus
+SEL00261,Seller 261,First-Party,GERMANY,Hamburg,4.12,1.03,2022-06-12,Premium
+SEL00262,Seller 262,Marketplace,Spain,Barcelona,3.93,14.41,2023-05-15,Standard
+SEL00263,Seller 263,Marketplace,netherlands,THE HAGUE,4.02,7.81,2018-11-12,Standard
+SEL00264,Seller 264,Marketplace,Germany,Frankfurt,4.0,16.05,2019-03-31,Standard
+SEL00265,Seller 265,MARKETPLACE, Germany,Berlin,4.22,13.45,2021-05-21,STANDARD
+SEL00266,seller 266,MARKETPLACE,Spain,Madrid,4.79,8.58,2018-01-20,Standard
+SEL00267,Seller 267,First-Party,GERMANY,Cologne,3.96,0.68,2023-06-02,Standard
+SEL00268,SELLER 268,First-Party,Germany,Frankfurt,4.31,1.94,2022-11-16,standard
+SEL00269,SELLER 269,Marketplace,Netherlands,Rotterdam,4.77,6.65,2023-11-19,Standard
+SEL00270,seller 270,MARKETPLACE,Italy,Turin,4.77,11.83,2017-07-23,plus
+SEL00271,Seller 271,First-Party,FR,Toulouse,4.78,0.59,2024-07-24,Plus
+SEL00272,Seller 272,Marketplace,Italy,Bologna ,4.08,6.25,2022-12-02,Plus
+SEL00273,Seller 273,DROPSHIP,Italy,Milan,4.25,17.17,2020-06-28,plus
+SEL00274,Seller 274 ,First-Party,Italy,NAPLES,4.13,0.78,2023-09-14,Standard
+SEL00275,seller 275,First-Party,Germany,Hamburg,4.19,1.85,2021-07-17,Standard
+SEL00276,seller 276,Marketplace,Germany ,HAMBURG,4.15,12.43,2017-10-27,Standard
+SEL00277,Seller 277,marketplace,NL,Eindhoven,4.97,6.96,2019-11-26,Standard
+SEL00278,Seller 278,Marketplace,france,Paris,4.22,8.4,2024-04-15,Plus
+SEL00279,Seller 279,First-Party,Germany,Hamburg,4.04,1.01,2017-08-24,Standard
+SEL00280,Seller 280,Marketplace,France,Marseille,4.34,6.47,2019-07-16,Premium
+SEL00281,Seller 281,Marketplace,IT,BOLOGNA,4.53,11.64,2018-11-11,Standard
+SEL00282,Seller 282,First-Party ,Netherlands,Amsterdam,3.8,1.76,2024-07-30,Standard
+SEL00283,Seller 283,Marketplace,Holland,Eindhoven,3.96,13.46,2019-06-19,Plus
+SEL00284,SELLER 284,Marketplace,Germany,Frankfurt,4.64,13.94,2021-01-21,Standard
+SEL00285,Seller 285,Marketplace,Italy,naples,5.0,7.44,2020-12-21,Standard 
+SEL00286,Seller 286,First-Party,Italy,Milan,4.45,1.03,2022-08-29,Premium
+SEL00287,SELLER 287,Marketplace,Spain,Seville,3.93,15.67,2018-08-23, Standard
+SEL00288,SELLER 288,Marketplace,Germany,Cologne,4.33,14.33,2023-11-08,Plus
+SEL00289,Seller 289,Dropship,SPAIN,VALENCIA,4.9,9.61,2022-10-20,STANDARD
+SEL00290,Seller 290,Marketplace,Netherlands,Utrecht,4.43,9.48,2017-02-14,Standard
+SEL00291,seller 291,Marketplace,ITALIA,Milan,4.07,9.57,2024-02-29,Standard
+SEL00292,Seller 292,Marketplace,Spain ,Bilbao ,4.04,13.88,2018-01-10,Standard
+SEL00293,Seller 293,Marketplace,Italy,Naples,3.54,8.81,2021-04-22,Standard
+SEL00294,Seller 294 ,Marketplace,Spain,madrid,4.02,6.35,2018-05-09,Standard
+SEL00295,Seller 295,First-Party,Germany,Munich,4.26,1.4,2021-03-30,Plus
+SEL00296,Seller 296,Marketplace,Italia ,Milan,4.59,14.5,2023-04-03,Standard
+SEL00297,Seller 297,Dropship,Germany,Frankfurt,4.61,7.2,2020-11-24, Standard
+SEL00298,Seller 298,Marketplace ,netherlands,Rotterdam,3.96,15.41,2021-09-27,PREMIUM
+SEL00299,Seller 299,Marketplace,Netherlands,Eindhoven,4.07,7.58,2017-10-09,PLUS
+SEL00300,Seller 300,Marketplace,Germany,Hamburg,4.57,12.16,2018-09-13,Standard
+SEL00301,Seller 301,Marketplace, France,PARIS,4.12,15.32,2017-01-13,Plus
+SEL00302,SELLER 302,Marketplace,DE,Munich,4.34,15.14,2017-05-19,Standard
+SEL00303, Seller 303,Marketplace,Spain,Valencia,4.72,12.25,2017-04-19,Plus
+SEL00304,SELLER 304,FIRST-PARTY,ITALIA,Naples,3.98,0.74,2019-11-03,Standard
+SEL00305,Seller 305,First-Party,Italy,Rome,4.68,0.5,2022-12-14,Standard
+SEL00306,Seller 306,Marketplace ,Italy,turin,4.35,8.16,2020-01-23,Standard
+SEL00307,Seller 307,Dropship,Italy,Turin,4.12,17.24,2024-10-03,Plus
+SEL00308,Seller 308,Marketplace,Netherlands,The Hague,4.46,10.37,2023-12-31,Standard
+SEL00309,Seller 309,First-Party,Italy,Bologna,4.52,0.43,2017-10-20,Plus
+SEL00310,Seller 310,Marketplace,fr,Marseille,3.34,9.94,2021-03-24,Standard
+SEL00311,Seller 311,Marketplace,Italy,Turin,4.93,8.8,2023-08-19,STANDARD
+SEL00312,Seller 312,First-Party,spain,Seville,4.71,0.3,2022-04-05,Premium
+SEL00313,Seller 313,First-Party ,Deutschland,Berlin,4.73,0.39,2022-07-17,Standard
+SEL00314,Seller 314,Marketplace,Germany,Berlin,4.4,14.36,2020-08-15,plus
+SEL00315,Seller 315,First-Party,Italy,Milan,4.59,0.74,2021-09-09,Plus
+SEL00316,Seller 316 ,MARKETPLACE, France,Nice,4.55,7.81,2022-09-20, Plus
+SEL00317,Seller 317,Marketplace,Germany,Hamburg,4.8,9.54,2023-08-07,Standard
+SEL00318,Seller 318,Marketplace,France,Toulouse,3.66,11.93,2022-08-23,Standard
+SEL00319,Seller 319,Marketplace,italy,Milan,3.49,8.22,2019-07-08,STANDARD
+SEL00320,Seller 320,First-Party,ES,Seville,4.36,0.27,2019-08-19,Standard
+SEL00321,Seller 321,Marketplace,Netherlands ,Eindhoven,3.55,16.56,2021-01-25,STANDARD
+SEL00322,Seller 322,First-Party,Italy,Rome,4.06,0.74,2018-04-22,plus
+SEL00323,Seller 323,Marketplace,IT,Rome,4.12,17.92,2017-08-27,Standard
+SEL00324,Seller 324,FIRST-PARTY,Spain,Barcelona,4.27,0.07,2019-08-07,Plus
+SEL00325,Seller 325,Marketplace,Germany,Cologne,3.68,7.97,2023-07-17,Standard
+SEL00326,Seller 326,First-Party,France,Nice,4.56,1.45,2023-07-02,Plus
+SEL00327,Seller 327,Marketplace,NETHERLANDS,Amsterdam,4.73,8.36,2019-11-21,Plus
+SEL00328,Seller 328,marketplace,Italy,Milan,4.31,7.47,2018-03-07,Standard
+SEL00329,Seller 329,Marketplace,ES ,Madrid,4.82,11.26,2024-11-18, Standard
+SEL00330,Seller 330 ,Marketplace,France,marseille,3.54,15.87,2019-08-14,Standard
+SEL00331,Seller 331,Marketplace,Italia,Turin,3.97,7.56,2020-02-03,Standard 
+SEL00332,Seller 332,Dropship,Netherlands,The Hague,3.64,7.52,2017-02-18, Standard
+SEL00333,Seller 333,Marketplace,Spain,Barcelona,4.19,7.24,2018-11-28,Standard 
+SEL00334,Seller 334,Dropship,es,Barcelona,4.52,15.29,2017-05-05,Standard
+SEL00335,Seller 335,Marketplace,italy,Naples,3.43,12.75,2019-11-14,Standard 
+SEL00336,Seller 336, Dropship,Italy,Naples,4.11,16.43,2018-05-13,Plus
+SEL00337, Seller 337,Marketplace,ITALY,Bologna,3.77,13.0,2022-07-05,Plus 
+SEL00338,SELLER 338,Marketplace,Spain,Seville,4.42,7.66,2017-12-15,plus
+SEL00339,seller 339,Dropship,Spain,Seville,4.4,11.64,2024-04-22,PLUS
+SEL00340,SELLER 340,First-Party,Spain,Madrid ,4.09,0.28,2023-07-22,Standard
+SEL00341,Seller 341,Dropship,Germany,Munich,4.3,12.66,2017-12-09,Plus
+SEL00342,Seller 342,Marketplace,République française,Toulouse,4.41,11.3,2020-11-02,Standard
+SEL00343,SELLER 343,First-Party,NL,Eindhoven,3.88,1.15,2022-06-02,Standard
+SEL00344,seller 344,marketplace,Netherlands,Utrecht ,3.91,11.22,2022-03-09,Standard
+SEL00345,Seller 345,Dropship,France,Toulouse,3.9,16.54,2018-09-27,Standard
+SEL00346,Seller 346 ,Marketplace,France,Paris,4.17,15.59,2020-05-27,Standard
+SEL00347,Seller 347 ,Marketplace,Netherlands,Utrecht,4.2,15.14,2023-12-30,Premium
+SEL00348,Seller 348,marketplace,france,Nice,4.4,16.82,2024-07-02,Standard
+SEL00349,seller 349,Dropship,Spain,Seville,4.19,13.7,2021-05-04,premium
+SEL00350,Seller 350,Dropship ,Germany,Munich,4.79,11.77,2019-01-08,Standard
+SEL00351,seller 351,First-Party,Spain,barcelona,5.0,0.61,2021-05-17,Standard
+SEL00352,seller 352,Marketplace,France,Toulouse,4.06,14.99,2019-03-05,Standard
+SEL00353,seller 353,Marketplace,Netherlands,Amsterdam,4.44,7.61,2022-12-17,Plus
+SEL00354,Seller 354 ,Marketplace,SPAIN,Bilbao,4.61,12.76,2017-02-13,Plus
+SEL00355,Seller 355 ,Marketplace,France,Marseille,4.07,15.33,2018-09-24,Standard
+SEL00356,Seller 356,Marketplace,Italy,Turin,4.51,9.39,2017-04-15,Standard
+SEL00357,Seller 357,MARKETPLACE,FR,Marseille,4.44,7.12,2023-05-29,Plus
+SEL00358, Seller 358,Marketplace ,ITALY,Naples,3.97,7.93,2019-02-19,Premium
+SEL00359,Seller 359 ,First-Party,ITALIA,NAPLES,4.92,0.67,2017-02-27,Plus
+SEL00360,Seller 360,MARKETPLACE,SPAIN,Seville,4.57,14.95,2020-10-14,Standard
+SEL00361,Seller 361,first-party,Netherlands,Rotterdam,4.67,1.28,2020-03-31,Standard
+SEL00362,Seller 362,marketplace,Germany,Berlin,4.23,9.51,2022-06-08,Standard
+SEL00363,Seller 363,Marketplace,Holland,utrecht,4.39,9.42,2020-11-01,Standard
+SEL00364,Seller 364,Marketplace,NETHERLANDS,Eindhoven,4.5,10.48,2024-11-27,standard
+SEL00365,seller 365,Marketplace,France,Lyon ,4.79,7.35,2018-08-01,Standard
+SEL00366,Seller 366,Marketplace,Germany,Frankfurt,3.89,6.48,2021-02-26,Plus
+SEL00367,Seller 367,first-party,NETHERLANDS,The Hague,4.47,0.57,2018-12-16,Plus
+SEL00368,Seller 368,Marketplace,Netherlands,EINDHOVEN,4.52,8.7,2017-01-13,Standard
+SEL00369,Seller 369,Marketplace,SPAIN,Valencia,4.28,12.22,2017-02-20,Standard
+SEL00370,Seller 370,First-Party ,France,lyon,4.34,1.62,2019-08-03,Standard
+SEL00371,Seller 371,marketplace,Netherlands,Amsterdam,4.47,13.1,2024-08-16,STANDARD
+SEL00372,Seller 372,Marketplace,Netherlands,ROTTERDAM,3.92,14.8,2017-08-09,Standard
+SEL00373,Seller 373,Dropship,Germany, Hamburg,4.55,15.94,2017-03-04,Premium
+SEL00374,Seller 374,Marketplace,Germany,Hamburg,3.48,14.97,2020-10-09,Standard
+SEL00375,Seller 375,First-Party,Germany,Berlin,3.91,0.19,2023-03-10,Standard 
+SEL00376,Seller 376,Marketplace ,Germany,Cologne,3.88,7.75,2022-11-29,Plus
+SEL00377,Seller 377,Marketplace,Netherlands,Utrecht,4.29,16.36,2019-05-22,Plus
+SEL00378,Seller 378,Marketplace,République française,paris,4.2,10.84,2017-05-04,Standard
+SEL00379,SELLER 379,Dropship,Germany,Berlin,4.27,8.68,2020-08-31, Standard
+SEL00380,Seller 380,Marketplace,Spain,Valencia,5.0,13.67,2020-08-18,Standard
+SEL00381,Seller 381,First-Party,Germany,Berlin,4.7,0.79,2023-02-28,Standard
+SEL00382,Seller 382,Marketplace,Spain,Barcelona,3.89,9.52,2022-10-13,Premium
+SEL00383,Seller 383,Marketplace,FR,Paris,4.59,14.54,2023-10-06,PREMIUM
+SEL00384,SELLER 384,Marketplace,Netherlands,Eindhoven,4.39,6.91,2019-12-06,Standard
+SEL00385,Seller 385,Marketplace,GERMANY,Cologne ,4.1,9.78,2017-07-01,PREMIUM
+SEL00386,Seller 386,Marketplace,Netherlands,Eindhoven,4.52,17.75,2023-07-25,Standard
+SEL00387,SELLER 387,MARKETPLACE,Spain,Barcelona,4.59,7.34,2021-12-20,standard
+SEL00388,seller 388,Marketplace,Spain,Madrid,4.52,7.96,2021-10-28,Premium
+SEL00389,seller 389,Dropship ,Spain,Madrid,4.0,12.51,2017-06-24,Standard
+SEL00390,SELLER 390,marketplace,Italy,Milan ,4.47,15.17,2019-09-23,Standard
+SEL00391,Seller 391,Marketplace,Spain ,Barcelona,4.61,6.99,2021-07-30,premium
+SEL00392,Seller 392 ,Marketplace,Netherlands,ROTTERDAM,4.37,13.25,2020-11-30,STANDARD
+SEL00393,SELLER 393,First-Party, France,Marseille,4.42,0.05,2023-06-02,Standard
+SEL00394,Seller 394,Marketplace,IT,Rome,3.73,9.37,2018-12-15,Standard
+SEL00395,Seller 395,Marketplace,Netherlands,Rotterdam,4.79,14.58,2023-11-10,Standard
+SEL00396,Seller 396 ,Marketplace,Spain,Barcelona,3.76,8.0,2021-05-17,Plus 
+SEL00397,Seller 397,Marketplace,Germany,Frankfurt,3.97,15.03,2018-01-15,Plus
+SEL00398,Seller 398,First-Party,Italia,Milan,4.73,1.34,2020-08-13,Standard
+SEL00399,Seller 399,Marketplace,Holland,Eindhoven,3.79,16.95,2020-08-07,Standard 
+SEL00400,Seller 400,Marketplace,NL,ROTTERDAM,4.13,13.45,2023-03-26,Plus
+SEL00401,Seller 401,Marketplace,FR ,Toulouse,3.96,6.51,2019-07-03,Plus
+SEL00402,Seller 402,MARKETPLACE,France,Marseille,4.76,7.59,2017-04-19,Premium
+SEL00403,Seller 403,Marketplace,France,Nice,4.41,14.35,2018-05-24,STANDARD
+SEL00404,Seller 404,Marketplace,Netherlands,Rotterdam,4.71,14.8,2021-01-10,Plus
+SEL00405,Seller 405 ,Marketplace,Spain,VALENCIA,4.6,12.01,2020-09-17,Standard
+SEL00406,Seller 406,Marketplace,Italy,Bologna,3.99,17.3,2021-10-12,Standard 
+SEL00407,Seller 407,First-Party,España,Seville,4.98,1.63,2021-02-16,Plus
+SEL00408,SELLER 408,First-Party,Netherlands,Amsterdam,4.23,1.06,2017-05-16,Standard 
+SEL00409,Seller 409 ,Marketplace,Germany,HAMBURG,4.24,12.63,2019-06-26,standard
+SEL00410,Seller 410,Marketplace,Netherlands,The Hague,4.5,11.65,2022-02-13,Standard
+SEL00411,Seller 411,Dropship,NL,utrecht,4.11,14.44,2019-07-28,Premium
+SEL00412,Seller 412,Dropship,Spain ,Bilbao,3.78,14.04,2022-08-26,PLUS
+SEL00413,Seller 413,Marketplace,ES ,Valencia,3.81,8.5,2024-05-12,STANDARD
+SEL00414,Seller 414,FIRST-PARTY,ES,Madrid,3.61,1.7,2017-04-14,Plus
+SEL00415,seller 415,MARKETPLACE,Netherlands,eindhoven,4.47,11.52,2017-10-12,Plus
+SEL00416,Seller 416,MARKETPLACE,France,NICE,4.14,15.66,2021-04-30,Plus
+SEL00417, Seller 417,Marketplace,Germany,Hamburg,4.25,13.84,2020-01-09,STANDARD
+SEL00418,Seller 418,MARKETPLACE,Netherlands,Amsterdam,4.11,6.89,2021-07-09,Standard
+SEL00419,Seller 419,First-Party,FR,Marseille,4.36,1.91,2024-03-20,Standard
+SEL00420,seller 420,Marketplace,Italy, Turin,4.59,6.27,2017-12-24,STANDARD
+SEL00264,Seller 264,Marketplace,Germany,Frankfurt,4.0,16.05,2019-03-31,Standard
+SEL00182,Seller 182,First-Party,FR,Toulouse,4.87,1.05,2022-09-10,Premium
+SEL00088,Seller 88,Marketplace,France,Lyon ,3.96,15.07,2017-02-20,standard
+SEL00399,Seller 399,Marketplace,Holland,Eindhoven,3.79,16.95,2020-08-07,Standard 
+SEL00079,Seller 79,Dropship,Netherlands,The Hague,4.53,14.83,2020-08-25,Standard
+SEL00378,Seller 378,Marketplace,République française,paris,4.2,10.84,2017-05-04,Standard
+SEL00164,Seller 164,Dropship,Deutschland,Hamburg,4.73,16.21,2019-02-11,Standard
+SEL00391,Seller 391,Marketplace,Spain ,Barcelona,4.61,6.99,2021-07-30,premium
+SEL00112, Seller 112,First-Party,Germany,Berlin,4.9,1.0,2021-04-19,Standard
+SEL00365,seller 365,Marketplace,France,Lyon ,4.79,7.35,2018-08-01,Standard
+SEL00166,SELLER 166,First-Party,France,Lyon,3.92,1.19,2018-08-12,Standard
+SEL00236,Seller 236,Marketplace,Netherlands,Eindhoven,3.98,11.02,2018-08-07,Standard
+SEL00395,Seller 395,Marketplace,Netherlands,Rotterdam,4.79,14.58,2023-11-10,Standard

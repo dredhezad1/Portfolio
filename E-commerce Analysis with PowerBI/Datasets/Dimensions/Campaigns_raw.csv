@@ -1,0 +1,287 @@
+CampaignID,CampaignName,ChannelID,CampaignType,StartDate,EndDate,TargetCountry,Objective
+CMP00001,Pulse 1,CH04,Always-on,2020-12-31,2021-02-23,Germany,Revenue
+CMP00002,Echo 2 ,CH04,Always-on,2020-10-07,2020-10-18,france,Acquisition
+CMP00003,ECHO 3,CH03,Always-on,2024-01-11,2024-03-18,España,ACQUISITION
+CMP00004,Spark 4,CH05,ALWAYS-ON,2022-08-02,2022-08-17,France,Revenue
+CMP00005,Prime 5,CH06,Always-on,2024-10-28,2024-12-16,Germany,ACQUISITION
+CMP00006,Echo 6,CH04,Always-on,2020-10-23,2020-11-20,belgium,Revenue
+CMP00007,Spark 7,CH03,Always-on,2022-03-27,2022-04-27,Spain,Reactivation
+CMP00008,Alpha 8,CH01,Always-on,2021-06-26,2021-07-18,Netherlands,Acquisition
+CMP00009,Spark 9,CH04,always-on,2024-04-24,2024-06-27,Germany,Acquisition
+CMP00010,prime 10,CH01,Retargeting,2023-01-29,2023-02-12,France,Revenue
+CMP00011, Spark 11,CH02,Seasonal,2021-09-10,2021-10-02,AT,ACQUISITION
+CMP00012,Pulse 12,CH04,Always-on,2022-10-10,2022-10-28,FR,Reactivation
+CMP00013,Alpha 13,CH06,seasonal,2021-12-20,2022-02-08,Belgium,Revenue
+CMP00014,echo 14,CH03,Retargeting,2020-12-13,2021-02-22,FRANCE, Revenue
+CMP00015,Orbit 15,CH02, Seasonal,2024-06-05,2024-08-31,NETHERLANDS,revenue
+CMP00016,Pulse 16,CH01,Always-on,2024-10-08,2024-10-19,Germany,revenue
+CMP00017,Prime 17,CH04,Seasonal,2024-05-20,2024-07-21,Netherlands,Acquisition
+CMP00018,Pulse 18,CH01, Always-on,2023-06-07,2023-08-16,netherlands,Revenue
+CMP00019,Prime 19,CH03,Product Launch,2021-06-09,2021-06-26,AUSTRIA,Brand
+CMP00020,Spark 20,CH04,SEASONAL,2023-03-13,2023-03-26,Italy,Acquisition
+CMP00021,PULSE 21,CH01,seasonal,2023-11-03,2023-12-25,Italy,Brand
+CMP00022,Alpha 22,CH03,Seasonal,2022-05-09,2022-06-11,Österreich,Revenue
+CMP00023,Prime 23,CH05,SEASONAL,2021-03-02,2021-03-27,Spain,Acquisition
+CMP00024,Alpha 24,CH04,Product Launch,2020-11-28,2021-01-03,Belgium,Acquisition
+CMP00025,Spark 25,CH01,product launch,2024-02-28,2024-05-27,Belgium,Reactivation
+CMP00026,Pulse 26,CH02,always-on,2024-05-08,2024-08-05,Netherlands,Revenue
+CMP00027,ORBIT 27,CH02, Seasonal,2023-08-26,2023-10-03,Belgium,Acquisition
+CMP00028,Spark 28,CH05,Retargeting,2024-05-07,2024-05-31,Austria,Brand 
+CMP00029,Spark 29,CH01,Retargeting,2024-05-14,2024-08-09,Germany,Revenue
+CMP00030,Alpha 30,CH02,Always-on,2021-11-06,2021-12-31,Italy ,Revenue
+CMP00031,Alpha 31,CH03,Product Launch,2021-02-04,2021-02-18,Spain,Acquisition
+CMP00032,Prime 32,CH04,Always-on,2022-05-05,2022-07-01,Netherlands,BRAND
+CMP00033,Orbit 33 ,CH04,Always-on,2024-07-30,2024-09-19,DE,Revenue
+CMP00034,Prime 34 ,CH04,Always-on,2021-11-12,2021-11-30,Germany,Revenue
+CMP00035,PULSE 35,CH01,Always-on,2023-03-12,2023-04-23,Österreich ,brand
+CMP00036,Orbit 36 ,CH03,Seasonal,2022-07-10,2022-09-04,Italy,Revenue
+CMP00037,echo 37,CH05,Always-on,2024-10-18,2024-12-31,Germany,Reactivation
+CMP00038,alpha 38,CH01,Always-on,2021-01-19,2021-04-06,Belgium,Revenue
+CMP00039,alpha 39,CH04,Product Launch,2021-07-02,2021-08-16,italy,Acquisition
+CMP00040,Alpha 40,CH01,product launch,2022-01-31,2022-03-11,IT,Revenue 
+CMP00041,PULSE 41,CH06,Seasonal,2021-09-27,2021-10-12,Austria,Acquisition
+CMP00042,orbit 42,CH04,Seasonal ,2022-04-02,2022-06-29,ES,Acquisition
+CMP00043, Spark 43,CH01,Retargeting,2022-10-29,2023-01-07,Germany,Revenue
+CMP00044,Orbit 44,CH03,Always-on,2023-05-31,2023-08-13,Germany,Reactivation
+CMP00045,Echo 45,CH05,Always-on,2023-08-31,2023-10-11,Italy,Acquisition
+CMP00046,Alpha 46,CH05,Always-on,2021-01-26,2021-03-14,Netherlands,Brand
+CMP00047,Prime 47 ,CH05,Always-on,2021-04-05,2021-05-02,Austria,Revenue
+CMP00048,Pulse 48,CH06,Always-on,2021-04-13,2021-06-07,Austria,Revenue
+CMP00049,Prime 49,CH01,Seasonal ,2022-10-27,2023-01-17,Belgium,Acquisition
+CMP00050,Spark 50,CH01,Retargeting,2022-01-01,2022-03-11,Österreich ,Acquisition
+CMP00051,spark 51,CH04,Always-on,2024-11-22,2024-12-31,AT,Acquisition
+CMP00052,Spark 52,CH04,Retargeting,2021-02-17,2021-03-19,Deutschland,REVENUE
+CMP00053,Echo 53,CH04,Seasonal ,2022-05-30,2022-07-25,ES,Reactivation
+CMP00054,Spark 54,CH05,Seasonal,2023-05-04,2023-06-22,Austria,Revenue
+CMP00055,Alpha 55 ,CH03,Seasonal,2022-06-25,2022-08-20,Spain,Reactivation
+CMP00056,Alpha 56,CH04,Always-on,2024-07-02,2024-09-18,Holland,Revenue
+CMP00057,Pulse 57,CH05,Retargeting,2023-10-16,2023-11-03,Belgium,Revenue
+CMP00058,Spark 58,CH05,Seasonal,2023-04-29,2023-05-10,Netherlands ,REVENUE
+CMP00059,Orbit 59,CH05,Seasonal,2024-08-21,2024-09-21,España,Acquisition
+CMP00060,PRIME 60,CH02,Product Launch,2022-08-10,2022-10-31,Italy,Acquisition
+CMP00061,orbit 61,CH01,Retargeting,2020-10-19,2021-01-06,Germany,Brand
+CMP00062,Alpha 62,CH02,Seasonal,2023-09-06,2023-10-27,Italy,Reactivation
+CMP00063,Echo 63,CH02,Retargeting ,2022-03-14,2022-04-17,Italy,Brand
+CMP00064,Spark 64,CH02,Seasonal,2022-11-07,2022-11-17,germany,Acquisition
+CMP00065,Pulse 65,CH03,Product Launch,2022-11-25,2023-01-06,Germany,Revenue
+CMP00066,Spark 66 ,CH04,PRODUCT LAUNCH,2023-08-01,2023-09-16,BE,Acquisition
+CMP00067,Orbit 67,CH05,Product Launch,2024-10-21,2024-10-31, Netherlands,Acquisition
+CMP00068,Spark 68,CH01,RETARGETING,2022-08-13,2022-09-18,Netherlands,Revenue
+CMP00069,Echo 69,CH03,Always-on,2022-12-16,2023-02-11,Germany,Acquisition
+CMP00070,Alpha 70,CH05,Always-on,2021-07-23,2021-09-21,Netherlands,Reactivation
+CMP00071,PRIME 71,CH04,Seasonal ,2023-04-01,2023-05-05,Netherlands,Revenue
+CMP00072, Spark 72,CH04,Product Launch,2022-06-09,2022-08-20,spain,Revenue
+CMP00073,alpha 73,CH01,Always-on,2024-03-25,2024-05-18,spain,Revenue
+CMP00074,Orbit 74,CH01,Always-on,2023-05-28,2023-08-01,Italy,Acquisition
+CMP00075,echo 75,CH01,Retargeting,2021-02-06,2021-02-20,AT,REVENUE
+CMP00076,Echo 76,CH02,Retargeting,2022-12-12,2023-03-07,Austria,Revenue
+CMP00077,Echo 77,CH01,Product Launch,2021-08-31,2021-10-14,France,Revenue
+CMP00078,spark 78,CH01,Seasonal,2022-10-31,2022-11-14,Austria,Acquisition
+CMP00079,PULSE 79,CH04,Seasonal,2022-11-19,2023-01-17,Germany,Revenue
+CMP00080,ORBIT 80,CH01,Retargeting,2022-08-23,2022-09-12,IT,BRAND
+CMP00081,Prime 81,CH03,seasonal,2022-07-25,2022-08-17,IT,Acquisition
+CMP00082,Echo 82,CH06,Always-on,2024-04-02,2024-05-30,Netherlands,Revenue
+CMP00083,Echo 83,CH05,Always-on,2023-11-11,2023-12-04,Germany ,BRAND
+CMP00084,Pulse 84,CH04,Always-on,2023-07-22,2023-10-16,Italy,Revenue 
+CMP00085,Orbit 85,CH01,Always-on,2021-01-24,2021-02-07,Germany,Acquisition
+CMP00086,ORBIT 86,CH03,Product Launch,2021-12-04,2021-12-25,Austria,Acquisition
+CMP00087,pulse 87,CH06,Always-on,2021-01-23,2021-04-12,Belgium,Acquisition
+CMP00088,Pulse 88 ,CH01,Always-on,2021-01-30,2021-03-01,BE,Revenue
+CMP00089,Orbit 89,CH03,Retargeting,2022-10-17,2022-11-29,DE,Reactivation
+CMP00090,Spark 90,CH03,Product Launch,2020-11-05,2021-01-29,Holland ,Revenue
+CMP00091,echo 91,CH06,Always-on,2021-08-17,2021-11-13,Italy,ACQUISITION
+CMP00092,Spark 92,CH02,Seasonal,2024-04-06,2024-04-29,Austria ,Revenue
+CMP00093,Echo 93 ,CH06,always-on,2021-12-15,2022-03-06,SPAIN, Acquisition
+CMP00094,Echo 94,CH01,ALWAYS-ON,2021-08-21,2021-10-06,Germany,Revenue
+CMP00095,Orbit 95,CH02,Product Launch,2022-12-02,2023-01-28,Italy,revenue
+CMP00096,Orbit 96,CH03,Seasonal,2023-07-12,2023-09-08,Belgium,Acquisition
+CMP00097,Spark 97,CH06,Always-on,2021-05-20,2021-07-28,AT,Acquisition
+CMP00098,Spark 98,CH03,Always-on,2022-01-03,2022-03-14,NETHERLANDS, Acquisition
+CMP00099,Orbit 99,CH02,Seasonal,2023-12-25,2024-03-20,Netherlands,Acquisition
+CMP00100,Alpha 100,CH01,Retargeting,2021-05-10,2021-05-27,Austria,Revenue
+CMP00101,Echo 101,CH05,ALWAYS-ON,2022-03-21,2022-04-19,Belgium,REVENUE
+CMP00102,pulse 102,CH02,Always-on,2024-10-24,2024-12-31,Belgium,Revenue
+CMP00103,Echo 103,CH05,always-on,2021-05-22,2021-07-14,IT ,Acquisition
+CMP00104,Pulse 104,CH01,Seasonal,2024-01-29,2024-03-02,Italy,Brand
+CMP00105,Pulse 105,CH01,ALWAYS-ON,2021-09-30,2021-10-15,Italy,Acquisition
+CMP00106,Echo 106,CH04,ALWAYS-ON,2024-02-09,2024-04-29,Belgium,Reactivation
+CMP00107,Pulse 107,CH05,Always-on,2023-07-10,2023-08-13,Spain,Acquisition
+CMP00108,Prime 108,CH01,Always-on,2023-09-27,2023-11-22,Italy,Acquisition
+CMP00109,Prime 109,CH05,Retargeting,2021-03-24,2021-04-24,Germany,Revenue
+CMP00110,Pulse 110,CH06,Always-on,2023-10-29,2023-11-20,Belgium,Acquisition
+CMP00111,prime 111,CH05,SEASONAL,2024-01-03,2024-02-03,France,Acquisition
+CMP00112,Alpha 112,CH01,Retargeting,2023-06-08,2023-06-18,France,ACQUISITION
+CMP00113,PRIME 113,CH03,Product Launch ,2023-03-20,2023-05-26,austria,Brand
+CMP00114,Orbit 114,CH05,Seasonal,2021-09-05,2021-10-27,Austria,Acquisition
+CMP00115,Alpha 115,CH01,Product Launch,2024-11-23,2024-12-31,france,Revenue
+CMP00116,Orbit 116,CH04,Seasonal,2024-05-21,2024-06-09,Austria,ACQUISITION
+CMP00117,Echo 117,CH02,Retargeting,2024-09-22,2024-11-27,france,Revenue
+CMP00118,Alpha 118,CH01,Retargeting ,2021-08-24,2021-09-24,Spain,Acquisition
+CMP00119,Alpha 119,CH01,Retargeting,2021-06-27,2021-07-21,France ,Revenue
+CMP00120,PULSE 120,CH04,Always-on,2021-01-27,2021-03-12,Austria,Brand
+CMP00121,Echo 121,CH05,Retargeting,2022-03-01,2022-03-23,Austria,BRAND
+CMP00122,Spark 122,CH06,Always-on,2021-08-28,2021-10-17,Belgium,Acquisition
+CMP00123,Echo 123,CH06,Retargeting,2020-11-12,2020-11-22,FRANCE, Revenue
+CMP00124,Prime 124,CH01,Always-on,2021-03-03,2021-05-18,france,Reactivation
+CMP00125,Alpha 125,CH04,PRODUCT LAUNCH,2021-10-07,2021-12-07,italy,Revenue
+CMP00126,Orbit 126,CH02,Seasonal,2023-12-20,2024-02-25,Netherlands,REVENUE
+CMP00127,Spark 127,CH03,Always-on,2021-02-25,2021-03-12,Austria,Brand
+CMP00128,Spark 128,CH05,ALWAYS-ON,2022-05-12,2022-08-08,NL,Acquisition
+CMP00129,pulse 129,CH04,Always-on,2022-12-29,2023-01-27,Belgium,Acquisition
+CMP00130,Spark 130,CH04,Seasonal,2023-08-19,2023-10-25,Netherlands,Revenue
+CMP00131,spark 131,CH04,Seasonal,2021-07-24,2021-09-30,Germany,Revenue
+CMP00132,Alpha 132,CH04,Always-on,2022-12-20,2023-02-25,Austria,Acquisition
+CMP00133,Prime 133,CH03,Always-on,2023-11-12,2023-11-26,Spain,Revenue
+CMP00134,Alpha 134,CH01,Seasonal,2023-05-29,2023-07-27,Netherlands,Acquisition
+CMP00135,Echo 135,CH02,ALWAYS-ON,2022-08-25,2022-11-17,NETHERLANDS,Acquisition
+CMP00136,Prime 136,CH01,Seasonal,2023-11-17,2024-02-09,Belgium,Brand
+CMP00137,Echo 137,CH03,Seasonal,2024-02-23,2024-05-01,GERMANY,Revenue
+CMP00138, Alpha 138,CH04,ALWAYS-ON,2024-09-08,2024-10-25,France,Acquisition
+CMP00139,Alpha 139,CH03,Retargeting,2022-12-28,2023-02-07,Austria,acquisition
+CMP00140,Orbit 140,CH01,Always-on,2023-01-16,2023-04-12,Italy,Revenue
+CMP00141,PULSE 141,CH05,Retargeting,2023-12-16,2024-02-12,France ,Acquisition
+CMP00142,ECHO 142,CH06,always-on,2022-02-14,2022-04-29,Spain,Acquisition
+CMP00143, Orbit 143,CH04,Seasonal,2021-10-19,2021-11-21,Spain,Revenue
+CMP00144,Orbit 144,CH04,SEASONAL,2023-04-02,2023-06-03,France,Brand
+CMP00145, Spark 145,CH03,Always-on,2023-07-11,2023-10-03,Italy,Revenue
+CMP00146, Spark 146,CH01,Always-on,2023-07-25,2023-09-15,GERMANY,Reactivation
+CMP00147,Pulse 147 ,CH01,Retargeting,2024-06-14,2024-09-09,Germany,REVENUE
+CMP00148,spark 148,CH02,Always-on,2022-08-28,2022-11-06,France, Revenue
+CMP00149,Pulse 149,CH01,Seasonal,2024-02-06,2024-02-24,Italy,Revenue
+CMP00150,Orbit 150,CH03,Seasonal,2024-06-07,2024-06-19, France,REACTIVATION
+CMP00151,Spark 151,CH01,Retargeting,2022-02-28,2022-04-02,NL,Revenue
+CMP00152,Orbit 152,CH01,Retargeting,2020-10-09,2020-12-21,AT,Revenue
+CMP00153,Pulse 153,CH03,Always-on,2023-09-14,2023-12-04,Italy,Reactivation
+CMP00154,Prime 154,CH01,Seasonal,2021-10-11,2021-11-20,France,Acquisition
+CMP00155,Prime 155,CH03,Always-on,2024-05-31,2024-06-10,IT,Reactivation
+CMP00156,Orbit 156,CH06,Always-on,2022-05-29,2022-07-12,Germany ,Revenue
+CMP00157,Alpha 157,CH01,Always-on ,2021-07-20,2021-08-29,Austria,revenue
+CMP00158,Orbit 158,CH06,always-on,2023-11-27,2024-02-01,France,REACTIVATION
+CMP00159,Pulse 159,CH02,always-on,2023-12-29,2024-03-12,DE,Revenue
+CMP00160, Echo 160,CH01,Seasonal,2022-05-07,2022-07-16,Spain,Brand
+CMP00161,Pulse 161,CH01,Always-on,2022-04-08,2022-04-30,Spain,Brand
+CMP00162,Orbit 162,CH01,Product Launch,2024-11-03,2024-12-23,FR,Revenue
+CMP00163, Echo 163,CH04,Always-on,2022-07-08,2022-09-24,BELGIUM,Acquisition
+CMP00164,Prime 164,CH06,Seasonal,2021-10-28,2022-01-15,NL,Revenue
+CMP00165,Echo 165,CH01,Always-on,2024-02-12,2024-03-28,AUSTRIA,Acquisition
+CMP00166,Orbit 166,CH02,Always-on,2023-09-07,2023-11-21,Germany,Brand
+CMP00167,Alpha 167,CH03,Retargeting,2023-02-04,2023-04-18,BELGIUM,Revenue 
+CMP00168,Spark 168 ,CH01,Always-on,2021-03-29,2021-05-25,Germany,Acquisition
+CMP00169,Alpha 169,CH03,Retargeting,2024-07-04,2024-09-28,FRANCE,Revenue
+CMP00170,Spark 170,CH02,Seasonal,2023-01-04,2023-02-01,BELGIUM,Revenue
+CMP00171,Alpha 171,CH04,Always-on,2024-02-11,2024-04-16,ES,Brand
+CMP00172,Echo 172,CH03,Always-on,2023-03-28,2023-04-07,Belgium, Revenue
+CMP00173, Spark 173,CH05,Always-on,2023-04-19,2023-06-17,Italy,Revenue
+CMP00174,SPARK 174,CH05, Seasonal,2023-10-13,2023-12-13,España,Revenue
+CMP00175,ALPHA 175,CH05,Product Launch,2020-11-20,2021-02-04,Italy ,Acquisition
+CMP00176,Pulse 176,CH05,ALWAYS-ON,2021-11-30,2021-12-27,Spain, Revenue
+CMP00177,Spark 177,CH04,Retargeting,2021-10-18,2021-11-14,Netherlands,ACQUISITION
+CMP00178,PRIME 178,CH01,Always-on,2023-11-20,2023-12-21,Italy ,Revenue
+CMP00179,Alpha 179,CH02,Seasonal,2024-08-12,2024-09-29,Italy,Acquisition
+CMP00180,Echo 180,CH01,Always-on,2023-11-09,2023-12-16, France,revenue
+CMP00181,Prime 181,CH01,always-on,2023-06-19,2023-07-14,Spain ,brand
+CMP00182,Alpha 182,CH02,Retargeting,2022-05-19,2022-08-03,AT,Revenue
+CMP00183, Prime 183,CH02,Seasonal,2022-11-29,2023-02-04,be,ACQUISITION
+CMP00184,Alpha 184,CH04,Seasonal,2020-10-16,2020-10-26,Germany ,Acquisition
+CMP00185,Prime 185,CH02,ALWAYS-ON,2022-03-15,2022-04-14,Austria,Revenue
+CMP00186,alpha 186,CH04,Always-on,2023-02-23,2023-03-13,Netherlands,Revenue
+CMP00187,Spark 187,CH04,Retargeting,2022-11-18,2023-01-15,Austria,Brand
+CMP00188,Orbit 188,CH06,seasonal,2021-10-10,2021-11-30,Netherlands,Acquisition
+CMP00189,Echo 189,CH01,Retargeting,2022-05-06,2022-05-23,Italy,Acquisition
+CMP00190,PRIME 190,CH06,Retargeting,2021-09-17,2021-10-04,spain,acquisition
+CMP00191,Orbit 191,CH01,PRODUCT LAUNCH,2021-03-07,2021-03-22,Österreich,Acquisition
+CMP00192,Pulse 192,CH01,Retargeting,2024-11-29,2024-12-31,Germany, Brand
+CMP00193,Alpha 193,CH01,seasonal,2024-03-14,2024-04-06,France,Acquisition
+CMP00194,PRIME 194,CH05,Always-on,2020-12-18,2021-03-14,austria,Acquisition
+CMP00195,Alpha 195,CH05, Retargeting,2020-12-16,2021-01-22,IT,Acquisition
+CMP00196,Echo 196,CH03,retargeting,2021-05-07,2021-07-26,Netherlands,Revenue
+CMP00197,pulse 197,CH03,Product Launch ,2023-02-14,2023-02-26,Spain,Brand
+CMP00198, Alpha 198,CH04,Seasonal,2022-04-28,2022-06-29,AUSTRIA,Revenue
+CMP00199,Orbit 199,CH04,Always-on,2022-06-18,2022-07-19,Spain,Reactivation
+CMP00200,Pulse 200,CH03,Always-on ,2022-04-14,2022-07-02,Germany, Acquisition
+CMP00201,pulse 201,CH02,Always-on,2020-11-13,2021-01-13,Spain,Revenue
+CMP00202,Echo 202,CH03,Always-on,2020-10-27,2021-01-09,FR,Acquisition
+CMP00203,ECHO 203,CH02,ALWAYS-ON,2021-04-27,2021-05-14,Austria,Revenue
+CMP00204,Alpha 204,CH04,SEASONAL,2023-10-01,2023-11-03,Belgium,REVENUE
+CMP00205,prime 205,CH03,SEASONAL,2021-05-08,2021-07-26,Belgium,Acquisition
+CMP00206,Pulse 206 ,CH04,Always-on,2021-12-27,2022-02-24,IT,Revenue
+CMP00207,Spark 207,CH01,Retargeting,2023-01-22,2023-03-05,Netherlands,Reactivation
+CMP00208,Echo 208,CH01,Retargeting,2021-09-03,2021-09-20,Germany,REVENUE
+CMP00209,Echo 209,CH04,Seasonal,2022-01-19,2022-03-24,Austria,Acquisition
+CMP00210,Alpha 210,CH06,Always-on,2024-01-30,2024-04-26,Germany,Revenue
+CMP00211,Spark 211,CH01,Always-on,2022-02-23,2022-03-06,Austria,Revenue
+CMP00212,Prime 212,CH01,Always-on,2024-07-24,2024-09-21,Italy,Acquisition
+CMP00213,Alpha 213,CH02, Always-on,2024-06-23,2024-08-06,Belgium,Brand
+CMP00214,Prime 214,CH03,Retargeting,2023-08-09,2023-09-04,Austria,Reactivation
+CMP00215,Spark 215,CH04,Seasonal,2024-09-06,2024-11-28,France,Brand
+CMP00216,PULSE 216,CH03, Always-on,2022-12-21,2023-01-16,Austria ,Acquisition
+CMP00217,Echo 217,CH01,Always-on,2024-11-19,2024-11-29,GERMANY,Revenue
+CMP00218,Spark 218 ,CH01,Product Launch,2023-09-22,2023-12-07,Belgium,REVENUE
+CMP00219,Echo 219,CH05,Always-on,2021-07-05,2021-09-27,Spain,Revenue
+CMP00220,Echo 220,CH04,Always-on,2022-02-27,2022-03-21,République française ,Acquisition 
+CMP00221,Echo 221,CH04,Seasonal,2023-10-07,2024-01-01,Belgium,Brand
+CMP00222,Spark 222,CH06,Always-on,2023-09-10,2023-11-25,Austria,Revenue
+CMP00223,Alpha 223,CH04,PRODUCT LAUNCH,2023-03-24,2023-05-21,Italy,Revenue
+CMP00224,Alpha 224,CH02,RETARGETING,2021-06-20,2021-09-08,NL ,Revenue
+CMP00225,Spark 225,CH02,Always-on,2022-04-05,2022-06-26,Belgium,Acquisition 
+CMP00226,Orbit 226,CH02,Always-on,2024-11-02,2024-12-29,Spain,Revenue
+CMP00227,Alpha 227,CH05,Always-on,2024-08-24,2024-09-19,BELGIUM,Revenue
+CMP00228,Echo 228,CH01,Seasonal,2023-04-08,2023-06-26,France,Acquisition
+CMP00229,Orbit 229,CH04,Always-on,2024-10-03,2024-12-15,France,Revenue
+CMP00230,Echo 230,CH01,Retargeting,2021-06-24,2021-09-18,Austria,Acquisition
+CMP00231,Echo 231,CH01,Always-on,2023-11-24,2023-12-24,Austria,Acquisition 
+CMP00232,Orbit 232,CH06,seasonal,2022-04-06,2022-06-13,Italy,Reactivation
+CMP00233,Echo 233,CH01,Always-on,2022-12-30,2023-03-08,France,Acquisition
+CMP00234,Pulse 234,CH02,Retargeting,2022-02-22,2022-03-31,Austria,Acquisition
+CMP00235,Alpha 235,CH06,Product Launch,2024-10-30,2024-12-31,Belgium,Revenue
+CMP00236,Pulse 236,CH05,Always-on,2023-12-19,2023-12-30,NETHERLANDS,Acquisition
+CMP00237,Orbit 237,CH01,Always-on,2021-07-22,2021-08-23,France,Revenue
+CMP00238,alpha 238,CH04,Always-on,2022-12-26,2023-01-27,DE,Brand
+CMP00239,Pulse 239,CH04,Always-on,2024-11-20,2024-12-31,AUSTRIA,Revenue
+CMP00240,Orbit 240,CH03,Always-on,2022-12-24,2023-03-07,Austria,Revenue
+CMP00241,spark 241,CH05,Always-on,2022-11-13,2023-01-01,Germany,Reactivation
+CMP00242,Pulse 242,CH06,RETARGETING,2022-10-30,2023-01-04,Italy,Revenue 
+CMP00243,ALPHA 243,CH03,Seasonal,2021-12-30,2022-02-18,Belgium,Reactivation
+CMP00244,Prime 244,CH03, Product Launch,2024-10-12,2024-12-15,Spain,Reactivation
+CMP00245,ECHO 245,CH01,Always-on,2022-09-30,2022-11-28,Netherlands,Revenue
+CMP00246,Spark 246,CH03,Seasonal,2022-09-03,2022-11-09,République française,Revenue
+CMP00247,Echo 247,CH04,Product Launch,2024-03-07,2024-05-09,Belgium,revenue
+CMP00248,ORBIT 248,CH01,Seasonal,2022-09-05,2022-11-18,Netherlands,Acquisition
+CMP00249,Orbit 249,CH02,Seasonal,2024-09-26,2024-12-24,ES,Brand
+CMP00250,Prime 250,CH03,Retargeting,2021-03-08,2021-05-20,ITALY,Acquisition
+CMP00251,Pulse 251,CH04,SEASONAL,2023-10-17,2023-10-31,Belgium,Revenue
+CMP00252,SPARK 252,CH04,Retargeting,2024-02-21,2024-04-08,Österreich,Acquisition
+CMP00253,Alpha 253,CH02,Always-on,2024-02-08,2024-04-25,AUSTRIA,Revenue
+CMP00254,Echo 254,CH01,seasonal,2021-08-29,2021-09-19,GERMANY,Acquisition 
+CMP00255,Spark 255,CH03,Product Launch,2024-05-22,2024-08-03,GERMANY,acquisition
+CMP00256,Echo 256,CH06,Always-on,2023-12-12,2024-02-12,France,Revenue
+CMP00257,Orbit 257,CH06,Always-on,2022-10-05,2022-12-29,Germany,Revenue
+CMP00258,Orbit 258,CH03,Always-on,2024-03-31,2024-06-01,Netherlands,Acquisition
+CMP00259,Echo 259,CH02,Always-on ,2022-04-04,2022-05-04,Germany,acquisition
+CMP00260,Echo 260,CH03,Always-on,2022-01-06,2022-02-12,Austria,ACQUISITION
+CMP00261,orbit 261,CH03,Seasonal,2023-10-11,2023-12-01,Spain,Revenue
+CMP00262,Prime 262,CH06,Always-on,2021-10-01,2021-10-30,AUSTRIA,ACQUISITION
+CMP00263,Pulse 263,CH04,Retargeting,2022-02-16,2022-03-24,NETHERLANDS,Revenue
+CMP00264,Prime 264,CH01,Seasonal,2022-11-08,2023-01-10,italy,Revenue
+CMP00265,Orbit 265,CH01,Retargeting,2024-06-24,2024-08-24,Netherlands,Revenue 
+CMP00266,Orbit 266,CH01,Retargeting,2022-02-26,2022-03-12,Netherlands,REVENUE
+CMP00267,ORBIT 267,CH05,Seasonal,2022-10-13,2022-12-31,Italy,Revenue
+CMP00268,Orbit 268,CH01,Always-on,2023-11-01,2024-01-18,Italy,ACQUISITION
+CMP00269,Pulse 269 ,CH01,Seasonal,2022-06-08,2022-07-26,Belgium,Acquisition
+CMP00270,pulse 270,CH01,retargeting,2024-08-28,2024-10-02,france,Acquisition
+CMP00271,alpha 271,CH03,ALWAYS-ON,2021-10-16,2021-12-24,Belgique,REVENUE
+CMP00272,Alpha 272,CH05,Always-on,2021-12-24,2022-01-09,spain,Acquisition
+CMP00273,Echo 273,CH05,Product Launch,2023-06-15,2023-07-18,Deutschland,Revenue
+CMP00274,Echo 274,CH01,Retargeting,2022-07-26,2022-10-13,FR,Revenue
+CMP00275,Spark 275,CH05,seasonal,2020-10-25,2021-01-02,BELGIQUE,Revenue
+CMP00276,Orbit 276,CH05,Always-on,2021-01-09,2021-01-28,IT,Revenue
+CMP00277,Alpha 277 ,CH01,Retargeting,2020-12-19,2021-01-29,Germany,Acquisition
+CMP00278,Alpha 278,CH01,Retargeting,2024-08-07,2024-10-04,SPAIN,Revenue 
+CMP00279,Alpha 279,CH01, Always-on,2022-09-16,2022-11-19,Netherlands,Reactivation
+CMP00280,Pulse 280,CH01,Always-on,2021-03-15,2021-04-24,Italy,Reactivation
+CMP00013,Alpha 13,CH06,seasonal,2021-12-20,2022-02-08,Belgium,Revenue
+CMP00204,Alpha 204,CH04,SEASONAL,2023-10-01,2023-11-03,Belgium,REVENUE
+CMP00063,Echo 63,CH02,Retargeting ,2022-03-14,2022-04-17,Italy,Brand
+CMP00023,Prime 23,CH05,SEASONAL,2021-03-02,2021-03-27,Spain,Acquisition
+CMP00190,PRIME 190,CH06,Retargeting,2021-09-17,2021-10-04,spain,acquisition
+CMP00172,Echo 172,CH03,Always-on,2023-03-28,2023-04-07,Belgium, Revenue

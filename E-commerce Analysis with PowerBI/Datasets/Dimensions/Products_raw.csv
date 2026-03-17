@@ -1,0 +1,1020 @@
+ProductID,ProductName,Brand,Category,Subcategory,BasePrice,SupplierTier,IsPrivateLabel
+PRO00001,Aurum Electronics Item 1,AURUM,Electronics,Accessories ,15.32,Tier 2,NO
+PRO00002,Nord Fashion Item 2,Nord ,Fashion,Shoes,32.55,Tier 2,No
+PRO00003,Nord Home Item 3,Nord,Home,Decor,70.21,tier 1,No
+PRO00004,Vela Electronics Item 4,vela,ELECTRONICS,Accessories,66.64,Tier 3,No
+PRO00005,LUMEN SPORTS ITEM 5,lumen,Sports,TEAM SPORTS,15.44, Tier 2,Yes
+PRO00006,Vela Beauty Item 6,Vela,Beauty ,Wellness ,4.0,Tier 2,No
+PRO00007,Nord Home Item 7,nord,Home,Kitchen,25.7,tier 2,No
+PRO00008,Aurum Fashion Item 8,Aurum,Fashion,Kids,4.8,Tier 2 ,No
+PRO00009,Lumen Electronics Item 9,Lumen,Electronics,Accessories,39.17,Tier 2,No
+PRO00010,ZENITH ELECTRONICS ITEM 10,zenith,Electronics ,Accessories,14.9,Tier 3,No 
+PRO00011,nord fashion item 11,Nord,Fashion,Accessories,23.08,TIER 2,No
+PRO00012,Belle Electronics Item 12,Belle ,Electronics,Accessories,85.04,TIER 3,No
+PRO00013,Vela Electronics Item 13,Vela,Electronics,Accessories,20.66,Tier 3,No
+PRO00014,Nova Electronics Item 14,Nova,Electronics ,SMART HOME,32.34,Tier 1,no
+PRO00015,Aurum Sports Item 15,Aurum,SPORTS,Team Sports,61.66,Tier 1,No
+PRO00016,Nova Home Item 16,Nova ,HOME,lighting,21.63,Tier 2,No
+PRO00017,Zenith Fashion Item 17,Zenith ,Fashion, Kids,7.42,Tier 2,No
+PRO00018,Rossi Fashion Item 18 ,Rossi,Fashion,Mens,20.18,Tier 1,Yes
+PRO00019,NORD SPORTS ITEM 19,Nord,Sports,Outdoor,51.79,Tier 1,No 
+PRO00020,Zenith Home Item 20,Zenith,Home,Furniture,15.94,Tier 1,No
+PRO00021,Zenith Home Item 21,ZENITH,Home,Lighting,133.64,Tier 1,yes
+PRO00022,Nova Electronics Item 22,Nova,Electronics, Audio,8.57,TIER 2,No
+PRO00023,Rossi Home Item 23,Rossi,Home,Cleaning,38.84,Tier 2,No
+PRO00024,Aurum Fashion Item 24,Aurum,Fashion,Womens,50.59,Tier 1, No
+PRO00025,Belle Sports Item 25,BELLE,Sports,Fitness,23.12,Tier 1,no
+PRO00026,Nova Sports Item 26,Nova ,Sports,Outdoor,62.63,Tier 1,Yes
+PRO00027,Vela Sports Item 27,Vela, Sports,Accessories,12.64,Tier 2,NO
+PRO00028, Belle Sports Item 28,Belle,SPORTS,Cycling ,43.29,TIER 2,No
+PRO00029,Origo Fashion Item 29,Origo,Fashion,Mens,138.44,Tier 1,No
+PRO00030,Nord Fashion Item 30,Nord ,Fashion,Womens,158.09,tier 1,No
+PRO00031,Zenith Sports Item 31,Zenith,Sports,fitness,78.85,tier 1,No
+PRO00032, Aurum Home Item 32,AURUM,Home,Lighting,148.62, Tier 2,No
+PRO00033,belle home item 33,Belle,Home,Furniture,50.59,Tier 3,Yes
+PRO00034, Lumen Fashion Item 34,Lumen ,FASHION,Kids,4.0,Tier 3, No
+PRO00035,Kairo Electronics Item 35,kairo, Electronics,Accessories,242.25,Tier 1,No
+PRO00036,ZENITH FASHION ITEM 36,Zenith,FASHION,Kids,61.95,Tier 2,No
+PRO00037,Rossi Home Item 37,Rossi,Home,Lighting,93.97,TIER 2,No
+PRO00038,LUMEN BEAUTY ITEM 38,Lumen,Beauty,Wellness,35.88,tier 1,No
+PRO00039,Origo Electronics Item 39,Origo,Electronics,ACCESSORIES,32.22,Tier 2,No
+PRO00040,Lumen Sports Item 40,Lumen,SPORTS,Team Sports,5.58,Tier 1,No
+PRO00041,Nova Fashion Item 41,NOVA,Fashion,Kids,50.33,TIER 1,No
+PRO00042,Vela Electronics Item 42,Vela,Electronics,Accessories,116.62,Tier 3 ,no
+PRO00043,Lumen Fashion Item 43,Lumen ,Fashion,Shoes,42.51,Tier 1,No
+PRO00044,ROSSI ELECTRONICS ITEM 44,rossi,Electronics,AUDIO,9.21,Tier 1,No
+PRO00045,Nord Fashion Item 45,Nord,Fashion,Shoes,62.48,Tier 2,No
+PRO00046,Kairo Sports Item 46,KAIRO,Sports,Team Sports,211.73,Tier 2,NO
+PRO00047,Nova Home Item 47,Nova,Home,Cleaning,119.62,Tier 1,No
+PRO00048,Nova Fashion Item 48,Nova,Fashion,Kids,78.04,Tier 2,NO
+PRO00049,Lumen Fashion Item 49,Lumen,Fashion,Kids,169.82,Tier 1,No
+PRO00050,Vela Electronics Item 50,Vela,Electronics,Mobile,110.27,Tier 2,Yes
+PRO00051, Aurum Home Item 51,Aurum,Home,Kitchen,36.86,Tier 2,No
+PRO00052,Origo Beauty Item 52,ORIGO,Beauty,Skincare,120.46,Tier 2,No
+PRO00053,Lumen Fashion Item 53,lumen,Fashion,ACCESSORIES,31.1,Tier 3,No
+PRO00054,Lumen Fashion Item 54,Lumen,Fashion,Kids,110.04,Tier 2,Yes
+PRO00055,Origo Fashion Item 55,Origo,fashion,Kids,56.42,Tier 2,NO
+PRO00056,Zenith Home Item 56,Zenith,Home,Lighting,18.61,Tier 1,Yes
+PRO00057,Vela Electronics Item 57,Vela,Electronics,Computing,52.04,Tier 1,No
+PRO00058,Rossi Home Item 58,Rossi,Home,Kitchen,25.24,Tier 1,Yes
+PRO00059,Nova Fashion Item 59,NOVA,FASHION,Kids,6.57,TIER 1,No
+PRO00060,Aurum Fashion Item 60,Aurum,Fashion,Shoes,180.22,tier 2,Yes
+PRO00061, Zenith Home Item 61,Zenith,Home,Kitchen,102.98,Tier 1,No
+PRO00062,Aurum Sports Item 62,Aurum,Sports,Cycling,11.83,Tier 2,No
+PRO00063,Kairo Fashion Item 63,Kairo,Fashion,Womens,16.17,Tier 2 ,NO
+PRO00064,Lumen Fashion Item 64,Lumen,fashion,Womens,14.54,TIER 2,No
+PRO00065,Nova Sports Item 65,Nova,Sports,Cycling,46.34,Tier 1,YES
+PRO00066,Origo Sports Item 66,Origo,Sports,Outdoor,7.02,Tier 2,No
+PRO00067,Nova Fashion Item 67,Nova,Fashion,Accessories,64.11,Tier 2,No 
+PRO00068,Lumen Home Item 68,Lumen, Home,Kitchen,57.69,Tier 3,No
+PRO00069,Lumen Electronics Item 69,Lumen,Electronics,Accessories,154.64,Tier 2,No
+PRO00070,Nova Home Item 70, Nova,Home,Kitchen,28.65,Tier 3,No
+PRO00071,Kairo Beauty Item 71,kairo,Beauty, Fragrance,60.08,Tier 1,No
+PRO00072,KAIRO HOME ITEM 72,Kairo,HOME,cleaning,23.27,Tier 1,No
+PRO00073,Lumen Fashion Item 73,Lumen,Fashion,Womens,7.46,Tier 3 ,No
+PRO00074,Origo Electronics Item 74,Origo,Electronics,Smart Home,14.94,Tier 3,No
+PRO00075,Aurum Fashion Item 75,AURUM,FASHION,Kids,66.03,Tier 1,No
+PRO00076,Zenith Electronics Item 76,ZENITH,Electronics,Computing,212.77,TIER 1,No
+PRO00077,Nord Sports Item 77,Nord,SPORTS,Fitness ,56.46,Tier 3,No
+PRO00078,Vela Home Item 78,Vela,Home,Kitchen,51.9,Tier 2,No
+PRO00079,Belle Sports Item 79, Belle,Sports,cycling,22.95,Tier 2,NO
+PRO00080,Rossi Sports Item 80,ROSSI,Sports ,Outdoor,8.69,Tier 2,No
+PRO00081,Vela Electronics Item 81,Vela,Electronics,Mobile,17.9,TIER 2,No
+PRO00082,Nord Electronics Item 82,Nord,ELECTRONICS,Audio,73.51,Tier 2,No
+PRO00083,Vela Electronics Item 83 ,Vela,Electronics,audio,7.16,Tier 2,No
+PRO00084,Nord Electronics Item 84,Nord,Electronics,Computing,19.59,Tier 3,No
+PRO00085,Belle Beauty Item 85 ,BELLE,Beauty,Fragrance,100.3,Tier 2,No
+PRO00086,ZENITH BEAUTY ITEM 86,Zenith,Beauty,Hair,23.69,TIER 1,No
+PRO00087,Nord Fashion Item 87, Nord,Fashion,Mens,14.87,Tier 1,No 
+PRO00088,Belle Electronics Item 88,Belle,Electronics,Computing,35.37,Tier 3,No
+PRO00089,Vela Electronics Item 89,VELA,Electronics,MOBILE,67.18,TIER 2,No 
+PRO00090,origo electronics item 90,Origo,Electronics,Accessories,165.07,TIER 2,Yes
+PRO00091,zenith sports item 91,Zenith,Sports,Cycling,158.07,Tier 2,No
+PRO00092,Zenith Home Item 92,Zenith,Home,Kitchen,13.8,Tier 2,Yes
+PRO00093,NORD HOME ITEM 93,Nord,Home, Cleaning,77.67,Tier 1,Yes
+PRO00094,Rossi Sports Item 94,Rossi,Sports,Cycling,42.49,Tier 2,No
+PRO00095,Vela Fashion Item 95,Vela,FASHION,Mens ,42.45,Tier 2,no
+PRO00096,Vela Beauty Item 96,Vela,Beauty,Skincare,10.26,Tier 1,No
+PRO00097,Aurum Electronics Item 97,Aurum,Electronics,Computing,143.88,Tier 1,No
+PRO00098,Belle Electronics Item 98,Belle,Electronics,SMART HOME,26.7,tier 2,No
+PRO00099,Origo Electronics Item 99,Origo, Electronics, Accessories,4.0,Tier 1,No
+PRO00100,Belle Beauty Item 100,Belle,Beauty,FRAGRANCE,16.06,Tier 1,yes
+PRO00101,Nord Fashion Item 101, Nord,fashion,Mens,69.77,Tier 1,NO
+PRO00102,Nord Fashion Item 102,Nord,Fashion,Mens,11.01,Tier 2,No
+PRO00103,Rossi Fashion Item 103,rossi,Fashion,Mens,20.12,Tier 1,Yes
+PRO00104,ORIGO BEAUTY ITEM 104,Origo,Beauty,Hair,50.91,Tier 2,Yes
+PRO00105,Zenith Fashion Item 105, Zenith,Fashion,Mens,26.58,Tier 2,No
+PRO00106,belle home item 106,Belle,home,Cleaning ,15.27,Tier 2,No
+PRO00107,Origo Fashion Item 107,Origo,Fashion, Shoes,33.94,Tier 2,No
+PRO00108,Origo Fashion Item 108,Origo,Fashion,Shoes,14.15,Tier 2,No
+PRO00109,Aurum Electronics Item 109,Aurum,Electronics,Audio,57.91,Tier 2,No
+PRO00110,Vela Home Item 110,Vela,Home,Furniture,4.66,Tier 1,No
+PRO00111,Belle Home Item 111,BELLE,Home,Kitchen,25.0,Tier 3,No
+PRO00112,Rossi Home Item 112,Rossi, Home,Lighting,9.76,Tier 1,No
+PRO00113,Nova Fashion Item 113,Nova,Fashion,Womens,25.6,Tier 2,No
+PRO00114,Vela Beauty Item 114,VELA,Beauty,Makeup,15.95,tier 1,Yes
+PRO00115,Kairo Electronics Item 115,Kairo,Electronics,Accessories,13.31,Tier 2,no
+PRO00116,Vela Beauty Item 116,Vela,Beauty,Fragrance ,49.18,Tier 3,Yes
+PRO00117,Rossi Fashion Item 117,Rossi ,Fashion,Accessories,36.29, Tier 2,No
+PRO00118, Vela Home Item 118,Vela,Home,LIGHTING,12.14,Tier 2,No
+PRO00119, Lumen Electronics Item 119,LUMEN,Electronics,Smart Home,79.51,Tier 1,No
+PRO00120,Vela Sports Item 120,Vela,Sports,Cycling,17.33,Tier 3,Yes
+PRO00121,aurum fashion item 121,Aurum,Fashion,Kids,15.43,Tier 2,No
+PRO00122,LUMEN FASHION ITEM 122,Lumen,Fashion ,Accessories,26.06,Tier 2,No
+PRO00123,Aurum Sports Item 123,Aurum ,Sports,Team Sports,187.71,Tier 1,No
+PRO00124,kairo sports item 124,KAIRO,SPORTS,Cycling,13.26,Tier 2,No
+PRO00125,Origo Fashion Item 125 ,Origo,Fashion,Shoes,60.71,Tier 2,No
+PRO00126,nova home item 126,Nova,Home,Kitchen,14.72,Tier 2,No
+PRO00127,Zenith Home Item 127,Zenith,Home,Kitchen,68.48,Tier 2,No
+PRO00128,BELLE ELECTRONICS ITEM 128,Belle,Electronics,Audio,11.22,Tier 3, No
+PRO00129,lumen sports item 129,Lumen,Sports,Fitness,17.06,Tier 1,No
+PRO00130,Nord Home Item 130,Nord,HOME,Cleaning,231.99,Tier 3,No
+PRO00131,Nova Home Item 131,Nova,Home,Lighting,34.3,Tier 1,No
+PRO00132,Aurum Fashion Item 132,Aurum,Fashion,Mens,51.1,Tier 1,No
+PRO00133,Rossi Sports Item 133,Rossi,Sports,Accessories,44.49,Tier 2,Yes
+PRO00134,Kairo Electronics Item 134,Kairo, Electronics,Mobile,98.86,Tier 1,Yes
+PRO00135,Nova Electronics Item 135,Nova,Electronics,Mobile,55.57,Tier 2,No
+PRO00136, Origo Electronics Item 136,Origo,Electronics,Accessories,13.07,Tier 2,No
+PRO00137,Zenith Sports Item 137,Zenith,Sports,team sports,61.17,Tier 2,Yes
+PRO00138,Vela Fashion Item 138,Vela,Fashion,Mens,118.26,Tier 3,YES
+PRO00139,Lumen Beauty Item 139,Lumen,Beauty,Hair,32.75,Tier 1,No
+PRO00140,Belle Fashion Item 140,Belle,Fashion, Shoes,84.05,tier 1,No 
+PRO00141,Nord Fashion Item 141 ,Nord,Fashion ,Kids,15.32,TIER 2,No
+PRO00142,AURUM ELECTRONICS ITEM 142,Aurum,ELECTRONICS,AUDIO,18.13,Tier 1,No
+PRO00143,Lumen Home Item 143,Lumen,Home,Furniture,45.21,Tier 2,No 
+PRO00144,Nord Fashion Item 144,NORD,Fashion,Accessories,75.22,Tier 3,No
+PRO00145,Nova Electronics Item 145,Nova ,Electronics,Accessories,41.91,Tier 2,No
+PRO00146, Belle Fashion Item 146,Belle,Fashion,Kids,19.42,Tier 2,no
+PRO00147,Nord Fashion Item 147 ,Nord,Fashion,Womens,32.82,tier 2,No
+PRO00148,Zenith Beauty Item 148 ,Zenith,Beauty,Skincare,9.84,Tier 1,No
+PRO00149,Zenith Electronics Item 149,Zenith,Electronics,mobile,55.29,Tier 2,No
+PRO00150,Origo Fashion Item 150,origo,Fashion,Shoes,81.37,tier 2,YES
+PRO00151,Vela Electronics Item 151,Vela,Electronics,Computing,5.06,Tier 2,No
+PRO00152,Rossi Beauty Item 152,Rossi,Beauty,hair,50.1,Tier 2,No
+PRO00153,Vela Electronics Item 153,Vela,Electronics ,audio,56.81,Tier 3,No
+PRO00154,Rossi Sports Item 154,Rossi,Sports,Accessories,48.44,Tier 3,No
+PRO00155,Belle Electronics Item 155,Belle,Electronics,Computing,10.83,Tier 1,NO
+PRO00156,Kairo Home Item 156,Kairo,Home,Kitchen,42.47,Tier 2,No
+PRO00157,Rossi Home Item 157 ,Rossi,Home,Lighting,21.16,tier 2,No
+PRO00158,ZENITH FASHION ITEM 158,Zenith,Fashion,Mens,12.15,Tier 2,No
+PRO00159,Vela Electronics Item 159,Vela,Electronics,Audio,40.63,Tier 1,No
+PRO00160,Nord Beauty Item 160,Nord,Beauty,Wellness,23.42,Tier 1,No
+PRO00161,AURUM FASHION ITEM 161,Aurum,fashion,shoes,38.14,Tier 2,No
+PRO00162,lumen fashion item 162,Lumen,Fashion,Accessories,51.47,Tier 3,Yes
+PRO00163,Aurum Fashion Item 163,Aurum,Fashion,Womens,18.11,Tier 1,No
+PRO00164,Zenith Fashion Item 164,Zenith,fashion,Mens,78.63,Tier 3,no
+PRO00165,Zenith Sports Item 165,Zenith,Sports,Accessories,22.39,TIER 2,Yes
+PRO00166,Lumen Fashion Item 166,Lumen,Fashion,Womens,20.2,Tier 1 ,No
+PRO00167,belle sports item 167,Belle,Sports,Cycling,7.25,TIER 2,No
+PRO00168,Zenith Fashion Item 168,ZENITH,Fashion,Shoes,53.23,TIER 1,No
+PRO00169,Rossi Electronics Item 169,Rossi,Electronics,Audio,25.07,Tier 2,Yes
+PRO00170,Origo Beauty Item 170,Origo, Beauty,Skincare,17.21,Tier 1,No
+PRO00171,Kairo Electronics Item 171,Kairo,Electronics,COMPUTING,19.88,Tier 2, No
+PRO00172,Aurum Fashion Item 172,Aurum,Fashion,Accessories,14.0,Tier 2,No
+PRO00173,Vela Beauty Item 173,Vela,Beauty,skincare,50.37,Tier 3,NO
+PRO00174,Belle Home Item 174,Belle,Home,DECOR,64.85,Tier 2,No
+PRO00175,Aurum Sports Item 175,Aurum,SPORTS,Cycling,5.35,TIER 3,No
+PRO00176,Rossi Fashion Item 176,Rossi,Fashion,Kids,110.11,Tier 2,No
+PRO00177,Origo Electronics Item 177,Origo,Electronics,Computing,122.8,Tier 2 ,No
+PRO00178,Nord Electronics Item 178,Nord,Electronics,Computing,61.47,Tier 1,Yes
+PRO00179,Belle Electronics Item 179,Belle,Electronics,MOBILE,69.36,Tier 3,no
+PRO00180,Nord Home Item 180,nord,home,Cleaning,35.32,Tier 2,Yes
+PRO00181,lumen electronics item 181, Lumen,Electronics,computing,54.19,Tier 1,No
+PRO00182,Lumen Home Item 182, Lumen,Home,Furniture,58.16,Tier 3,No
+PRO00183,Lumen Fashion Item 183,Lumen,Fashion,Mens,38.33,Tier 2,yes
+PRO00184,Lumen Home Item 184,Lumen,Home,Cleaning,52.53,tier 2, No
+PRO00185,Rossi Home Item 185,Rossi,Home,Lighting,16.02,Tier 2,No
+PRO00186,Kairo Fashion Item 186,Kairo,Fashion ,Accessories,51.84,TIER 1,NO
+PRO00187,Kairo Fashion Item 187,KAIRO,Fashion,Accessories,26.53,Tier 3,Yes
+PRO00188,Rossi Home Item 188,Rossi,HOME,lighting,35.74,Tier 2,No
+PRO00189,Belle Fashion Item 189,Belle,Fashion,MENS,43.71,tier 1,No
+PRO00190,Nord Sports Item 190,Nord,SPORTS,Outdoor,73.64,Tier 3,Yes
+PRO00191,Lumen Fashion Item 191,Lumen,Fashion,Kids,20.41,Tier 2,Yes
+PRO00192,Kairo Fashion Item 192 ,Kairo,Fashion,Womens,48.83,Tier 3,No
+PRO00193,Zenith Electronics Item 193,Zenith,electronics,Audio,12.02,Tier 2,Yes 
+PRO00194,Belle Home Item 194,Belle,Home,Lighting,21.36,Tier 2,No
+PRO00195,LUMEN FASHION ITEM 195,Lumen,Fashion,Mens,64.02,Tier 2,YES
+PRO00196,kairo fashion item 196,Kairo,Fashion,Accessories,7.11,tier 1,YES
+PRO00197,Nord Electronics Item 197,Nord,Electronics,Smart Home,30.18,Tier 2,No
+PRO00198,Lumen Beauty Item 198,Lumen, Beauty,makeup,15.66,Tier 2,yes
+PRO00199,nord home item 199,Nord,Home,FURNITURE,27.94,Tier 2,No 
+PRO00200,Zenith Beauty Item 200,Zenith, Beauty,Wellness,169.89,Tier 1 ,No
+PRO00201,Rossi Home Item 201,Rossi ,home,Furniture,12.07, Tier 3,No
+PRO00202, Zenith Fashion Item 202,Zenith,Fashion,Womens,25.73,Tier 1 , No
+PRO00203,Kairo Sports Item 203,Kairo,Sports,Fitness,60.23,Tier 3,Yes
+PRO00204,Aurum Fashion Item 204,Aurum,FASHION,Shoes,13.0,Tier 1,NO
+PRO00205,Belle Fashion Item 205,BELLE,Fashion,Mens,28.68,Tier 2,NO
+PRO00206,belle sports item 206,Belle, Sports,Fitness,11.7,Tier 1,YES
+PRO00207,Kairo Home Item 207,Kairo,Home,Decor,67.77,Tier 3,No
+PRO00208,Lumen Fashion Item 208,Lumen, Fashion,Shoes,173.21,TIER 2,No
+PRO00209,Rossi Electronics Item 209,Rossi,Electronics,Audio,43.6,Tier 2,No
+PRO00210,Origo Electronics Item 210,Origo ,Electronics,Mobile,67.22,Tier 1,No
+PRO00211,AURUM FASHION ITEM 211,Aurum ,FASHION,accessories,67.59,Tier 1,No
+PRO00212,Nord Sports Item 212,Nord,Sports,Outdoor,10.34,Tier 3,No
+PRO00213,KAIRO ELECTRONICS ITEM 213,Kairo,Electronics,Audio,74.19,Tier 1,No
+PRO00214,Kairo Beauty Item 214,Kairo,Beauty,Fragrance,18.36,tier 2,No
+PRO00215,Lumen Electronics Item 215,Lumen,Electronics,Mobile,4.83,TIER 1,no
+PRO00216,Zenith Fashion Item 216,Zenith,Fashion,Shoes,53.53, Tier 1,No
+PRO00217,Belle Beauty Item 217,Belle ,Beauty ,Fragrance,8.19,Tier 2,No
+PRO00218,VELA BEAUTY ITEM 218,Vela,Beauty,Wellness,67.4,Tier 3,No
+PRO00219,Lumen Electronics Item 219,lumen,Electronics,Smart Home,14.74,Tier 1,yes
+PRO00220, Kairo Home Item 220,Kairo ,Home,DECOR,150.51,Tier 1,No
+PRO00221,Nova Sports Item 221,Nova,Sports,Accessories,75.73,Tier 2,No
+PRO00222, Kairo Sports Item 222,Kairo,Sports,Fitness,20.82,Tier 2,No
+PRO00223,aurum beauty item 223,Aurum,Beauty,Fragrance,127.41,Tier 2 ,No
+PRO00224,Zenith Electronics Item 224,Zenith,Electronics,Smart Home,17.62,Tier 2,No
+PRO00225,Nord Electronics Item 225,Nord,Electronics,Audio,63.67,tier 2,Yes
+PRO00226,Lumen Beauty Item 226,Lumen,BEAUTY,Wellness,44.72,Tier 2,No 
+PRO00227,Lumen Home Item 227,Lumen,Home,Furniture,33.58,TIER 1,No
+PRO00228,Nord Electronics Item 228,Nord,Electronics,Audio ,48.41,Tier 2,No
+PRO00229,ROSSI FASHION ITEM 229,Rossi,fashion,Womens,29.2,Tier 1,No
+PRO00230,Nova Fashion Item 230,Nova,Fashion,Shoes,120.23,TIER 2,No
+PRO00231,Nova Beauty Item 231,Nova,Beauty,Skincare,37.67,Tier 3,Yes
+PRO00232,Lumen Sports Item 232,Lumen,Sports,Outdoor ,103.13,TIER 1,No
+PRO00233,Nord Fashion Item 233,Nord,Fashion,Accessories,37.18,Tier 1,YES
+PRO00234,Aurum Fashion Item 234,Aurum,Fashion,accessories,36.2,Tier 2,YES
+PRO00235,nova sports item 235,Nova,Sports,Outdoor,34.2,Tier 2,No
+PRO00236,Belle Electronics Item 236,Belle,ELECTRONICS,Computing,4.41,Tier 2,No
+PRO00237,Rossi Fashion Item 237,Rossi,Fashion,ACCESSORIES,20.88,Tier 2, No
+PRO00238,Nova Sports Item 238,Nova,Sports,Outdoor,33.7,Tier 3 ,No
+PRO00239,Zenith Electronics Item 239,Zenith,Electronics,Smart Home,236.39,tier 3,No
+PRO00240,Belle Electronics Item 240,Belle,ELECTRONICS,Accessories,14.13,Tier 2,No
+PRO00241,Belle Electronics Item 241,Belle,Electronics,Audio,52.87,Tier 2,No
+PRO00242,Aurum Beauty Item 242,Aurum,Beauty,SKINCARE,12.55,Tier 1 ,No
+PRO00243,Belle Fashion Item 243,BELLE, Fashion,Mens,13.0,Tier 2,No 
+PRO00244,Aurum Fashion Item 244,Aurum,Fashion,Womens,28.16,Tier 3,No
+PRO00245,Zenith Fashion Item 245,Zenith,fashion,Womens,11.57,Tier 2,No
+PRO00246,Zenith Fashion Item 246,zenith,Fashion,Mens,152.71,Tier 2 ,No
+PRO00247,Rossi Fashion Item 247,Rossi,Fashion,Mens,103.66,Tier 1,No
+PRO00248,Aurum Home Item 248,Aurum,Home,decor,149.58,Tier 1 ,NO
+PRO00249,Vela Beauty Item 249,Vela,Beauty,Fragrance,10.94,TIER 1,No
+PRO00250,Kairo Beauty Item 250,Kairo,Beauty,Hair,44.16,Tier 2,Yes
+PRO00251,Rossi Fashion Item 251,Rossi,Fashion,Kids,300.64,Tier 2 ,Yes
+PRO00252,aurum beauty item 252,Aurum,Beauty,Fragrance,10.59,Tier 2 ,NO
+PRO00253,Lumen Fashion Item 253,Lumen,Fashion,Mens,14.6,Tier 2,No
+PRO00254,Kairo Electronics Item 254,Kairo,Electronics ,Mobile,132.33,Tier 1,No
+PRO00255,Origo Fashion Item 255,Origo,Fashion,Kids,15.07,Tier 1,No
+PRO00256,Belle Sports Item 256,Belle,Sports,Fitness,90.98,TIER 3,NO
+PRO00257,Kairo Fashion Item 257,Kairo,FASHION,Mens,123.95,tier 1,No
+PRO00258,KAIRO BEAUTY ITEM 258,Kairo,Beauty,MAKEUP,9.39,Tier 2,No
+PRO00259,Lumen Home Item 259,LUMEN,Home,Furniture,59.3,Tier 2,No
+PRO00260,Zenith Electronics Item 260,Zenith,Electronics,Mobile,51.8,Tier 1 , No
+PRO00261,Vela Electronics Item 261,Vela, Electronics,Smart Home,10.02,Tier 2,No
+PRO00262,Vela Fashion Item 262,Vela,Fashion,ACCESSORIES,118.01,Tier 2,No
+PRO00263,Vela Electronics Item 263,vela,Electronics,mobile,36.37,tier 2,No
+PRO00264,nord beauty item 264,Nord,BEAUTY,WELLNESS,51.89,Tier 3,Yes
+PRO00265, Vela Fashion Item 265,Vela,Fashion,Kids,126.23,Tier 1,No
+PRO00266,Nova Home Item 266,Nova,Home,LIGHTING,18.58,Tier 3,No
+PRO00267,Zenith Beauty Item 267,Zenith,BEAUTY,Wellness,23.16,Tier 3,No
+PRO00268,Lumen Electronics Item 268,Lumen,Electronics, Audio,4.0,Tier 3,NO
+PRO00269,KAIRO ELECTRONICS ITEM 269,Kairo,Electronics,COMPUTING,40.52,Tier 2,No
+PRO00270,Origo Beauty Item 270,origo,Beauty,Makeup,31.57,Tier 2,yes
+PRO00271,Origo Sports Item 271,Origo ,Sports,Team Sports,13.38,tier 2,Yes
+PRO00272,Origo Home Item 272,Origo,Home ,Decor,18.35,Tier 1,No
+PRO00273,Nord Fashion Item 273,Nord,Fashion,Shoes,10.47,Tier 1, No
+PRO00274,NOVA FASHION ITEM 274,Nova,Fashion,Mens ,21.47,Tier 2,No
+PRO00275,Rossi Fashion Item 275,Rossi,Fashion,Mens,9.9,Tier 2, No
+PRO00276,Aurum Beauty Item 276, Aurum,beauty,Wellness,12.76,Tier 2 ,No 
+PRO00277,Lumen Fashion Item 277,Lumen,Fashion, Kids,20.83,Tier 1,No
+PRO00278, Lumen Sports Item 278,Lumen,Sports,Cycling,14.32,TIER 2,No
+PRO00279,Nord Sports Item 279 ,NORD,Sports,Accessories,18.61,Tier 2,No
+PRO00280,Aurum Fashion Item 280 ,Aurum, Fashion,Kids,189.38,Tier 2,no
+PRO00281,Zenith Fashion Item 281,Zenith,Fashion,Kids,9.27,TIER 2,No
+PRO00282,Aurum Fashion Item 282,Aurum,FASHION,shoes,48.41,Tier 1,No
+PRO00283,Nova Beauty Item 283,Nova,Beauty,HAIR,25.5,Tier 1,Yes
+PRO00284,nova beauty item 284,Nova,BEAUTY,Wellness,77.71,Tier 2,no
+PRO00285,Rossi Fashion Item 285,rossi,FASHION,Kids,21.27, Tier 2,No
+PRO00286,NOVA SPORTS ITEM 286,Nova,Sports,Team Sports,12.75,TIER 2,No
+PRO00287,Nova Beauty Item 287,Nova,BEAUTY,Skincare,77.1,Tier 2,No
+PRO00288,lumen home item 288,LUMEN,HOME,Cleaning,104.9,Tier 2,No
+PRO00289,ZENITH SPORTS ITEM 289,Zenith,Sports,Fitness,22.74,TIER 2,No
+PRO00290,Kairo Home Item 290,Kairo,Home,KITCHEN,45.17,Tier 3,Yes
+PRO00291,Nord Beauty Item 291,NORD,Beauty,Fragrance,9.44,TIER 3,NO
+PRO00292,Nord Sports Item 292,Nord,Sports,Accessories,140.48,Tier 2,No
+PRO00293,Aurum Electronics Item 293,Aurum,ELECTRONICS,Mobile,46.56,Tier 1,No
+PRO00294,Vela Fashion Item 294,Vela,FASHION,Womens,110.21,Tier 1,No
+PRO00295,Rossi Sports Item 295,Rossi,Sports,Outdoor,48.03,Tier 2,no
+PRO00296,lumen beauty item 296,Lumen,Beauty,FRAGRANCE,11.75,Tier 2,No
+PRO00297,Nova Fashion Item 297,Nova,Fashion,WOMENS,14.35,Tier 1,No
+PRO00298,Kairo Fashion Item 298,Kairo ,Fashion,Accessories,50.35,Tier 2,no
+PRO00299,Origo Sports Item 299,Origo,Sports,Cycling,9.1, Tier 1,Yes
+PRO00300,Lumen Electronics Item 300,Lumen,Electronics,Smart Home,15.39,Tier 1,No
+PRO00301,Lumen Beauty Item 301,Lumen ,Beauty,Hair,62.06,Tier 1 ,No
+PRO00302,Lumen Home Item 302,LUMEN,HOME,Decor,23.89,Tier 3,Yes
+PRO00303,Lumen Fashion Item 303,lumen,FASHION,Womens,67.71,Tier 1 ,No
+PRO00304,Belle Fashion Item 304 ,Belle,Fashion, Mens,123.27,Tier 1,No
+PRO00305,Origo Home Item 305,Origo,Home,Cleaning,69.8,Tier 3,No
+PRO00306,Rossi Home Item 306,Rossi,Home,Kitchen,33.43,Tier 2,No
+PRO00307,Kairo Fashion Item 307,Kairo,Fashion,Mens,26.09,Tier 2,no
+PRO00308,ZENITH FASHION ITEM 308,Zenith,FASHION,Kids,36.97,Tier 2,No
+PRO00309,Rossi Fashion Item 309,Rossi,Fashion,Kids,26.24,Tier 1,No
+PRO00310,Kairo Fashion Item 310,Kairo,FASHION,Accessories,28.27,tier 2,yes
+PRO00311,Zenith Home Item 311,Zenith,Home,Lighting,12.39,Tier 2,NO
+PRO00312,Zenith Sports Item 312,Zenith,Sports,Team Sports,40.4,Tier 1,NO
+PRO00313,Belle Electronics Item 313,Belle,Electronics,Accessories,18.13,tier 2,No
+PRO00314,Vela Fashion Item 314,Vela,fashion,Accessories,43.63,Tier 1,No
+PRO00315,Aurum Beauty Item 315,Aurum,BEAUTY,Wellness,28.4,Tier 1,No
+PRO00316,Aurum Fashion Item 316,Aurum,Fashion,Mens,26.83,Tier 2,No
+PRO00317,Kairo Electronics Item 317,Kairo,ELECTRONICS,Accessories,9.17,Tier 1,No
+PRO00318,Lumen Electronics Item 318,Lumen,Electronics,Accessories,7.46,Tier 1 ,No
+PRO00319,NOVA FASHION ITEM 319,Nova,Fashion,accessories,54.4,Tier 2,No
+PRO00320,Nord Sports Item 320 ,Nord,Sports,CYCLING,13.21, Tier 2,No
+PRO00321,NOVA FASHION ITEM 321,Nova,Fashion,KIDS,56.12,TIER 1,No
+PRO00322,LUMEN SPORTS ITEM 322,Lumen,Sports,Outdoor,9.17,Tier 2,No
+PRO00323,Origo Electronics Item 323,Origo,Electronics,COMPUTING,188.15,TIER 2,No
+PRO00324,Lumen Electronics Item 324,Lumen,Electronics,Smart Home,7.56,Tier 1,No
+PRO00325,Kairo Fashion Item 325,Kairo,Fashion,Mens,37.07,Tier 2 ,No
+PRO00326,Rossi Fashion Item 326,Rossi,FASHION,Mens,20.62,TIER 2,yes
+PRO00327,Nord Home Item 327 ,Nord,Home,Lighting,19.73,Tier 2,No
+PRO00328,Rossi Fashion Item 328,Rossi,FASHION,Kids,57.11,Tier 2,No
+PRO00329,Origo Fashion Item 329,Origo,Fashion,Mens,16.84,Tier 1,No
+PRO00330,Origo Fashion Item 330 ,Origo,Fashion,Womens,50.8,Tier 1,No
+PRO00331,Aurum Home Item 331,Aurum,home,Lighting,14.8,Tier 3,No
+PRO00332,Belle Fashion Item 332,Belle,fashion,Shoes,97.35,Tier 3,No
+PRO00333,Nova Home Item 333,Nova ,Home,Lighting,35.76,Tier 1,No
+PRO00334,Origo Fashion Item 334,origo,fashion,Womens,32.83,Tier 2,No
+PRO00335,NOVA FASHION ITEM 335,Nova,Fashion,accessories,104.28,TIER 2,No
+PRO00336,Zenith Electronics Item 336,Zenith,Electronics,Smart Home,164.03,Tier 2,No
+PRO00337,Aurum Beauty Item 337,aurum,Beauty,Wellness,117.92,Tier 1,No
+PRO00338,Nord Fashion Item 338,Nord,Fashion,Mens,10.9,Tier 3,No
+PRO00339,Zenith Fashion Item 339,Zenith,Fashion,Shoes ,4.0,Tier 2,No
+PRO00340,ZENITH SPORTS ITEM 340,zenith,Sports,Outdoor,13.33,Tier 3,No
+PRO00341,Belle Electronics Item 341,BELLE,Electronics,Computing,61.99,TIER 2,No
+PRO00342,Rossi Sports Item 342,Rossi,Sports,Accessories,16.89,Tier 3,No
+PRO00343,Origo Sports Item 343,Origo,sports,Cycling,88.28,Tier 2,Yes
+PRO00344,Lumen Electronics Item 344,Lumen,Electronics,Accessories,12.74,Tier 2 ,yes
+PRO00345,Origo Home Item 345,origo,Home ,Furniture,30.87, Tier 1,No
+PRO00346,Rossi Fashion Item 346,Rossi,FASHION,Kids,56.22,Tier 1,No
+PRO00347,Rossi Beauty Item 347,ROSSI,Beauty,FRAGRANCE,45.01,Tier 2,No
+PRO00348,Nova Electronics Item 348,Nova,Electronics,Smart Home ,144.13,Tier 1,No
+PRO00349,Nova Electronics Item 349,Nova,Electronics,Audio,66.92,Tier 2,No
+PRO00350,Kairo Fashion Item 350,Kairo,Fashion,Mens,4.86,TIER 1,No
+PRO00351,Origo Home Item 351,Origo,Home ,Lighting,14.03,tier 2,No
+PRO00352,Belle Electronics Item 352,Belle,ELECTRONICS,Audio,51.6,TIER 1,Yes
+PRO00353,Nova Home Item 353,Nova,Home,Cleaning,38.74,tier 2,yes
+PRO00354,Vela Fashion Item 354,Vela,Fashion,Kids,27.95,Tier 2,No
+PRO00355,Nova Sports Item 355,Nova,Sports,outdoor,11.02,Tier 2 ,No
+PRO00356,Origo Fashion Item 356,Origo,Fashion ,mens,15.51,Tier 2,No
+PRO00357,Lumen Sports Item 357,Lumen,Sports ,FITNESS,21.74,Tier 2,No
+PRO00358, Belle Beauty Item 358,Belle,Beauty,Fragrance,7.01,Tier 2,No
+PRO00359,Rossi Beauty Item 359,Rossi,Beauty,Makeup,61.02,Tier 1,No
+PRO00360,Nova Fashion Item 360,Nova,Fashion,Accessories,41.29,Tier 2,No
+PRO00361,Belle Home Item 361,Belle,Home,Kitchen,62.15,Tier 2,Yes
+PRO00362,Nova Home Item 362,nova,Home,Kitchen,29.08, Tier 1,No
+PRO00363,nova home item 363,NOVA,Home,Cleaning,29.6,Tier 1,No
+PRO00364,Rossi Fashion Item 364,Rossi,Fashion,Accessories,23.58,Tier 2,No
+PRO00365,Nova Fashion Item 365,Nova ,Fashion,Accessories,16.15,Tier 2,No
+PRO00366,Origo Fashion Item 366,Origo,Fashion,Shoes,18.5,Tier 3,Yes
+PRO00367,Nord Home Item 367,Nord,Home,Decor,5.38,TIER 1,No
+PRO00368,Vela Fashion Item 368,Vela,Fashion,Shoes,35.49,Tier 2,no
+PRO00369,Aurum Fashion Item 369,Aurum,Fashion,Accessories,46.95,Tier 2,No
+PRO00370,Nord Home Item 370,Nord, Home,Furniture,27.65,Tier 2,Yes
+PRO00371,Belle Fashion Item 371,Belle,Fashion,Womens,33.75,Tier 2, No
+PRO00372,Nord Home Item 372, Nord,HOME,Decor,14.61,Tier 3,No
+PRO00373,Vela Electronics Item 373,Vela,Electronics,Computing,28.18,TIER 3,No
+PRO00374,aurum fashion item 374, Aurum,Fashion,Mens,52.92,Tier 2,No
+PRO00375,Lumen Electronics Item 375, Lumen,Electronics,Accessories,91.39,Tier 2,Yes
+PRO00376,Zenith Home Item 376,zenith,Home,Decor,56.45,tier 2,no
+PRO00377,Zenith Electronics Item 377,Zenith,Electronics,SMART HOME,23.18,TIER 2,No
+PRO00378,Kairo Fashion Item 378,KAIRO,Fashion,Accessories,24.47,Tier 1,Yes
+PRO00379,Belle Electronics Item 379,Belle,ELECTRONICS,Accessories,41.53,Tier 2,NO
+PRO00380,Belle Fashion Item 380,belle,Fashion,Kids,33.38,Tier 1,NO
+PRO00381,vela fashion item 381,vela,fashion,KIDS,47.52,Tier 1,No
+PRO00382,nova fashion item 382,Nova,fashion,Womens,7.6,Tier 1,Yes
+PRO00383,Belle Fashion Item 383,Belle ,Fashion,Womens,136.14,Tier 3,No
+PRO00384,Vela Sports Item 384,Vela,Sports,FITNESS,7.56,Tier 2,No
+PRO00385,Nord Electronics Item 385,Nord,electronics,Audio,4.41,Tier 2 ,No
+PRO00386,Belle Fashion Item 386,Belle,Fashion,Womens,7.0,Tier 1, No
+PRO00387,zenith sports item 387,zenith,Sports,Outdoor,13.9,Tier 1,No
+PRO00388,Origo Home Item 388,origo,Home ,Decor,84.6,tier 2,No
+PRO00389,Aurum Electronics Item 389,Aurum,ELECTRONICS,Computing,30.38,TIER 1,No
+PRO00390,aurum electronics item 390,Aurum,Electronics, Smart Home,219.23,Tier 1,Yes
+PRO00391,LUMEN FASHION ITEM 391,Lumen ,Fashion,Shoes,13.37,Tier 1,No
+PRO00392,Lumen Fashion Item 392,lumen,Fashion,Mens,44.68,Tier 2,No
+PRO00393,AURUM FASHION ITEM 393,Aurum, Fashion,Kids,39.83,TIER 2,No
+PRO00394,Lumen Fashion Item 394,LUMEN,Fashion,Accessories,29.06,TIER 3,No
+PRO00395,Nord Sports Item 395,Nord,Sports,Team Sports,35.05,Tier 3 ,No
+PRO00396,zenith fashion item 396,Zenith ,Fashion,KIDS,117.98,Tier 2,No
+PRO00397,Vela Sports Item 397,Vela,Sports,Accessories,10.13,Tier 2,No
+PRO00398,NOVA ELECTRONICS ITEM 398,Nova,Electronics,Mobile,80.83,Tier 1,No
+PRO00399,Lumen Home Item 399,Lumen,Home,Lighting,47.31,Tier 1 ,no
+PRO00400,BELLE ELECTRONICS ITEM 400,Belle,Electronics,COMPUTING,111.3,Tier 1, No
+PRO00401,ORIGO HOME ITEM 401,Origo,home,Furniture,26.41,Tier 2,Yes
+PRO00402,aurum sports item 402,Aurum,Sports ,Cycling,21.52,TIER 1,No
+PRO00403,VELA HOME ITEM 403,Vela,Home,Kitchen,26.94,Tier 3,No
+PRO00404,Kairo Sports Item 404,Kairo,Sports,Team Sports,10.03,Tier 2,No
+PRO00405,Zenith Beauty Item 405,zenith,Beauty,Wellness,86.7,Tier 1,No
+PRO00406,Vela Fashion Item 406,Vela,Fashion,Shoes,19.34,Tier 2,No
+PRO00407,Nova Electronics Item 407,Nova ,electronics,Accessories,11.13,Tier 2,No
+PRO00408,Belle Sports Item 408,Belle,Sports,Outdoor,23.34,TIER 1,No
+PRO00409,Aurum Sports Item 409,Aurum,Sports,Outdoor,39.79,Tier 1,No
+PRO00410,Origo Home Item 410,Origo,Home,Cleaning,20.04,Tier 1 ,No
+PRO00411,Origo Electronics Item 411,Origo,Electronics,Computing,97.6,Tier 2,Yes
+PRO00412,Nova Beauty Item 412,Nova,Beauty,Fragrance,23.11,Tier 1,No
+PRO00413,ROSSI HOME ITEM 413,Rossi,Home,Furniture,17.16,Tier 3,No
+PRO00414,Kairo Fashion Item 414,Kairo,Fashion,Kids,6.57,Tier 2,No
+PRO00415, Origo Electronics Item 415,origo,Electronics,Accessories,64.93,tier 2,No
+PRO00416, Kairo Sports Item 416,Kairo,Sports,Cycling,35.16,TIER 2,Yes
+PRO00417,Aurum Fashion Item 417,Aurum,Fashion,Accessories,81.23,Tier 2,No 
+PRO00418,Zenith Beauty Item 418 ,Zenith,Beauty, Wellness,61.94,TIER 1,No 
+PRO00419,Nova Fashion Item 419,Nova, Fashion, Mens,17.69,Tier 1,No
+PRO00420,Vela Electronics Item 420,Vela,Electronics,Accessories,45.41,Tier 1,No
+PRO00421,aurum electronics item 421,aurum,Electronics,Accessories ,50.21,Tier 2,No
+PRO00422,Belle Home Item 422,Belle,Home,Furniture,27.15,Tier 1,No
+PRO00423,Kairo Fashion Item 423 ,Kairo,Fashion,KIDS,8.37,Tier 2,No
+PRO00424,Nord Electronics Item 424, Nord,Electronics,Mobile,21.75,Tier 2,No
+PRO00425,Zenith Home Item 425,Zenith,HOME,Furniture,55.49,TIER 1,Yes
+PRO00426,Aurum Sports Item 426,Aurum,Sports,Accessories,91.52,Tier 2, Yes
+PRO00427,Vela Beauty Item 427,Vela,Beauty ,Fragrance,52.43,Tier 2,Yes
+PRO00428,Origo Beauty Item 428,Origo,Beauty,Makeup,41.98,Tier 2,No
+PRO00429,Kairo Home Item 429,Kairo,Home,Kitchen ,119.51,Tier 1,Yes
+PRO00430,Zenith Electronics Item 430,Zenith,Electronics,Computing,21.37,Tier 2,Yes
+PRO00431,Lumen Beauty Item 431,Lumen ,Beauty,Skincare,42.91,Tier 1, Yes
+PRO00432,Nova Home Item 432,Nova,HOME,Furniture,85.82,Tier 2,No
+PRO00433,Origo Home Item 433,origo,Home,Furniture ,400.34,TIER 1,No
+PRO00434,Nova Fashion Item 434, Nova,Fashion,Womens,95.39,Tier 1,No
+PRO00435,Kairo Home Item 435,Kairo,Home,Decor,108.69,Tier 1,NO
+PRO00436,Aurum Home Item 436,Aurum,Home,Decor,6.62,Tier 3,No
+PRO00437,lumen home item 437,Lumen,Home,DECOR,27.42,Tier 1, No
+PRO00438,kairo electronics item 438,Kairo,Electronics,Computing ,40.1,Tier 2,No
+PRO00439,LUMEN ELECTRONICS ITEM 439,Lumen,Electronics,Smart Home,54.23,TIER 1,Yes
+PRO00440,origo beauty item 440,Origo,Beauty,SKINCARE,60.39,Tier 2,Yes
+PRO00441,Origo Beauty Item 441,Origo,Beauty,Makeup,10.91,Tier 1,No 
+PRO00442,Lumen Fashion Item 442,Lumen,fashion,Kids,62.35,Tier 2,No
+PRO00443,Lumen Fashion Item 443,Lumen,Fashion,Womens,51.94,Tier 2,No
+PRO00444,Kairo Fashion Item 444,Kairo,Fashion,kids,48.17,Tier 1,No
+PRO00445,Nord Fashion Item 445,Nord,Fashion,WOMENS,204.33,Tier 3,No
+PRO00446,Zenith Sports Item 446,Zenith,sports,Outdoor,108.47,Tier 3,No
+PRO00447,Aurum Home Item 447,Aurum,Home,Cleaning,5.4,Tier 2,Yes
+PRO00448,Zenith Electronics Item 448,Zenith,electronics,MOBILE,54.87,Tier 2, No
+PRO00449,Aurum Home Item 449,Aurum, Home,Lighting,9.16,Tier 3,Yes
+PRO00450,BELLE FASHION ITEM 450,Belle,Fashion,ACCESSORIES,21.91,Tier 1,No
+PRO00451,Zenith Electronics Item 451,Zenith,ELECTRONICS,accessories,21.36,Tier 1,No 
+PRO00452,Nova Home Item 452,Nova,Home,Decor,99.64,Tier 2,no
+PRO00453,Vela Fashion Item 453,vela,Fashion,Shoes,15.48,Tier 1 ,No
+PRO00454,Nova Fashion Item 454, Nova,Fashion,Womens,51.78,Tier 1 ,No
+PRO00455,Kairo Home Item 455,Kairo,home,LIGHTING,10.7,Tier 1,No
+PRO00456,Vela Fashion Item 456,vela,Fashion,Shoes,9.59,Tier 3,No
+PRO00457,Nord Electronics Item 457,Nord,Electronics,Mobile,40.09, Tier 2,No
+PRO00458,NORD FASHION ITEM 458,NORD,Fashion,Accessories ,40.91,Tier 3,No
+PRO00459,belle beauty item 459,Belle,Beauty,Skincare,30.77,Tier 3,No 
+PRO00460,Kairo Sports Item 460,Kairo,Sports,Cycling,40.52,Tier 3,No
+PRO00461,Vela Home Item 461,Vela,Home,cleaning,315.75,Tier 1, No
+PRO00462,Origo Home Item 462,Origo,Home,Decor,544.88,TIER 3,No
+PRO00463,Aurum Home Item 463,Aurum,Home,cleaning,743.49,Tier 2,No
+PRO00464,aurum fashion item 464,aurum,Fashion,Mens,111.92,Tier 2,NO
+PRO00465,zenith beauty item 465,Zenith,Beauty,Fragrance,12.54,Tier 3,No
+PRO00466,Nord Electronics Item 466,Nord, Electronics,Audio,506.71,Tier 2,No
+PRO00467,Origo Fashion Item 467 ,Origo ,Fashion ,Womens,29.48,tier 1,No
+PRO00468,Kairo Home Item 468,KAIRO, Home,Lighting,33.11,tier 1,no
+PRO00469,Vela Home Item 469,VELA,Home,Cleaning,118.83,Tier 1,No
+PRO00470,Origo Home Item 470,Origo,Home, Furniture,52.82, Tier 2,No
+PRO00471,lumen fashion item 471,Lumen,Fashion,Shoes,19.02,Tier 1,No
+PRO00472,Kairo Sports Item 472,Kairo,Sports,Accessories,228.87,Tier 1,No
+PRO00473,Zenith Sports Item 473,ZENITH,Sports,Outdoor,72.78,TIER 1,No
+PRO00474,Vela Beauty Item 474,vela,Beauty,Wellness,20.69,Tier 2,No
+PRO00475,aurum fashion item 475,Aurum,Fashion,Accessories,30.14,Tier 2,Yes
+PRO00476,Aurum Electronics Item 476,Aurum,Electronics,Audio,132.72,Tier 2,No
+PRO00477,Rossi Beauty Item 477,Rossi,Beauty,Fragrance,57.6,TIER 3,No
+PRO00478,NOVA FASHION ITEM 478,Nova,Fashion,Womens,18.2,TIER 1,No
+PRO00479,Origo Sports Item 479,Origo,Sports,Accessories,26.07,tier 2,Yes
+PRO00480,Rossi Electronics Item 480,Rossi,Electronics,accessories,198.11,Tier 2,No
+PRO00481,vela sports item 481,Vela,Sports,Fitness,72.15,Tier 3,No
+PRO00482,Kairo Fashion Item 482,Kairo,Fashion,Mens,151.11,Tier 3,No
+PRO00483,nord sports item 483,Nord,Sports,Outdoor,21.32,tier 1,NO
+PRO00484,Rossi Home Item 484,ROSSI,Home,Decor,25.28,Tier 2,Yes
+PRO00485,lumen fashion item 485,Lumen,Fashion,accessories,59.77,Tier 2,No
+PRO00486,Origo Home Item 486,Origo,Home,Decor,4.31,tier 2,No 
+PRO00487,Zenith Home Item 487 ,Zenith,Home,FURNITURE,34.09,Tier 2,No
+PRO00488,Vela Electronics Item 488,Vela,Electronics,Smart Home,26.75,Tier 1,No
+PRO00489,Nova Beauty Item 489,Nova ,Beauty,Makeup,35.61,Tier 2,No
+PRO00490,Vela Home Item 490,vela,Home,Cleaning ,11.16,Tier 2,No
+PRO00491,NORD ELECTRONICS ITEM 491,nord,Electronics,SMART HOME,87.45,TIER 1,No
+PRO00492,ROSSI ELECTRONICS ITEM 492,Rossi,Electronics,Audio,9.69,Tier 3,Yes
+PRO00493,Kairo Electronics Item 493,Kairo,Electronics,MOBILE,25.03,Tier 2,Yes 
+PRO00494,kairo home item 494,Kairo ,Home,Decor,25.4,Tier 3,NO
+PRO00495,Origo Fashion Item 495,Origo,FASHION,mens,143.72,tier 2,No
+PRO00496,Nord Fashion Item 496,Nord,Fashion, Shoes,28.61,Tier 3,No
+PRO00497,Vela Sports Item 497,Vela,Sports,Accessories,54.19,Tier 3,Yes 
+PRO00498,Kairo Fashion Item 498,Kairo,Fashion,Kids,10.94,Tier 2,No
+PRO00499,ROSSI SPORTS ITEM 499,Rossi,Sports,Cycling,15.1,Tier 3,Yes
+PRO00500,Kairo Fashion Item 500,Kairo,Fashion,Mens,48.4,Tier 2,No
+PRO00501, Nord Fashion Item 501,Nord,FASHION,Womens ,5.33,Tier 2,No
+PRO00502,Nova Fashion Item 502,Nova,Fashion,Mens,64.63,TIER 2,No
+PRO00503,Rossi Home Item 503,ROSSI,HOME,Decor,35.19,Tier 3,Yes 
+PRO00504,Zenith Electronics Item 504,Zenith,electronics,Smart Home,73.34,Tier 3,Yes
+PRO00505,Zenith Fashion Item 505, Zenith,Fashion,Kids,55.43,Tier 3,No
+PRO00506,Aurum Electronics Item 506 ,AURUM,Electronics,Accessories,42.61,Tier 1,no
+PRO00507,Zenith Home Item 507,Zenith ,Home,Cleaning,32.44,Tier 1,No
+PRO00508,Aurum Electronics Item 508,Aurum,ELECTRONICS,Smart Home,40.42,tier 1,NO
+PRO00509,AURUM ELECTRONICS ITEM 509,Aurum,Electronics,Accessories,5.11,Tier 1,yes
+PRO00510,origo electronics item 510,Origo,Electronics,Mobile,38.42,Tier 2,No
+PRO00511,NORD ELECTRONICS ITEM 511,Nord,Electronics,Smart Home,72.0,tier 1,NO
+PRO00512,Aurum Electronics Item 512,Aurum ,Electronics,Mobile,80.99,Tier 2,No
+PRO00513,AURUM BEAUTY ITEM 513,Aurum,Beauty,MAKEUP,76.58,Tier 3,No
+PRO00514,Aurum Fashion Item 514,Aurum,Fashion,Accessories,30.59,Tier 1,No
+PRO00515,Lumen Electronics Item 515,Lumen,Electronics,Smart Home,7.84,Tier 2,No
+PRO00516,Zenith Electronics Item 516,Zenith ,Electronics,audio,51.51,TIER 2,No
+PRO00517,Kairo Sports Item 517,Kairo,Sports,FITNESS,19.09,tier 1,No
+PRO00518,Origo Electronics Item 518,ORIGO,Electronics,Accessories ,26.09,Tier 2,no
+PRO00519,Nova Beauty Item 519,Nova,beauty,FRAGRANCE,64.91,Tier 3,Yes
+PRO00520,Nova Electronics Item 520,Nova ,Electronics,Accessories,8.11,Tier 3,No
+PRO00521,Nova Beauty Item 521 ,Nova, Beauty,Skincare ,16.68,Tier 2,No
+PRO00522,Origo Fashion Item 522,origo,Fashion,MENS,81.85,Tier 2,No
+PRO00523,Origo Fashion Item 523,origo,Fashion,mens,40.47,Tier 1,No
+PRO00524,Nova Home Item 524,NOVA,Home ,Lighting,9.95,TIER 1,Yes
+PRO00525,LUMEN FASHION ITEM 525,Lumen,Fashion,Mens,11.52,Tier 1,No
+PRO00526,Origo Sports Item 526,Origo,Sports,Outdoor,22.09,Tier 2,Yes 
+PRO00527,Vela Beauty Item 527,Vela,Beauty,WELLNESS,117.2,Tier 1,No
+PRO00528,Kairo Fashion Item 528,Kairo,FASHION,Shoes,20.78,Tier 2,No
+PRO00529,Nova Electronics Item 529,Nova,Electronics,Mobile,19.05,Tier 1,YES
+PRO00530,Kairo Fashion Item 530,kairo,Fashion,Accessories,436.53,Tier 2,NO
+PRO00531,Nova Electronics Item 531,Nova,electronics,COMPUTING,39.3,TIER 2,No
+PRO00532,nord home item 532,NORD,Home,Decor,16.5,tier 1,No
+PRO00533,Lumen Beauty Item 533,Lumen,Beauty,Skincare,52.07,Tier 2,No
+PRO00534,Rossi Fashion Item 534, Rossi,Fashion ,Shoes,7.06,Tier 3,No
+PRO00535,Aurum Fashion Item 535,Aurum,Fashion,Womens,71.63,TIER 2,NO
+PRO00536,Rossi Electronics Item 536,Rossi,Electronics,Computing,27.29,Tier 3,No
+PRO00537,Origo Beauty Item 537,ORIGO,Beauty,Skincare,14.58,Tier 3,Yes
+PRO00538,Lumen Home Item 538,Lumen,Home,Lighting,24.04,Tier 1,No
+PRO00539,Rossi Beauty Item 539,ROSSI,Beauty,Fragrance,133.96, Tier 2,no
+PRO00540,Rossi Home Item 540,Rossi,Home,Furniture,42.75,Tier 2,no
+PRO00541,Zenith Fashion Item 541,Zenith,Fashion,Kids,19.97, Tier 2,No 
+PRO00542,Zenith Fashion Item 542,Zenith,Fashion,Shoes,8.45,Tier 1, No
+PRO00543,Origo Beauty Item 543,origo,Beauty,Makeup,24.54,Tier 2,No
+PRO00544,Belle Home Item 544,Belle,Home,Furniture,5.1,TIER 1,NO
+PRO00545,Nova Beauty Item 545,Nova,Beauty,Makeup,42.61,Tier 1,No
+PRO00546,Aurum Electronics Item 546,Aurum,Electronics,Computing,121.6,Tier 2,Yes
+PRO00547,Nord Home Item 547,NORD,Home,Cleaning,5.09,tier 2,No 
+PRO00548,Origo Sports Item 548,Origo, Sports,TEAM SPORTS,5.7,Tier 3,No
+PRO00549,ORIGO ELECTRONICS ITEM 549,ORIGO,Electronics,Audio,85.17,tier 2,Yes
+PRO00550,Nova Sports Item 550,NOVA,sports,Fitness,4.16,Tier 3,No
+PRO00551,Belle Home Item 551,Belle,Home, Furniture,15.85,Tier 1,YES
+PRO00552,Lumen Electronics Item 552,Lumen,Electronics,Accessories,64.35,Tier 2,No
+PRO00553,aurum fashion item 553,AURUM,Fashion,Accessories,32.93,Tier 2,NO
+PRO00554,Zenith Home Item 554, Zenith,Home,Kitchen,31.51,Tier 2,No
+PRO00555,Aurum Electronics Item 555,Aurum,Electronics,Smart Home,77.31,Tier 2,No
+PRO00556,Kairo Home Item 556,Kairo,Home,Furniture,11.0,Tier 1,Yes
+PRO00557,Lumen Sports Item 557,Lumen,Sports ,OUTDOOR,77.55,Tier 3,No
+PRO00558,Rossi Electronics Item 558,Rossi,Electronics,Computing,16.39,tier 2,no
+PRO00559,Vela Beauty Item 559,Vela,Beauty,Makeup,11.0,Tier 1,No 
+PRO00560,rossi electronics item 560,Rossi,Electronics,Accessories,72.54,Tier 2,No
+PRO00561, Nova Fashion Item 561,Nova,Fashion,Mens,149.12,Tier 2,yes
+PRO00562,Belle Beauty Item 562,Belle,Beauty,Hair,18.9, Tier 2,No
+PRO00563, Nova Electronics Item 563,Nova,electronics,Audio,17.34,Tier 2,Yes
+PRO00564,Zenith Home Item 564,Zenith,Home, Furniture,14.86,tier 2,no
+PRO00565,Vela Sports Item 565,VELA,Sports,Cycling,112.85,tier 2,Yes
+PRO00566,Origo Electronics Item 566,Origo,ELECTRONICS, Smart Home,23.2,Tier 1,No
+PRO00567,Rossi Home Item 567,Rossi,Home ,Kitchen,4.0,Tier 3,No
+PRO00568,Nova Sports Item 568,Nova,Sports,Outdoor,16.62,Tier 1,NO
+PRO00569,Origo Sports Item 569,Origo,Sports,Fitness,44.85,Tier 2,No
+PRO00570,Vela Fashion Item 570,Vela,Fashion,Accessories,6.0,Tier 2,No 
+PRO00571,Nord Home Item 571,Nord,HOME,Furniture,28.14,Tier 1,No
+PRO00572,Belle Sports Item 572,Belle ,Sports,Team Sports,20.32,Tier 2,No
+PRO00573,aurum home item 573,AURUM,HOME,Cleaning,25.77,Tier 2,No
+PRO00574, Vela Electronics Item 574,Vela,ELECTRONICS,Mobile,9.73,Tier 2,No
+PRO00575,Lumen Sports Item 575 ,Lumen,Sports,Team Sports,14.26,TIER 1,No
+PRO00576,aurum beauty item 576,Aurum,BEAUTY,Hair,102.43,TIER 2,No
+PRO00577,Origo Fashion Item 577 ,Origo,fashion,Womens,75.43,Tier 2,No
+PRO00578,Rossi Beauty Item 578,Rossi,Beauty,Fragrance,14.47,Tier 2,no
+PRO00579, Origo Fashion Item 579,Origo,Fashion,Mens,56.46,TIER 2,No
+PRO00580,Lumen Fashion Item 580,Lumen,FASHION,Womens,4.0,Tier 1 ,No
+PRO00581,zenith sports item 581,Zenith,Sports,team sports,116.84,Tier 2,No
+PRO00582,Rossi Fashion Item 582,Rossi,Fashion,Kids,37.68,Tier 1,No
+PRO00583,Vela Beauty Item 583,Vela , Beauty,Wellness,26.98,Tier 2,Yes
+PRO00584,Belle Beauty Item 584,Belle,Beauty,Hair,52.61,Tier 2,No
+PRO00585,Kairo Electronics Item 585,Kairo,Electronics ,Accessories,12.53,Tier 1,No
+PRO00586,Nova Fashion Item 586,NOVA,Fashion,Accessories,7.23,Tier 1,No
+PRO00587,Lumen Electronics Item 587,Lumen,Electronics,Audio ,4.0,Tier 2,No
+PRO00588,Kairo Beauty Item 588,kairo,Beauty,Makeup,86.13,Tier 2,Yes
+PRO00589,Nord Fashion Item 589,Nord,fashion, Accessories,159.35,Tier 2,No
+PRO00590,Nord Beauty Item 590,NORD,beauty,Hair,10.38,Tier 3,No
+PRO00591,Kairo Electronics Item 591,Kairo,Electronics ,Computing,243.67,Tier 3,Yes
+PRO00592,Belle Fashion Item 592,Belle,Fashion, Kids,7.59,Tier 2,No
+PRO00593,Lumen Electronics Item 593,Lumen,Electronics,COMPUTING,19.23,TIER 2,No
+PRO00594,Belle Electronics Item 594,Belle, Electronics,Accessories,68.81,Tier 1,No
+PRO00595,Nord Fashion Item 595,Nord,Fashion,Kids,87.05,Tier 1,Yes
+PRO00596,Belle Home Item 596,Belle,Home,Lighting,13.77,Tier 1,Yes
+PRO00597,Belle Beauty Item 597, Belle,Beauty,HAIR,303.83,Tier 2,No
+PRO00598,VELA ELECTRONICS ITEM 598,VELA,Electronics,accessories,53.84,Tier 3,No
+PRO00599,Kairo Sports Item 599,Kairo,Sports,Cycling,59.28,Tier 2,No
+PRO00600,zenith fashion item 600,zenith,fashion,Womens,56.24,Tier 1,No
+PRO00601,nova fashion item 601,Nova,Fashion,Shoes,115.1,Tier 1,No
+PRO00602,Nova Sports Item 602,Nova,SPORTS,Fitness,14.5,Tier 2,no
+PRO00603,Origo Home Item 603,Origo,Home,Kitchen,37.17,Tier 1,No
+PRO00604,Rossi Fashion Item 604,rossi, Fashion,Shoes,25.19,TIER 2,No
+PRO00605,Zenith Beauty Item 605,Zenith,Beauty,Makeup,23.95,Tier 2,NO
+PRO00606,Aurum Sports Item 606,Aurum,Sports,Team Sports,129.89,Tier 2,No
+PRO00607,Kairo Home Item 607,Kairo ,HOME,Furniture,34.3,Tier 2,No
+PRO00608,Vela Sports Item 608,Vela ,Sports,Fitness,26.01,Tier 2,No
+PRO00609,Nord Electronics Item 609,Nord,Electronics,smart home,76.53,Tier 2,No
+PRO00610,Nova Electronics Item 610,nova,Electronics,Mobile,13.41,Tier 1 ,NO
+PRO00611,Nord Electronics Item 611,Nord ,Electronics,Accessories,149.91,Tier 1,Yes
+PRO00612,Aurum Electronics Item 612,Aurum,Electronics ,accessories,154.97,Tier 2,No
+PRO00613,Nord Fashion Item 613,Nord,Fashion,Shoes,120.98,Tier 3,Yes
+PRO00614,origo fashion item 614,Origo,FASHION,Shoes,57.54,Tier 1,No
+PRO00615,Rossi Fashion Item 615,Rossi,Fashion,Mens,12.89,Tier 2,No
+PRO00616,Kairo Fashion Item 616,Kairo,Fashion,womens,35.97,Tier 2,No
+PRO00617,Zenith Home Item 617,Zenith,Home,Cleaning,81.5,Tier 2,No
+PRO00618,belle sports item 618,Belle,Sports,Accessories,30.03,TIER 2,NO
+PRO00619,nova home item 619,Nova,Home,Kitchen,136.58,Tier 1,No
+PRO00620,Kairo Electronics Item 620 ,Kairo,ELECTRONICS,COMPUTING,71.0,Tier 3,No
+PRO00621,Nord Fashion Item 621,Nord,Fashion ,KIDS,67.19,TIER 2,no
+PRO00622,vela fashion item 622,Vela,Fashion,Kids,24.4,Tier 1,No
+PRO00623,Nord Home Item 623,Nord,Home,Lighting,39.43,Tier 2,No
+PRO00624,Zenith Electronics Item 624,Zenith, Electronics,Computing,120.03,Tier 1,No
+PRO00625,Lumen Electronics Item 625,Lumen,Electronics,Mobile,22.44,Tier 1,No
+PRO00626,Nova Home Item 626, Nova,Home ,Decor ,27.33,Tier 2,No
+PRO00627,Nord Electronics Item 627,Nord,Electronics,Audio,12.55,Tier 1,No
+PRO00628,Rossi Sports Item 628,Rossi,Sports,Accessories,12.64,Tier 2,No
+PRO00629,Zenith Home Item 629,Zenith,Home,DECOR,7.89,Tier 2,No
+PRO00630,Origo Electronics Item 630 ,Origo,Electronics,Smart Home,61.02,TIER 2,NO
+PRO00631,Kairo Fashion Item 631,Kairo,Fashion,ACCESSORIES,24.52,Tier 2,No
+PRO00632,Zenith Home Item 632,Zenith,Home,Cleaning,7.53,Tier 1,No
+PRO00633,Aurum Beauty Item 633,Aurum,Beauty,Wellness,10.27,Tier 2,No
+PRO00634,Lumen Beauty Item 634,Lumen ,Beauty ,Makeup,8.73,Tier 3,No
+PRO00635,Belle Home Item 635,belle,home,Furniture,43.7,Tier 1,No
+PRO00636,Nova Electronics Item 636,Nova,Electronics,MOBILE,8.64,Tier 1 ,No
+PRO00637,Zenith Sports Item 637,zenith,SPORTS,Team Sports,12.06,Tier 1,No
+PRO00638,lumen electronics item 638,Lumen,Electronics,Computing,160.83,Tier 3,No
+PRO00639,KAIRO HOME ITEM 639,Kairo,Home,Lighting ,23.4,TIER 3, No
+PRO00640,Aurum Sports Item 640,Aurum,Sports,Team Sports ,7.65,Tier 2,No
+PRO00641,zenith beauty item 641,Zenith,Beauty,Fragrance,115.29,Tier 3,No
+PRO00642,Aurum Home Item 642,Aurum,Home,Lighting,55.54,tier 3,No
+PRO00643,ROSSI FASHION ITEM 643,rossi,FASHION,Kids,47.38,Tier 2,No
+PRO00644,Kairo Fashion Item 644,Kairo,Fashion,Mens,19.78,Tier 2,No
+PRO00645,zenith sports item 645,Zenith,sports,cycling,27.77,Tier 3,No
+PRO00646,Origo Electronics Item 646,Origo,Electronics,Audio,19.7,Tier 2,Yes
+PRO00647,Zenith Electronics Item 647,Zenith,Electronics,Accessories,4.42,Tier 1,No
+PRO00648,BELLE FASHION ITEM 648,BELLE,Fashion,Shoes,51.56,Tier 1,No 
+PRO00649,Belle Electronics Item 649,Belle,Electronics,Smart Home,7.52,Tier 2,No
+PRO00650,belle electronics item 650,Belle, Electronics,Mobile,58.85,Tier 2,No
+PRO00651,Belle Electronics Item 651 ,Belle,Electronics,Computing,54.94,TIER 1,No
+PRO00652,rossi home item 652,Rossi,Home,Cleaning,63.73,Tier 2,no
+PRO00653,Belle Home Item 653,Belle,Home,Lighting ,96.48,Tier 1,No
+PRO00654,Zenith Electronics Item 654,Zenith,Electronics,Smart Home,48.71,Tier 2 ,No
+PRO00655,Rossi Sports Item 655,Rossi ,Sports,Cycling,78.32,Tier 1,No
+PRO00656, Rossi Electronics Item 656,ROSSI,electronics,Accessories,17.51,Tier 2,No
+PRO00657,Nord Sports Item 657,Nord,Sports,Outdoor,51.36,Tier 2,No
+PRO00658,Vela Electronics Item 658,Vela, Electronics,Computing,48.27,Tier 1,Yes
+PRO00659,Aurum Fashion Item 659,Aurum, Fashion,Womens ,21.27,Tier 2,No
+PRO00660,Kairo Beauty Item 660,Kairo,Beauty,Fragrance,48.04,Tier 2,YES
+PRO00661,Nova Fashion Item 661,Nova ,FASHION,Kids,12.31, Tier 2,yes
+PRO00662,Vela Home Item 662,Vela,Home,Cleaning,23.23,Tier 1,Yes
+PRO00663,NORD ELECTRONICS ITEM 663,Nord,Electronics,Computing,10.83,Tier 1,No
+PRO00664,Rossi Sports Item 664,Rossi,SPORTS,TEAM SPORTS,419.81,tier 2,No
+PRO00665,Origo Home Item 665,Origo,Home,decor,74.58,Tier 2,No
+PRO00666,Lumen Electronics Item 666,Lumen,Electronics,Mobile,12.9,Tier 2,No
+PRO00667,Rossi Beauty Item 667,ROSSI,Beauty,HAIR,44.65,Tier 2,No
+PRO00668,Zenith Home Item 668,zenith,Home,Lighting,56.48,Tier 2,no
+PRO00669,Zenith Fashion Item 669,Zenith,Fashion,Kids,21.47,Tier 1,YES
+PRO00670,Lumen Electronics Item 670,Lumen,ELECTRONICS,Smart Home,34.64,Tier 2,No
+PRO00671,Nord Beauty Item 671,Nord,Beauty,Wellness,29.63,tier 1,YES
+PRO00672,Nord Beauty Item 672,Nord,Beauty,Skincare,16.57,Tier 2,No
+PRO00673,Nova Fashion Item 673,Nova,Fashion,Accessories,10.15,Tier 2,No
+PRO00674,Nova Home Item 674,NOVA, Home,Cleaning,79.68,Tier 2,No
+PRO00675,Vela Home Item 675,Vela,Home,Furniture,12.76,Tier 2,No
+PRO00676,Nord Home Item 676,Nord,Home,Furniture,91.34,Tier 3,No
+PRO00677,Zenith Electronics Item 677,Zenith,Electronics,Computing,40.45,Tier 2,No
+PRO00678,ZENITH FASHION ITEM 678,Zenith,Fashion,Womens,8.89,Tier 1,No
+PRO00679,Zenith Home Item 679,ZENITH,HOME,Kitchen,6.37,Tier 1,No
+PRO00680,Nova Sports Item 680,Nova,Sports,Outdoor,37.05,Tier 2,No
+PRO00681,Nova Beauty Item 681,Nova,Beauty,Makeup,34.24,Tier 2, No
+PRO00682,Aurum Sports Item 682,Aurum,Sports,FITNESS,47.71,Tier 2,No
+PRO00683,Nord Sports Item 683,NORD,Sports,TEAM SPORTS,25.38,Tier 1,Yes
+PRO00684,Belle Fashion Item 684,Belle,fashion,Shoes,158.95,Tier 1,No
+PRO00685,Vela Home Item 685,Vela,Home,Decor,203.6,Tier 2,No
+PRO00686,Aurum Fashion Item 686,Aurum ,Fashion,Kids,11.37,Tier 2,No
+PRO00687, Nova Beauty Item 687,Nova,Beauty,Makeup,48.33,Tier 1,Yes
+PRO00688,Zenith Home Item 688,Zenith ,Home,lighting,28.05,Tier 1,Yes
+PRO00689,Nova Sports Item 689,Nova, Sports,Accessories,153.67,Tier 1,No
+PRO00690,Nord Fashion Item 690,Nord,Fashion,Womens,10.08,Tier 2, No
+PRO00691,Kairo Sports Item 691,KAIRO,Sports,Team Sports,14.84,Tier 1,No
+PRO00692,Lumen Electronics Item 692,Lumen,Electronics,Accessories,34.15,Tier 1,YES
+PRO00693,Belle Electronics Item 693,BELLE,Electronics,Accessories,41.54,TIER 2,No
+PRO00694,Nova Fashion Item 694,Nova ,Fashion,Womens,77.52,Tier 2,NO
+PRO00695,Kairo Fashion Item 695,Kairo, Fashion,Accessories,14.7,Tier 3,No
+PRO00696,Kairo Electronics Item 696,Kairo ,Electronics,COMPUTING,37.86,Tier 2,No
+PRO00697,BELLE ELECTRONICS ITEM 697,Belle, Electronics,Computing,14.36,Tier 1,No
+PRO00698,Belle Sports Item 698,Belle,Sports ,Accessories,5.91,Tier 1,No
+PRO00699,Origo Beauty Item 699,Origo,Beauty,Hair,5.63,Tier 2,Yes
+PRO00700,Lumen Fashion Item 700,Lumen,Fashion,Shoes,19.88,Tier 1,NO
+PRO00701,Rossi Electronics Item 701,Rossi,Electronics,Smart Home,104.77,Tier 2,No
+PRO00702,Origo Beauty Item 702,Origo,Beauty,Fragrance,32.22,Tier 2,no
+PRO00703,AURUM HOME ITEM 703,AURUM,HOME,Kitchen,6.58,tier 1,No
+PRO00704,Origo Home Item 704,Origo,Home, Lighting,63.34,Tier 3,No
+PRO00705,Vela Home Item 705,VELA,Home,Decor,33.76,Tier 3,NO
+PRO00706,Origo Electronics Item 706,ORIGO,Electronics,Mobile,71.49,Tier 2,Yes
+PRO00707,Vela Beauty Item 707 ,Vela ,Beauty,Fragrance,19.85,Tier 1, No
+PRO00708,aurum beauty item 708,AURUM,Beauty,Wellness,12.58,tier 2,No
+PRO00709,Aurum Home Item 709,Aurum,HOME,Lighting,85.01,Tier 1,No
+PRO00710,Kairo Electronics Item 710,Kairo ,Electronics,Smart Home,45.76,Tier 1,NO
+PRO00711,Nova Sports Item 711,nova,Sports,Cycling,26.78,Tier 3,no
+PRO00712,Rossi Sports Item 712,Rossi,Sports,Team Sports,54.91,Tier 1,No
+PRO00713,Belle Fashion Item 713,Belle ,Fashion,kids,213.64,Tier 3,No
+PRO00714,Origo Electronics Item 714,Origo,Electronics,Mobile,10.67,Tier 2,Yes
+PRO00715,Rossi Fashion Item 715,Rossi,Fashion,Accessories,11.05,Tier 2,No
+PRO00716,Belle Sports Item 716,Belle,Sports ,Team Sports,106.05,Tier 1,No
+PRO00717,ZENITH ELECTRONICS ITEM 717,Zenith,Electronics,Accessories,79.03,Tier 2,No
+PRO00718,Aurum Home Item 718,Aurum,Home,Furniture,47.42,Tier 3 ,No
+PRO00719,Belle Fashion Item 719,Belle,Fashion,Mens,39.96,Tier 2,No
+PRO00720,Aurum Fashion Item 720,Aurum,fashion,Womens,19.9,TIER 2,no
+PRO00721,nord sports item 721,Nord,sports,Outdoor,37.75,tier 2,Yes
+PRO00722,Zenith Fashion Item 722,Zenith,Fashion,Kids,22.61,Tier 2, No
+PRO00723,ORIGO HOME ITEM 723,Origo,Home,Cleaning ,157.56,Tier 1 ,No
+PRO00724,Origo Home Item 724,Origo,Home,Furniture,14.11, Tier 2,yes
+PRO00725,Vela Electronics Item 725, Vela, Electronics,SMART HOME,5.45,Tier 2,No
+PRO00726,Belle Electronics Item 726,Belle,Electronics,Mobile,37.56,Tier 2,No
+PRO00727,Kairo Home Item 727,Kairo,Home,Decor,38.69,Tier 1,Yes
+PRO00728,ROSSI SPORTS ITEM 728,Rossi,Sports,Team Sports,105.01,Tier 3,No
+PRO00729,Nova Electronics Item 729,Nova,ELECTRONICS,Audio,29.1,Tier 1,No
+PRO00730,Vela Electronics Item 730,VELA,Electronics,Computing,10.26,Tier 1,No
+PRO00731,Aurum Electronics Item 731,aurum,Electronics ,Computing,53.25,tier 2,NO
+PRO00732,Belle Sports Item 732,Belle,Sports,Cycling,56.46,Tier 2,No
+PRO00733,Rossi Electronics Item 733,Rossi,Electronics,Smart Home,35.93,Tier 3,NO
+PRO00734,kairo fashion item 734,Kairo, Fashion,Kids,40.0,tier 2,Yes
+PRO00735,Kairo Electronics Item 735,Kairo,Electronics,Audio,39.33,Tier 1 ,Yes
+PRO00736,Belle Beauty Item 736,Belle,Beauty,Hair,38.23,Tier 2,No
+PRO00737,Belle Beauty Item 737, Belle,Beauty,Hair,178.45,Tier 2,Yes
+PRO00738,Vela Electronics Item 738,Vela,Electronics,mobile,28.63,TIER 2,No
+PRO00739, Nova Electronics Item 739,Nova,Electronics,Accessories,28.13,Tier 2 ,No
+PRO00740,aurum fashion item 740,Aurum,Fashion,kids,36.86,Tier 3,no
+PRO00741,nova fashion item 741,Nova,Fashion,Mens,9.45,Tier 2,No
+PRO00742,Nord Beauty Item 742,nord,Beauty,Fragrance,55.26,Tier 3,No
+PRO00743,NOVA BEAUTY ITEM 743,Nova,Beauty,Wellness,10.23,Tier 2,YES
+PRO00744,Origo Home Item 744,Origo,Home,Kitchen,10.4,Tier 1,No
+PRO00745,origo beauty item 745,Origo,Beauty,Hair,26.42,Tier 2,No
+PRO00746,Lumen Sports Item 746,Lumen,Sports ,Outdoor,15.39,Tier 1,No
+PRO00747,Origo Home Item 747,Origo,Home,Kitchen,46.16,Tier 2,No
+PRO00748,Nova Sports Item 748,Nova,Sports, Accessories,11.54,Tier 2,no
+PRO00749,NOVA FASHION ITEM 749,NOVA,Fashion,Kids,71.63,Tier 1,No
+PRO00750,Lumen Fashion Item 750,Lumen,Fashion,Shoes,28.71,TIER 2,No
+PRO00751,Aurum Fashion Item 751,AURUM,Fashion,Kids,154.38,Tier 2,No
+PRO00752,Aurum Home Item 752,AURUM,Home, Decor,31.38,Tier 2,No
+PRO00753,Belle Home Item 753,BELLE,Home,Decor,27.59,Tier 2 ,yes
+PRO00754,Vela Electronics Item 754,Vela ,Electronics,Audio,17.94,Tier 2,No
+PRO00755,LUMEN FASHION ITEM 755,Lumen,fashion,Kids,121.64,Tier 2,No
+PRO00756,Aurum Fashion Item 756,Aurum,Fashion,Accessories,32.83,Tier 1,Yes
+PRO00757,nord fashion item 757,Nord,Fashion,Mens,67.16,Tier 2,Yes 
+PRO00758,Zenith Electronics Item 758,Zenith,Electronics,Computing,155.48,tier 2,Yes
+PRO00759,zenith fashion item 759,zenith,Fashion,Kids,10.72,Tier 1,No
+PRO00760,Origo Sports Item 760,Origo,Sports,Cycling,53.54,Tier 3,No
+PRO00761,Vela Fashion Item 761,Vela,Fashion,Kids,11.26,Tier 3,Yes
+PRO00762,Aurum Fashion Item 762,Aurum,fashion,ACCESSORIES,47.64,Tier 1,Yes
+PRO00763,Nord Beauty Item 763,nord, Beauty,Fragrance,25.74,Tier 2,No
+PRO00764,Origo Electronics Item 764,Origo,Electronics,Accessories,7.81,Tier 1,No
+PRO00765,VELA FASHION ITEM 765,Vela,FASHION,Accessories,84.17,Tier 3,No
+PRO00766,Rossi Fashion Item 766,Rossi,Fashion ,Accessories,62.03,Tier 2,No
+PRO00767,Rossi Fashion Item 767,Rossi,Fashion,Womens,151.15,TIER 1,No
+PRO00768, Aurum Electronics Item 768,Aurum ,Electronics ,Mobile,8.2,Tier 1,No
+PRO00769,Lumen Sports Item 769 ,Lumen,Sports,Cycling,57.59,Tier 1,No
+PRO00770,Vela Home Item 770 ,VELA,Home,Cleaning,28.21,Tier 2,no
+PRO00771,Lumen Fashion Item 771,Lumen,Fashion,mens,157.17,Tier 1,No
+PRO00772,Zenith Sports Item 772,Zenith,Sports,OUTDOOR,10.45,Tier 1,No
+PRO00773,Origo Electronics Item 773,Origo,Electronics, Smart Home,63.62,Tier 3,No
+PRO00774,Aurum Fashion Item 774,Aurum ,Fashion,Shoes,21.34,Tier 2,No
+PRO00775,Belle Home Item 775,Belle,Home,Furniture,9.28,Tier 1,No
+PRO00776,Vela Sports Item 776,VELA,Sports,Cycling,27.6,Tier 1,No
+PRO00777,Origo Fashion Item 777,Origo,Fashion,kids,22.72,Tier 3,No
+PRO00778,Aurum Home Item 778,Aurum,Home,Furniture,21.36,TIER 1,No
+PRO00779,Belle Electronics Item 779,BELLE,Electronics,Smart Home,137.07,Tier 2,No
+PRO00780,Nord Electronics Item 780,NORD,electronics,Smart Home,31.5,Tier 2,no
+PRO00781,Origo Sports Item 781,Origo,Sports,Cycling,55.8,Tier 1,No
+PRO00782,Origo Beauty Item 782,Origo,Beauty,Hair,59.9,Tier 1,No
+PRO00783,Aurum Home Item 783,AURUM,Home, Kitchen,10.83,Tier 2,yes
+PRO00784,Kairo Beauty Item 784,Kairo,BEAUTY,Wellness,241.39,Tier 1,no
+PRO00785,Nord Beauty Item 785,Nord,Beauty,Wellness,50.82,Tier 3,No
+PRO00786,Zenith Home Item 786 ,ZENITH,Home,Cleaning ,278.47,Tier 2,No
+PRO00787,Kairo Fashion Item 787,kairo,fashion,Mens,16.91,Tier 3,No
+PRO00788,Rossi Electronics Item 788,Rossi,Electronics,Audio,111.65,Tier 2,No
+PRO00789,Belle Sports Item 789,Belle,Sports,Accessories,13.92,Tier 2,No
+PRO00790,Aurum Sports Item 790,Aurum,Sports,Accessories,16.22,TIER 2,No 
+PRO00791,Lumen Fashion Item 791, Lumen,Fashion,Kids ,19.84,Tier 2,Yes
+PRO00792,ROSSI ELECTRONICS ITEM 792,Rossi,Electronics,Computing,5.81,Tier 3,No
+PRO00793,Nord Fashion Item 793,NORD,Fashion,Kids,93.69,Tier 3,No
+PRO00794,Aurum Fashion Item 794, Aurum,Fashion,Shoes,51.96,Tier 1,Yes
+PRO00795,Origo Fashion Item 795,Origo,Fashion,Kids,40.85,TIER 1,Yes
+PRO00796,Lumen Electronics Item 796,Lumen,electronics,Smart Home,74.04,TIER 1,NO
+PRO00797,Zenith Fashion Item 797 ,ZENITH,Fashion,WOMENS,12.25,Tier 2,No
+PRO00798,Nord Fashion Item 798,Nord,fashion,Accessories,28.91,tier 3,No
+PRO00799,Vela Fashion Item 799 ,Vela,Fashion,Mens,533.6,Tier 2,No
+PRO00800,Lumen Fashion Item 800,lumen,Fashion,Mens,21.64,Tier 2 ,No
+PRO00801,kairo electronics item 801,Kairo,Electronics,mobile,90.57,Tier 1,No
+PRO00802,Zenith Fashion Item 802,Zenith,Fashion,Shoes,36.21,Tier 3,No
+PRO00803,lumen electronics item 803,Lumen,Electronics,Accessories,23.27,Tier 2,No
+PRO00804,Lumen Fashion Item 804,Lumen,Fashion,Kids,26.26,Tier 2,No
+PRO00805,Kairo Fashion Item 805 ,Kairo,Fashion,Womens,61.37, Tier 2,no
+PRO00806, Vela Fashion Item 806,VELA,Fashion,Accessories,26.66,Tier 1,No
+PRO00807,Rossi Sports Item 807, Rossi,Sports,outdoor,27.73,Tier 2,No
+PRO00808,Vela Electronics Item 808,Vela,Electronics ,Audio,13.47,Tier 2,No
+PRO00809,Belle Fashion Item 809,Belle,Fashion,Accessories,71.6,Tier 1,Yes
+PRO00810,Vela Electronics Item 810,Vela,Electronics,Computing,16.32, Tier 3,Yes
+PRO00811,aurum fashion item 811,Aurum,Fashion,Shoes,105.28,Tier 3,No
+PRO00812,Nova Electronics Item 812, Nova,Electronics,Smart Home,27.39,Tier 2, No
+PRO00813,Vela Electronics Item 813,VELA,Electronics,Audio,21.24,Tier 2,No
+PRO00814,Lumen Electronics Item 814,Lumen,Electronics,Smart Home,51.34,TIER 1,No
+PRO00815,Vela Fashion Item 815,Vela,Fashion,Kids,36.45,Tier 3,No
+PRO00816,Kairo Electronics Item 816,Kairo,Electronics ,Accessories ,20.43,Tier 2,NO
+PRO00817,nova fashion item 817,NOVA,Fashion,Shoes,14.58,Tier 3,No
+PRO00818,Belle Home Item 818,Belle,Home, Furniture,17.26,Tier 2,No
+PRO00819,Rossi Sports Item 819,ROSSI,Sports,Accessories,59.0,Tier 1,No
+PRO00820,Nord Electronics Item 820,Nord,Electronics,Audio,11.95,Tier 2,No 
+PRO00821,Vela Home Item 821,Vela,HOME,Kitchen,90.3,Tier 2,No
+PRO00822,Nova Electronics Item 822,Nova,Electronics,Audio,6.1,Tier 2,yes
+PRO00823,Aurum Home Item 823,Aurum,Home,Furniture,171.87,Tier 2,no
+PRO00824,Origo Electronics Item 824,Origo, Electronics,Audio,19.45,Tier 2,Yes 
+PRO00825,Nord Fashion Item 825,Nord,Fashion, Mens,18.38,Tier 2,No
+PRO00826,Aurum Fashion Item 826,aurum,Fashion,Shoes,18.13,Tier 3 ,No
+PRO00827,Vela Electronics Item 827,Vela,ELECTRONICS,Audio,10.85,TIER 3,No
+PRO00828,Origo Home Item 828,Origo,Home,Decor ,5.13,TIER 1,NO
+PRO00829,Nord Home Item 829,Nord,Home,Lighting,31.44,tier 1,NO
+PRO00830,Origo Electronics Item 830,Origo,Electronics ,Computing,4.94,Tier 2,No
+PRO00831,Zenith Sports Item 831,Zenith,Sports,Team Sports,232.77,tier 3,No
+PRO00832,Kairo Fashion Item 832,Kairo,Fashion,Mens,90.48,Tier 1,Yes
+PRO00833,Lumen Fashion Item 833,Lumen,Fashion,Accessories,34.32,TIER 1,Yes
+PRO00834,Aurum Fashion Item 834,Aurum ,Fashion,Accessories,55.1,Tier 2, Yes
+PRO00835,Lumen Home Item 835,Lumen,Home, Cleaning,79.93,TIER 1,No
+PRO00836,vela home item 836,vela,home,LIGHTING,262.75,Tier 2,Yes
+PRO00837,rossi sports item 837,Rossi,sports,Team Sports,34.43,Tier 3,no
+PRO00838,Nova Fashion Item 838,Nova,Fashion,Shoes,31.65,Tier 3,No
+PRO00839,Nord Sports Item 839,Nord,Sports,Cycling,4.0,Tier 1,No
+PRO00840,Vela Home Item 840,Vela,HOME,Lighting,40.92,Tier 1,No
+PRO00841,Zenith Sports Item 841,Zenith,Sports,Fitness,17.06,Tier 2,No
+PRO00842,Aurum Electronics Item 842,Aurum,Electronics,Mobile ,29.77,Tier 2,No
+PRO00843,Nova Home Item 843,Nova,Home,Cleaning,142.72,Tier 2,No
+PRO00844,Vela Electronics Item 844,vela,Electronics,Smart Home,91.73,tier 1,No
+PRO00845,Nord Beauty Item 845 ,nord,Beauty,Fragrance,356.35,Tier 3,Yes
+PRO00846,Vela Fashion Item 846,VELA,Fashion,shoes,29.78,Tier 1,No
+PRO00847,Lumen Fashion Item 847,Lumen,Fashion,Womens,51.56,tier 2,No
+PRO00848,Kairo Fashion Item 848,Kairo,Fashion,Accessories ,16.17,Tier 2,No
+PRO00849,Lumen Home Item 849 ,Lumen,Home,Cleaning,16.57,TIER 2,no
+PRO00850,Zenith Home Item 850,Zenith,Home,Decor,22.13,Tier 3,Yes 
+PRO00851,Nord Fashion Item 851,Nord,Fashion,Accessories,38.98,Tier 2 ,No
+PRO00852,Vela Home Item 852,Vela,Home,Lighting,16.18,Tier 2 ,NO
+PRO00853,Zenith Electronics Item 853,Zenith,electronics,Accessories,68.42,Tier 3,No
+PRO00854,Belle Fashion Item 854,Belle,fashion,Womens,4.75,Tier 3,No
+PRO00855,Kairo Electronics Item 855,Kairo,Electronics,Computing,25.36,Tier 2, No
+PRO00856,Vela Sports Item 856,Vela,Sports,Team Sports,10.04,Tier 2,No
+PRO00857,Origo Sports Item 857,Origo,Sports,Outdoor,5.81,tier 1,No
+PRO00858,Vela Electronics Item 858,Vela,Electronics ,ACCESSORIES,35.28,Tier 2,No 
+PRO00859,Rossi Sports Item 859,Rossi,Sports,Outdoor,125.69,Tier 3, No
+PRO00860,KAIRO ELECTRONICS ITEM 860,kairo,Electronics,Accessories,84.18,Tier 1,No
+PRO00861,Lumen Electronics Item 861,LUMEN,Electronics,computing,25.26,Tier 2,No
+PRO00862,Rossi Electronics Item 862,Rossi,electronics,Smart Home,12.7,Tier 2,No
+PRO00863,Vela Fashion Item 863,Vela,Fashion,Shoes,29.16,Tier 2,No
+PRO00864,Zenith Electronics Item 864,zenith,electronics,Mobile,21.28,TIER 2,Yes
+PRO00865,Rossi Fashion Item 865,Rossi,Fashion,Shoes,19.36,Tier 1, No
+PRO00866,Aurum Home Item 866,Aurum ,Home ,Cleaning ,14.05,Tier 2,No
+PRO00867,NOVA SPORTS ITEM 867,Nova,Sports,Fitness,7.11,Tier 1,No
+PRO00868,Nova Home Item 868,Nova, Home,cleaning,18.77,Tier 1,No
+PRO00869,Belle Home Item 869,Belle,Home,Decor,26.83,TIER 1,No
+PRO00870,Zenith Sports Item 870,Zenith,Sports,Team Sports,5.06,Tier 2 , No
+PRO00871,Nord Electronics Item 871, Nord,Electronics, Smart Home,31.67,Tier 1,No
+PRO00872,Zenith Electronics Item 872,Zenith,electronics,SMART HOME,13.45,Tier 3,No
+PRO00873,Origo Home Item 873,Origo,Home ,Lighting,36.66,tier 2,No
+PRO00874,Belle Home Item 874,Belle,Home,Furniture ,25.04,Tier 2,No
+PRO00875,Belle Home Item 875,Belle ,Home,Kitchen,63.72,Tier 3,No
+PRO00876, Aurum Electronics Item 876,Aurum,Electronics,accessories,49.03,Tier 1,yes
+PRO00877,Nova Electronics Item 877,Nova,Electronics,Mobile,5.56,Tier 1,NO
+PRO00878,Belle Sports Item 878,Belle,Sports,Fitness,27.36,tier 3,no
+PRO00879,Origo Electronics Item 879,Origo,Electronics,Mobile ,11.61,Tier 2,No
+PRO00880,Rossi Sports Item 880,Rossi,SPORTS,Team Sports,21.47, Tier 2,No 
+PRO00881,rossi home item 881,Rossi,Home,Kitchen,24.88,Tier 2,No
+PRO00882,Belle Fashion Item 882,BELLE,Fashion,Shoes,147.53,Tier 2,No 
+PRO00883, Nord Fashion Item 883,Nord,Fashion,Shoes,13.31,Tier 2,NO
+PRO00884,Kairo Fashion Item 884,Kairo,fashion,Accessories,113.77,Tier 1,No
+PRO00885,Vela Home Item 885,Vela,Home,Kitchen,89.82, Tier 1,NO
+PRO00886,Belle Electronics Item 886,belle,Electronics,Smart Home,15.36,Tier 3,No
+PRO00887,Aurum Beauty Item 887,Aurum,Beauty,Wellness,59.53, Tier 1,No
+PRO00888,Lumen Sports Item 888,Lumen,Sports,outdoor,44.94,TIER 2,No
+PRO00889,Zenith Electronics Item 889,Zenith,ELECTRONICS,Accessories,44.77,Tier 1,No
+PRO00890,Belle Beauty Item 890,Belle,Beauty ,Fragrance,8.36,Tier 1,No
+PRO00891,lumen sports item 891,Lumen,Sports,ACCESSORIES,133.9,Tier 2,No
+PRO00892,Vela Sports Item 892,Vela,Sports,Team Sports,18.98,Tier 2,NO
+PRO00893,Aurum Fashion Item 893,Aurum,Fashion,Shoes,44.06,Tier 2,No
+PRO00894,Kairo Home Item 894,Kairo,Home ,Lighting,34.37,Tier 2,Yes
+PRO00895,Origo Sports Item 895,Origo,Sports,TEAM SPORTS,19.61, Tier 1,No
+PRO00896,Vela Fashion Item 896, Vela,Fashion,Shoes,99.26,Tier 3,No
+PRO00897, Lumen Sports Item 897,Lumen,Sports,Fitness,88.95,Tier 1,No
+PRO00898,Belle Electronics Item 898,Belle,Electronics,Smart Home ,17.53,Tier 2,No 
+PRO00899,Kairo Fashion Item 899,Kairo,Fashion,Mens,35.22,Tier 2,No
+PRO00900,Aurum Fashion Item 900,Aurum,Fashion,Accessories,26.71,Tier 3,No
+PRO00901,belle fashion item 901,Belle,Fashion,Accessories,9.87,Tier 1,Yes
+PRO00902,Zenith Electronics Item 902,Zenith,Electronics,Smart Home,69.42,Tier 1,No
+PRO00903,kairo fashion item 903,Kairo,Fashion,WOMENS,26.36,Tier 1,No
+PRO00904,Belle Sports Item 904,Belle,Sports,Outdoor,19.04, Tier 1,No
+PRO00905,Belle Beauty Item 905,Belle,Beauty,Skincare,8.06,Tier 2,No
+PRO00906,ORIGO ELECTRONICS ITEM 906,Origo,Electronics,Smart Home,77.29,tier 1,no
+PRO00907,Lumen Fashion Item 907,Lumen,Fashion, Womens,118.85,Tier 3,Yes
+PRO00908,Vela Home Item 908,Vela,Home,Lighting,102.97,Tier 1,No
+PRO00909,Rossi Beauty Item 909,Rossi,Beauty,makeup,58.75,Tier 2,No
+PRO00910,Aurum Home Item 910,Aurum ,Home,Kitchen,16.61, Tier 2,No
+PRO00911,Origo Fashion Item 911,Origo,Fashion,Accessories,37.35,Tier 1,No
+PRO00912,Rossi Fashion Item 912,Rossi,Fashion,shoes,60.93,Tier 2,No
+PRO00913,Zenith Electronics Item 913,Zenith, Electronics,Smart Home,44.9,Tier 2,no
+PRO00914,Zenith Fashion Item 914,Zenith,Fashion,ACCESSORIES,95.65,tier 2,Yes
+PRO00915,Kairo Fashion Item 915,Kairo,Fashion,kids,10.31,Tier 1,Yes
+PRO00916,Lumen Beauty Item 916,Lumen,Beauty,Makeup,45.36,Tier 3,yes
+PRO00917,Zenith Electronics Item 917,Zenith,Electronics,Audio,8.1,Tier 1,No
+PRO00918,ORIGO SPORTS ITEM 918,Origo,SPORTS, Fitness,66.86,Tier 2,no
+PRO00919,Vela Fashion Item 919,Vela,Fashion,Kids,158.8,Tier 2,No
+PRO00920,Zenith Fashion Item 920,Zenith,Fashion,Shoes,51.37,Tier 2,No 
+PRO00921,Lumen Electronics Item 921,Lumen,Electronics,Audio,9.7,Tier 2,No
+PRO00922,Lumen Sports Item 922,Lumen , Sports,fitness,79.61,Tier 2,No
+PRO00923,Vela Fashion Item 923,Vela,Fashion,Accessories,70.0,Tier 2,No
+PRO00924,Vela Electronics Item 924,Vela,Electronics,Audio,32.25,Tier 1,Yes
+PRO00925,Origo Fashion Item 925,origo, Fashion,Accessories,94.12,Tier 1,No
+PRO00926,Nova Home Item 926,Nova,Home,Decor,19.21,tier 1,No
+PRO00927,Belle Fashion Item 927,Belle,Fashion,Kids,276.5,Tier 2,No 
+PRO00928,KAIRO BEAUTY ITEM 928,KAIRO,Beauty,hair,72.21,tier 2,no
+PRO00929,Aurum Electronics Item 929,Aurum,Electronics,audio,34.27,Tier 2,Yes
+PRO00930,LUMEN FASHION ITEM 930,Lumen,Fashion,Shoes,4.81,tier 3,NO
+PRO00931,Kairo Sports Item 931,Kairo,Sports,OUTDOOR,152.95,Tier 3,Yes
+PRO00932,Nord Beauty Item 932,Nord ,Beauty,Hair,30.54,Tier 2,No
+PRO00933,Origo Electronics Item 933,Origo,Electronics,Computing,30.8,Tier 3,NO
+PRO00934,Belle Beauty Item 934,Belle,beauty,Makeup,38.84,tier 2,No 
+PRO00935,Zenith Fashion Item 935,Zenith ,Fashion,Kids ,22.75,Tier 2,No
+PRO00936,Belle Home Item 936,BELLE,Home,Lighting,10.9,Tier 2,No
+PRO00937,Nova Electronics Item 937,Nova, Electronics,Mobile,111.97,Tier 1,No 
+PRO00938,Nord Home Item 938 ,Nord,Home,Furniture,30.77,tier 2,No
+PRO00939,VELA HOME ITEM 939,Vela,Home,Decor,36.24,TIER 3,no
+PRO00940,Kairo Electronics Item 940,Kairo ,Electronics,Mobile,9.82,Tier 1,No 
+PRO00941,Vela Beauty Item 941,Vela,Beauty,Hair,28.31,Tier 2,No
+PRO00942,Vela Fashion Item 942,Vela,Fashion,Kids,12.8,tier 2,No
+PRO00943,Lumen Fashion Item 943,Lumen,Fashion,Accessories,112.7,Tier 2,No
+PRO00944,Rossi Electronics Item 944,Rossi,Electronics,Accessories,52.01,Tier 2,No
+PRO00945,Zenith Electronics Item 945,ZENITH,Electronics,Mobile,6.9,Tier 3,No
+PRO00946,Kairo Beauty Item 946,Kairo,Beauty,Hair,27.2,Tier 2 ,No
+PRO00947,LUMEN SPORTS ITEM 947,Lumen,Sports,Fitness,9.45,Tier 2,Yes
+PRO00948,Nord Electronics Item 948,Nord,Electronics,accessories,51.67,Tier 2,No
+PRO00949,Vela Electronics Item 949,Vela,ELECTRONICS,Audio,34.55,Tier 2,no
+PRO00950,Nord Fashion Item 950,Nord,Fashion,Accessories,6.82,Tier 2,Yes
+PRO00951,Nova Electronics Item 951,NOVA,Electronics ,ACCESSORIES,4.0,Tier 2,No
+PRO00952,Lumen Fashion Item 952,Lumen,Fashion,Womens,13.33,tier 2,Yes
+PRO00953,Vela Fashion Item 953,Vela,Fashion,Shoes,17.11,Tier 2,Yes
+PRO00954,Origo Fashion Item 954,Origo,FASHION,Kids,59.48, Tier 3,NO
+PRO00955,Zenith Beauty Item 955,Zenith,Beauty,Makeup,19.22,Tier 2,NO
+PRO00956,Kairo Fashion Item 956,kairo,Fashion,KIDS,91.79,Tier 1,no
+PRO00957,Kairo Fashion Item 957,kairo,Fashion,Shoes,77.46,Tier 1,No
+PRO00958,Origo Fashion Item 958,Origo,fashion,Kids,17.21,Tier 2,No
+PRO00959,Vela Fashion Item 959,Vela ,Fashion,Accessories,21.46,Tier 3,NO
+PRO00960,ROSSI SPORTS ITEM 960,Rossi,Sports,Outdoor,137.09,Tier 3,Yes
+PRO00961,Zenith Home Item 961,zenith,Home,Furniture,27.06,tier 2,NO
+PRO00962, Zenith Home Item 962,Zenith,Home,Lighting,32.44,Tier 2,NO
+PRO00963,Nord Fashion Item 963, Nord,Fashion,Accessories,35.13,Tier 2,No
+PRO00964,Kairo Home Item 964,Kairo ,Home,CLEANING,99.74,Tier 3,No
+PRO00965,Nord Home Item 965,Nord ,Home,Furniture,4.18,Tier 2,No
+PRO00966,Origo Fashion Item 966,Origo,Fashion,Womens,88.18,tier 3,No
+PRO00967,Rossi Electronics Item 967,Rossi,Electronics,audio,26.52,Tier 1,Yes
+PRO00968, Nord Beauty Item 968,Nord,Beauty,Wellness,123.59,Tier 2 ,No
+PRO00969,Aurum Home Item 969,Aurum ,Home,Kitchen,80.04,Tier 2,No
+PRO00970,Vela Home Item 970,Vela,Home,Furniture,6.86,TIER 1,No
+PRO00971,Belle Home Item 971,Belle,Home,Decor,30.62,Tier 3,No
+PRO00972,AURUM FASHION ITEM 972,Aurum,Fashion,Accessories,17.84,Tier 2 ,NO
+PRO00973,Lumen Fashion Item 973,Lumen,Fashion, Kids,90.89,Tier 2,No
+PRO00974,Zenith Home Item 974,Zenith,Home,Kitchen,55.07,TIER 3,No 
+PRO00975,Belle Electronics Item 975 ,Belle,ELECTRONICS,Mobile,40.38, Tier 2,No
+PRO00976,Lumen Beauty Item 976,Lumen,Beauty,Makeup ,38.84,Tier 2,NO
+PRO00977,Nova Fashion Item 977, Nova,Fashion,Womens,80.55,Tier 2,No
+PRO00978,zenith beauty item 978,Zenith,Beauty,Hair,66.96,Tier 2,No 
+PRO00979,Lumen Home Item 979,Lumen,Home,Lighting,78.76,tier 2,No
+PRO00980,Nord Home Item 980,Nord,Home,Kitchen ,64.92,Tier 2,Yes
+PRO00549,ORIGO ELECTRONICS ITEM 549,ORIGO,Electronics,Audio,85.17,tier 2,Yes
+PRO00375,Lumen Electronics Item 375, Lumen,Electronics,Accessories,91.39,Tier 2,Yes
+PRO00202, Zenith Fashion Item 202,Zenith,Fashion,Womens,25.73,Tier 1 , No
+PRO00487,Zenith Home Item 487 ,Zenith,Home,FURNITURE,34.09,Tier 2,No
+PRO00894,Kairo Home Item 894,Kairo,Home ,Lighting,34.37,Tier 2,Yes
+PRO00081,Vela Electronics Item 81,Vela,Electronics,Mobile,17.9,TIER 2,No
+PRO00345,Origo Home Item 345,origo,Home ,Furniture,30.87, Tier 1,No
+PRO00551,Belle Home Item 551,Belle,Home, Furniture,15.85,Tier 1,YES
+PRO00805,Kairo Fashion Item 805 ,Kairo,Fashion,Womens,61.37, Tier 2,no
+PRO00661,Nova Fashion Item 661,Nova ,FASHION,Kids,12.31, Tier 2,yes
+PRO00271,Origo Sports Item 271,Origo ,Sports,Team Sports,13.38,tier 2,Yes
+PRO00912,Rossi Fashion Item 912,Rossi,Fashion,shoes,60.93,Tier 2,No
+PRO00186,Kairo Fashion Item 186,Kairo,Fashion ,Accessories,51.84,TIER 1,NO
+PRO00839,Nord Sports Item 839,Nord,Sports,Cycling,4.0,Tier 1,No
+PRO00170,Origo Beauty Item 170,Origo, Beauty,Skincare,17.21,Tier 1,No
+PRO00499,ROSSI SPORTS ITEM 499,Rossi,Sports,Cycling,15.1,Tier 3,Yes
+PRO00241,Belle Electronics Item 241,Belle,Electronics,Audio,52.87,Tier 2,No
+PRO00722,Zenith Fashion Item 722,Zenith,Fashion,Kids,22.61,Tier 2, No
+PRO00192,Kairo Fashion Item 192 ,Kairo,Fashion,Womens,48.83,Tier 3,No
+PRO00835,Lumen Home Item 835,Lumen,Home, Cleaning,79.93,TIER 1,No
+PRO00197,Nord Electronics Item 197,Nord,Electronics,Smart Home,30.18,Tier 2,No
+PRO00282,Aurum Fashion Item 282,Aurum,FASHION,shoes,48.41,Tier 1,No
+PRO00285,Rossi Fashion Item 285,rossi,FASHION,Kids,21.27, Tier 2,No
+PRO00707,Vela Beauty Item 707 ,Vela ,Beauty,Fragrance,19.85,Tier 1, No
+PRO00741,nova fashion item 741,Nova,Fashion,Mens,9.45,Tier 2,No
+PRO00970,Vela Home Item 970,Vela,Home,Furniture,6.86,TIER 1,No
+PRO00178,Nord Electronics Item 178,Nord,Electronics,Computing,61.47,Tier 1,Yes
+PRO00833,Lumen Fashion Item 833,Lumen,Fashion,Accessories,34.32,TIER 1,Yes
+PRO00869,Belle Home Item 869,Belle,Home,Decor,26.83,TIER 1,No
+PRO00305,Origo Home Item 305,Origo,Home,Cleaning,69.8,Tier 3,No
+PRO00155,Belle Electronics Item 155,Belle,Electronics,Computing,10.83,Tier 1,NO
+PRO00447,Aurum Home Item 447,Aurum,Home,Cleaning,5.4,Tier 2,Yes
+PRO00206,belle sports item 206,Belle, Sports,Fitness,11.7,Tier 1,YES
+PRO00674,Nova Home Item 674,NOVA, Home,Cleaning,79.68,Tier 2,No
+PRO00827,Vela Electronics Item 827,Vela,ELECTRONICS,Audio,10.85,TIER 3,No
+PRO00947,LUMEN SPORTS ITEM 947,Lumen,Sports,Fitness,9.45,Tier 2,Yes
+PRO00714,Origo Electronics Item 714,Origo,Electronics,Mobile,10.67,Tier 2,Yes
+PRO00597,Belle Beauty Item 597, Belle,Beauty,HAIR,303.83,Tier 2,No
+PRO00369,Aurum Fashion Item 369,Aurum,Fashion,Accessories,46.95,Tier 2,No
