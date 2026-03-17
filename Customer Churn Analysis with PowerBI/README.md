@@ -12,4 +12,17 @@ Key insights reveal that customers with month-to-month contracts and shorter ten
 *Executive Summary* 
 <p align="center"> <img src="Images/1_Executive Summary.png" width="1200"> </p>
 
-Provides a high-level overview of churn performance including total customers, churn rate, revenue impact, churn trends, and key churn reasons.
+Provides a high-level overview of churn performance including **total customers, churn rate, revenue impact, churn trends, and key churn reasons.**
+
+*Customer Tenure & Financial Performance*
+<p align="center"> <img src="Images/2_Customer Tenure and Financial Performance.png" width="1200"> </p>
+
+Analyzes how customer tenure influences churn probability and revenue impact, including monthly churned revenue, retention rate, and customer lifetime value (LTV).
+
+*Services & Contracts*
+<p align="center"> <img src="Images/3_Services and Contracts.png" width="1200"> </p>
+
+Examines how **contract types, internet services, streaming features, and support services influence churn behavior and customer retention.**
+
+*Customer Demographics*
+<p align="center"> <img src="Images/4_Customers Demographics.png" width="1200"> </p>
