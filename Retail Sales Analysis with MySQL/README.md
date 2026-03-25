@@ -258,27 +258,35 @@ GROUP BY category
 ORDER BY total_quantity_sold DESC;
 ```
 ### 🔍 Insights & Recommendations
+
 1. Sales Trends
 Insight: November had the highest sales, with peak transactions in the afternoon.
 Recommendation: Increase promotions and staffing during peak months and shifts.
+
 2. Top Customers
 Insight: A small group of customers drives most sales.
 Recommendation: Implement loyalty programs or targeted offers for these high-value customers.
+
 3. Product Categories
 Insight: Clothing and Beauty are high-volume categories; Electronics has higher profit margins.
 Recommendation: Prioritize inventory and marketing for high-demand categories, optimize pricing for high-margin categories.
+
 4. Customer Demographics
 Insight: Average age varies by category; gender distribution differs per product.
 Recommendation: Tailor marketing campaigns based on customer demographics.
+
 5. High-Value Transactions
 Insight: Some transactions exceed $1,000.
 Recommendation: Monitor large transactions for fraud and consider upselling high-value bundles.
+
 6. Peak Hours
 Insight: Most sales occur in the afternoon and evening.
 Recommendation: Schedule staff and promotions around peak hours for efficiency.
+
 7. Inventory & Demand
 Insight: High-demand categories could face stockouts if unmanaged.
 Recommendation: Use historical demand to plan inventory levels and reduce lost sales.
+
 8. Profitability
 Insight: Some categories are more profitable on average.
 Recommendation: Focus marketing and upselling on high-margin categories to boost overall profits.
