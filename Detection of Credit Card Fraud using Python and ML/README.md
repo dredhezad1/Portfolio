@@ -365,3 +365,342 @@ plt.figure(figsize=(10, 8))
 sns.heatmap(resampled_data.corr(), cmap='coolwarm', annot=True, fmt=".2f", linewidths=0.5)
 plt.title('Correlation Heatmap (Resampled)')
 plt.show()
+
+The first line of the code enables combining resampled data into a unified format, allowing for thorough analysis and modeling in the project.
+
+Visual representations are made to examine different parts of the re-sampled data. A count plot is used to visualize the target variable's distribution, indicating the frequency of each class within it. This helps understand the balance or imbalance of classes in the dataset, which is important for creating predictive models.
+
+Furthermore, Seaborn's pairplot() function is used to create a pair plot that examines the distribution of numerical features. By showing the relationships between pairs of numerical features, this graph aids in pattern detection. Additionally, kernel density estimation (KDE) plots on the diagonal provide insight into the distribution of each feature, revealing potential clusters, patterns, or outliers within the dataset.
+
+A correlation heatmap is created to visualize how closely numerical features in the resampled dataset correlate with each other. Different colors in the heatmap show the strength and direction of these correlations, while values on the heatmap indicate the correlation coefficients. This lets us see which features are highly correlated, which can affect how well a model performs and cause multicollinearity problems.
+
+```python
+# Boxplot of numerical features by class
+plt.figure(figsize=(12, 8))
+for column in X_train_resampled.columns:
+    plt.subplot(5, 6, list(X_train_resampled.columns).index(column) + 1)
+    sns.boxplot(x=y_train_resampled, y=X_train_resampled[column])
+    plt.title(column)
+plt.tight_layout()
+plt.show()
+```
+From the graphs above, inferences as following can be made:
+
+Center (Median) The middle line inside the box shows where the data is split in half. This line represents the "average" value for each feature within each class.
+
+Spread: The size of the box shows how spread out the data is. The wider the box, the more spread out the data is.
+
+Whiskers: The lines that extend from the box show the full range of the data. The whiskers usually extend up to 1.5 times the middle 50% of the data. Data points that are outside the whiskers are considered outliers.
+
+```python
+# Histograms of numerical features by class
+plt.figure(figsize=(12, 8))
+for column in X_train_resampled.columns:
+    plt.subplot(5, 6, list(X_train_resampled.columns).index(column) + 1)
+    sns.histplot(data=resampled_data, x=column, hue='Class', kde=True)
+    plt.title(column)
+plt.tight_layout()
+plt.show()
+```
+The shape of the histogram and density plot shows how the data is distributed, it it is normal or with a bell curve or skewed, or with an uneven tail. The highest point of the density plot (mode) represents the value that occurs most often within each class. The width and shape of the histogram and density plot indicate how spread out (varied) the values are within each class. A wider spread means there is more variation in the data.
+
+```python
+# Violin plot of numerical features by class
+plt.figure(figsize=(12, 8))
+for column in X_train_resampled.columns:
+    plt.subplot(5, 6, list(X_train_resampled.columns).index(column) + 1)
+    sns.violinplot(x=y_train_resampled, y=X_train_resampled[column], split=True)
+    plt.title(column)
+plt.tight_layout()
+plt.show()
+```
+Violin plots visually display how numerical data is distributed across categories.
+
+The shape of each violin shows the probability distribution of the data. A line inside the violin marks the median value, providing a quick measure of central tendency. The width of the violin at different points indicates the spread of the data. Dots outside the violin represent extreme values.The dots beyond the whiskers may indicate that potential outliers are present.
+
+```python
+plt.figure(figsize=(8, 6))
+plt.scatter(df['V1'], df['V2'], alpha=0.5, c=df['Class'], cmap='coolwarm')
+plt.xlabel('V1')
+plt.ylabel('V2')
+plt.title('Scatter Plot of V1 vs. V2 (colored by Class)')
+plt.colorbar(label='Class')
+plt.show()
+```
+This scatter plot shows each observation in the dataset as a point. The point's position on the graph is determined by the values of variables V1 and V2. Each point is colored based on its class label (0 or 1), which is indicated by the 'Class' variable.It is seen that the data is spread out based on where the points are located.
+
+As a result the different colors, in this case blue and red are clearly seperated, which means that variables V1 and V2 do a good job of distinguishing between the classes.
+
+```python
+plt.figure(figsize=(8, 6))
+plt.hist(df['Amount'], bins=30, color='skyblue', edgecolor='black')
+plt.xlabel('Transaction Amount')
+plt.ylabel('Frequency')
+plt.title('Histogram of Transaction Amount')
+plt.show()
+```
+The histogram displays the distribution of transaction sizes. The bars are relatively similar in length, indicating that there are no significant differences in the frequency of transactions across different amounts. This suggests that the distribution of transaction sizes is uniform, with no particular range of sizes disproportionately represented.
+
+In conclusion, consistent transaction amounts make it harder for fraud and anomaly detection algorithms. A balanced distribution of transaction sizes helps the algorithm learn patterns across all amounts, enhancing its ability to detect suspicious activities effectively.
+
+```python
+plt.figure(figsize=(10, 6))
+sns.boxplot(data=df, x='Class', y='V1', palette='pastel')
+plt.xlabel('Class')
+plt.ylabel('V1')
+plt.title('Boxplot of V1 by Class')
+plt.show()
+```
+The pairplot provides pairwise scatter plots of numerical features, colored by class. It helps to visualize relationships between features and identify potential patterns or separations between classes.
+
+In this case, for fraudulent transactions (Class 1), the middle 50% of values for V1 (amount in the transaction) are less varied than for non-fraudulent transactions (Class 0). Both types of transactions have outliers, but they are more common in fraudulent transactions. This suggests that the range of V1 values is larger and more variable for fraudulent transactions.
+
+```python
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+def pairplot_data_grid(data, x_var, y_var, hue_var):
+    sns.set(style="ticks")
+    pair_grid = sns.pairplot(data, x_vars=[x_var], y_vars=[y_var], hue=hue_var, height=5)
+    plt.show()
+
+# Example usage:
+pairplot_data_grid(df, "Amount", "Class", "Class")
+```
+It can be observed that the fraud transactions are generally not above an amount of 25000.
+
+```python
+amount_more = 0
+amount_less = 0
+
+for i in range(df.shape[0]):
+    if df.iloc[i]["Amount"] < 25000:
+        amount_less += 1
+    else:
+        amount_more += 1
+
+print("Number of transactions with Amount less than 25000:", amount_less)
+print("Number of transactions with Amount greater than or equal to 25000:", amount_more)
+```
+```text
+Number of transactions with Amount less than 25000: 568630
+Number of transactions with Amount greater than or equal to 25000: 0
+```
+
+```python
+percentage_less = (amount_less/df.shape[0])*100
+percentage_less
+```
+
+```text
+100.0
+```
+
+Hence, it is observed that the 100% of transactions amount are less than 25000.
+
+```python
+# Initialize counters
+fraud = 0
+legitimate = 0
+
+# Loop through the DataFrame rows
+for i in range(df.shape[0]):
+    # Check if the transaction amount is less than 25000
+    if df.iloc[i]["Amount"] < 25000:
+        # Check if the transaction is fraudulent (Class 0)
+        if df.iloc[i]["Class"] == 0:
+            fraud += 1
+        else:
+            legitimate += 1
+
+# Print the results
+print("Number of fraudulent transactions with Amount less than 25000:", fraud)
+print("Number of legitimate transactions with Amount less than 25000:", legitimate)
+```
+```text
+Number of fraudulent transactions with Amount less than 25000: 284315
+Number of legitimate transactions with Amount less than 25000: 284315
+```
+This indicates that all transactions in the dataset have an amount less than 250000.
+
+```python
+df.Class.value_counts()
+```
+
+```text
+Class
+0    284315
+1    284315
+Name: count, dtype: int64
+```
+### Feature Engineeiring
+
+In this step, we create new features by combining existing ones using polynomial features transformation. This captures complex relationships and interactions between features, which might not be evident in the original individual features. We use the PolynomialFeatures class from scikit-learn to generate combinations of features up to a specific level (degree 2 in this case). The resulting X_poly dataset includes the original features and these newly generated combinations.
+
+To ensure that all features have a consistent range, they are standardized before training the model. This is crucial for models like logistic regression, as scaling affects optimization and performance. Using the StandardScaler from scikit-learn, the features are transformed such that their mean becomes 0 and their standard deviation becomes 1. The standardized features are stored in a new variable called X_scaled.
+
+The data is divided into training and testing groups. A logistic regression model is created with specific settings, like a maximum of 1,000 iterations to prevent overfitting. The training data is used to train the model. The trained model is tested on the testing data. Metrics like precision, recall, F1-score, and overall accuracy are used to evaluate the model's performance. Scikit-learn's classification_report function provides a detailed analysis of these metrics.
+
+```python
+#Adding interaction terms
+from sklearn.preprocessing import PolynomialFeatures
+
+poly = PolynomialFeatures(degree=2)
+X_poly = poly.fit_transform(X)
+```
+```python
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+
+# Split the data into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
+
+# Initialize and train a logistic regression model with increased max_iter
+model = LogisticRegression(max_iter=1000)
+model.fit(X_train, y_train)
+
+# Evaluate the model
+y_pred = model.predict(X_test)
+print(classification_report(y_test, y_pred))
+```
+```text
+ precision    recall  f1-score   support
+
+           0       0.95      0.98      0.96     56794
+           1       0.98      0.95      0.96     56932
+
+    accuracy                           0.96    113726
+   macro avg       0.96      0.96      0.96    113726
+weighted avg       0.96      0.96      0.96    113726
+```
+
+The classification report provides several metrics for evaluating the performance of the logistic regression model:
+
+Precision: The proportion of true positive predictions among all positive predictions. For class 0 (non-fraudulent transactions), precision is 0.95, meaning that 95% of transactions predicted as non-fraudulent are actually non-fraudulent. For class 1 (fraudulent transactions), precision is 0.98, indicating that 98% of transactions predicted as fraudulent are truly fraudulent.
+
+Recall: The proportion of true positive predictions among all actual positives. For class 0, recall is 0.98, meaning that 98% of actual non-fraudulent transactions are correctly identified as non-fraudulent. For class 1, recall is 0.95, indicating that 95% of actual fraudulent transactions are detected.
+
+F1-score: The harmonic mean of precision and recall. It provides a balance between precision and recall. Both classes have an F1-score of 0.96, indicating good overall performance.
+
+Support: The number of actual occurrences of each class in the test dataset.
+
+Accuracy: The proportion of correctly classified instances out of all instances. The overall accuracy is 96%.
+
+Macro avg: The average of precision, recall, and F1-score across classes, giving equal weight to each class.
+
+Weighted avg: The weighted average of precision, recall, and F1-score, where each class's score is weighted by its support. This metric accounts for class imbalance.
+
+Overall, the model shows strong performance with high precision, recall, and F1-score for both classes, as well as high accuracy. This indicates that the logistic regression model is effective in distinguishing between fraudulent and non-fraudulent transactions.
+
+```python
+# Hyperparameter tuning:
+
+from sklearn.model_selection import GridSearchCV
+
+#Grid search for logistic regression
+param_grid = {'C': [0.001, 0.01, 0.1, 1, 10, 100]}
+grid_search = GridSearchCV(LogisticRegression(), param_grid, cv=5)
+grid_search.fit(X_train, y_train)
+
+print("Best Parameters:", grid_search.best_params_)
+```
+```text
+Best Parameters: {'C': 1}
+```
+The output indicates the best parameter found by the grid search cross-validation, which is C = 1 in this case. The parameter C represents the inverse of regularization strength in logistic regression. A smaller C value indicates stronger regularization.
+
+Here's what it means:
+
+C: Regularization parameter. Smaller values specify stronger regularization, meaning the model will be more constrained. Higher values of C allow the model to fit the training data more closely. In this case, the best parameter found by the grid search is C = 1, suggesting that moderate regularization is preferred for this logistic regression model on this dataset. This parameter value strikes a balance between fitting the training data well and avoiding overfitting.
+
+```python
+import pandas as pd
+from sklearn.preprocessing import PolynomialFeatures
+from sklearn.model_selection import cross_val_score
+from sklearn.linear_model import LogisticRegression
+
+# Load the cleaned dataset
+cleaned_data = pd.read_csv("cleaned_data.csv")
+
+# Separate features and target variable
+X = cleaned_data.drop(columns=['Class'])  # Features
+y = cleaned_data['Class']  # Target variable
+
+# Generate polynomial features
+poly = PolynomialFeatures(degree=2)
+X_poly = poly.fit_transform(X)
+
+# Initialize logistic regression model with custom parameters
+model = LogisticRegression(max_iter=1000)  # Adjust max_iter as needed
+
+# Perform cross-validation
+cv_scores = cross_val_score(model, X_poly, y, cv=5)
+
+# Print cross-validation scores and mean accuracy
+print("Cross-Validation Scores:", cv_scores)
+print("Mean CV Accuracy:", cv_scores.mean())
+```
+```text
+Cross-Validation Scores: [0.95950794 0.96283172 0.95935846 0.96055431 0.96183777]
+Mean CV Accuracy: 0.9608180395648604
+```
+The cross-validation scores give us the accuracy of the model for each part of the cross-validation. Due to the closeness of the score, 0.9595 and 0.9628, it can be inferred that the model produces accurate results across different subsets of the data.
+
+```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+
+# Load the cleaned dataset
+df = pd.read_csv("cleaned_data.csv")
+
+# Separate features (X) and target variable (y)
+X = df.drop(columns=['Class'])
+y = df['Class']
+
+# Split the dataset into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Initialize logistic regression model with custom parameters
+model = LogisticRegression(max_iter=10000, solver='saga', penalty='l1', C=0.1)
+
+# Model Training
+model.fit(X_train, y_train)
+```
+```text
+LogisticRegression(C=0.1, max_iter=10000, penalty='l1', solver='saga')
+```
+
+This step begins by training a logistic regression model for a specific dataset using customized parameters. First, a cleaned DataFrame is loaded with the features (X) and target variable (y). This sets up the data for the machine learning process.
+
+To evaluate the model's ability to handle new data, the dataset is split into training and testing sets using the "train_test_split" function from scikit-learn. This enables the testing of the model's performance on data it has not encountered before, ensuring its reliability and accuracy in real-world applications.
+
+The logistic regression model is set up with specific parameters: the number of iterations is limited, the 'saga' solver is chosen, a 'l1' regularization penalty is applied, and the regularization strength is set to 0.1 (C=0.1). These settings are based on expertise in the field, tests, or past studies, and are designed to produce the best possible results.
+
+After creating the model, the next step is to train it using real-world data. This is done by calling the "fit" method, which adjusts the model's settings. The goal of this training is to make the model better at predicting the desired outcome while minimizing errors.
+
+The code snippet provides information about the logistic regression model after training, such as: the type of regularization penalty and its strength, the algorithm used to solve the model and the configuration of these choices. This information helps in understanding the modeling decisions made during the training process and how the model operates.
+
+### Model Deployment
+
+```python
+import joblib
+
+#The trained model is named 'model'
+joblib.dump(model, 'model.pkl')
+```
+```text
+['model.pkl']
+```
+Files with a .pkl extension usually contain serialized objects saved using Python's pickle module. In this case, "model.pkl" probably has a serialized form of a machine learning model called "model." This format is used to store trained models, allowing them to be quickly loaded and used again without having to redo the training process.
+
+
+### Results
+
+To conclude, this project has focused on improving the safety of credit card transactions within Europe. We've created advanced machine learning models to precisely identify fraudulent activities while maintaining ethical principles. This work helps in increasing trust in digital financial dealings, leading to a more secure financial environment.
+
+
+
+
