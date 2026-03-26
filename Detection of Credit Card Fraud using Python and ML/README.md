@@ -16,7 +16,9 @@ In this part of the code, necessary libraries should be imported, specifically P
 
 Next, the dataset is loaded into a Pandas DataFrame using the pd.read_csv() function. The dataset, named "creditcard_2023.csv", is located at the specified file path.
 
+```python
 import pandas as pd
 
 # Load the dataset
 df = pd.read_csv("C:/Users/TECHCOM/Desktop/Data Science Capstone Project/creditcard_2023.csv")
+```
