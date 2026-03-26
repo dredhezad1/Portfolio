@@ -332,7 +332,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 smote = SMOTE(random_state=42)
 X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
 ```
-Data Exploration
+### Data Exploration
 
 Data exploration is crucial for a data science project. It provides a comprehensive overview of the data, allowing to gain insights and make informed decisions. By using visualization techniques, patterns, outliers, and relationships in the data can be identified. This process does not involve only the analysis of numbers; it uncovers the hidden story behind the data and use it to make better decisions. Data exploration is like a compass and a map, providing guidance through the vast ocean of data to valuable insights.
 
