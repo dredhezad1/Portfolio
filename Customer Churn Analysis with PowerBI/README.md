@@ -44,6 +44,10 @@ To ensure high data integrity and optimized performance, the project utilizes a 
 
 <p align="center"> <img src="Data Modeling - Snowflake Schema/Snowflake_Schema_Data_Modeling.png" width="1200"> </p>
 
+** Implementation of Row-Level-Security
+
+<p align="center"> <img src="Images/RLS_Implementation_Regional_Manger_South.png" width="1200"> </p>
+
 📈 **Key Business Insights**
 
 **The "Early Exit" Risk:** Customers in their first 6 months have a 17.82% churn rate, suggesting a need for better onboarding or introductory offers.
