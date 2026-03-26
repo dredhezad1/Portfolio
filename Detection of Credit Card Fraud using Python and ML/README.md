@@ -716,7 +716,7 @@ Files with a .pkl extension usually contain serialized objects saved using Pytho
 
 ### Results
 
-To conclude, this project has focused on improving the safety of credit card transactions within Europe. We've created advanced machine learning models to precisely identify fraudulent activities while maintaining ethical principles. This work helps in increasing trust in digital financial dealings, leading to a more secure financial environment.
+To conclude, this project has focused on improving the safety of credit card transactions within Europe. An advanced machine learning model was created to precisely identify fraudulent activities while maintaining ethical principles. This work helps in increasing trust in digital financial dealings, leading to a more secure financial environment.
 
 
 
