@@ -44,3 +44,6 @@ This project features a multi-layered interactive dashboard suite built to analy
 
 ---
 
+** Row-Level-Security Implementation **
+
+<p align="center"> <img src="Images/RLS_Implementation_Manager_Austria.png" width="1200"> </p>
