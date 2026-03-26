@@ -126,3 +126,89 @@ Index(['id', 'V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V7', 'V8', 'V9', 'V10',
        'Class'],
       dtype='object')
 ```
+The output displays the structure of the DataFrame, showing that it contains 568,630 entries and 31 columns. Each column represents different feature of credit card transactions, such as transaction amount (Amount), transaction attributes (V1 through V28), and a binary label indicating whether the transaction is fraudulent (Class) or not.
+
+Additionally, the output explains that there are no missing values in the dataset, as indicated by the non-null counts for all columns in the info() output.
+
+### Data Processing and Cleaning
+
+During this stage, the data is prepared for analysis and modeling. Following steps should be taken:
+
+Data Loading: Importing the mentioned dataset.
+
+Column Management: Getting rid of columns that are not very important and useful, thus making it easier to analyze the dataset.
+
+Duplicate Removal: Deleting duplicate rows, keeping only the unique data for accurate results.
+
+Feature-Label Separation: Splitting the dataset into features (input variables) and labels (output variables) for use in supervised learning algorithms.
+
+Feature Scaling: Adjusting the range of features to improve model accuracy and speed.
+
+Class Distribution: Analyzing the distribution of classes in order to design effective modeling approaches.
+
+Correlation Analysis: Examining relationships between features and the target variable in order to get guidance for feature selection and interpretation.
+
+Class Imbalance Management: Using the SMOTE technique, the representation of minority classes are balanced, ensuring fair model training.
+
+Feature Engineering: Enhancing the dataset by introducing polynomial features to capture complex relationships that may not be evident in the original data. By meticulously processing and cleaning the data, a well-prepared dataset is created for accurate analysis and robust model development. This provides a strong foundation for our fraud detection system.
+
+```python
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
+from sklearn.neighbors import LocalOutlierFactor
+
+# Load the dataset
+df = pd.read_csv("C:/Users/TECHCOM/Desktop/Data Science Capstone Project/creditcard_2023.csv")
+
+# Drop unnecessary columns
+df.drop(columns=['id'], inplace=True)  # Drop 'id'
+
+# Remove duplicate rows
+df = df.drop_duplicates()
+
+# Separate features and labels
+X = df.drop(columns=['Class'])  # Features
+y = df['Class']  # Labels
+
+# Feature scaling
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Check for missing values
+missing_values = df.isnull().sum()
+print("Missing values:\n", missing_values)
+
+# Check data types
+data_types = df.dtypes
+print("Data types:\n", data_types)
+
+# Here, we'll use the Z-score method to detect outliers in the 'Amount' column and replace them with the median
+from scipy import stats
+z_scores = stats.zscore(df['Amount'])
+outliers = (z_scores > 3) | (z_scores < -3)
+df.loc[outliers, 'Amount'] = df['Amount'].median()
+
+# Check summary statistics after handling outliers
+summary_statistics_after = df.describe()
+
+# Check for duplicates again (after removing outliers)
+duplicates_after = df.duplicated().sum()
+print("Number of duplicates after removal:", duplicates_after)
+
+# Check target distribution
+target_distribution = df['Class'].value_counts()
+print("Target distribution:\n", target_distribution)
+
+# Check correlations
+correlation_matrix = df.corr()
+
+# Initialize the Local Outlier Factor detector
+lof = LocalOutlierFactor(n_neighbors=20, contamination=0.05)  # Adjust parameters as needed
+
+# Fit the model and predict outliers
+df['Anomaly'] = lof.fit_predict(df[['Amount']])
+
+# Flag or remove anomalous records based on the predictions
+anomalies = df[df['Anomaly'] == -1]
+```
+
