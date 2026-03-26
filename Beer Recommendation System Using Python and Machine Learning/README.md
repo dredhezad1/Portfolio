@@ -7,11 +7,17 @@ The system processes approximately 2.9 million beer reviews, transforming raw te
 The project follows a complete end-to-end pipeline, including:
 
 Data collection
+
 Data preprocessing and cleaning
+
 Exploratory data analysis (EDA)
+
 Feature engineering
+
 Model development
+
 Model evaluation
+
 Deployment
 
 Each stage is carefully implemented and documented to demonstrate how artificial intelligence can be applied to real-world, large-scale datasets.
