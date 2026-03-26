@@ -339,6 +339,7 @@ Data exploration is crucial for a data science project. It provides a comprehens
 Visual representations are key to exploring data. Complicated data are shown in ways that make sense and are easy to understand. Visualizations like histograms, box plots, scatter plots, and heatmaps help in understanding how data is spread out, how it's related to other data, and what patterns it has.
 
 Furthermore, this step helps in choosing the best modeling techniques, feature engineering strategies, and ways to measure success, which leads to accurate and informative predictive models.
+
 ```python
 import seaborn as sns
 import matplotlib.pyplot as plt
@@ -365,7 +366,7 @@ plt.figure(figsize=(10, 8))
 sns.heatmap(resampled_data.corr(), cmap='coolwarm', annot=True, fmt=".2f", linewidths=0.5)
 plt.title('Correlation Heatmap (Resampled)')
 plt.show()
-
+```
 <p align="center"> <img src="Credit Card Fraud_Images/1.png" width="1200"> </p>
 
 The first line of the code enables combining resampled data into a unified format, allowing for thorough analysis and modeling in the project.
