@@ -29,6 +29,7 @@ print(df.info())
 print(df.describe())
 df.columns
 ```
+```text
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 568630 entries, 0 to 568629
 Data columns (total 31 columns):
@@ -124,3 +125,4 @@ Index(['id', 'V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V7', 'V8', 'V9', 'V10',
        'V21', 'V22', 'V23', 'V24', 'V25', 'V26', 'V27', 'V28', 'Amount',
        'Class'],
       dtype='object')
+```
