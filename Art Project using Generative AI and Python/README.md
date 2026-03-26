@@ -23,3 +23,5 @@ Applies the extracted style to the content image
 For a full walkthrough of the code, functions, and implementation details, please open the main script file in this repository.
 
 <p align="center"> <img src="Images/1_GenAI_pic.png" width="1200"> </p>
+
+<p align="center"> <img src="Images/Stylized_Image.png" width="1200"> </p>
