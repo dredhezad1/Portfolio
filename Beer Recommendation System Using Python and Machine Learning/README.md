@@ -1,4 +1,4 @@
-📌 Introduction
+#### Introduction
 
 This project presents an AI-powered system designed to analyze beer reviews from the RateBeer platform. With the rapid growth of user-generated content, manually extracting insights from large volumes of reviews becomes inefficient. This project addresses that challenge by leveraging machine learning techniques to automate the analysis process.
 
