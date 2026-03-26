@@ -366,6 +366,8 @@ sns.heatmap(resampled_data.corr(), cmap='coolwarm', annot=True, fmt=".2f", linew
 plt.title('Correlation Heatmap (Resampled)')
 plt.show()
 
+<p align="center"> <img src="Credit Card Fraud_Images/1.png" width="1200"> </p>
+
 The first line of the code enables combining resampled data into a unified format, allowing for thorough analysis and modeling in the project.
 
 Visual representations are made to examine different parts of the re-sampled data. A count plot is used to visualize the target variable's distribution, indicating the frequency of each class within it. This helps understand the balance or imbalance of classes in the dataset, which is important for creating predictive models.
@@ -384,6 +386,8 @@ for column in X_train_resampled.columns:
 plt.tight_layout()
 plt.show()
 ```
+<p align="center"> <img src="Credit Card Fraud_Images/2.png" width="1200"> </p>
+
 From the graphs above, inferences as following can be made:
 
 Center (Median) The middle line inside the box shows where the data is split in half. This line represents the "average" value for each feature within each class.
@@ -402,6 +406,8 @@ for column in X_train_resampled.columns:
 plt.tight_layout()
 plt.show()
 ```
+<p align="center"> <img src="Credit Card Fraud_Images/3.png" width="1200"> </p>
+
 The shape of the histogram and density plot shows how the data is distributed, it it is normal or with a bell curve or skewed, or with an uneven tail. The highest point of the density plot (mode) represents the value that occurs most often within each class. The width and shape of the histogram and density plot indicate how spread out (varied) the values are within each class. A wider spread means there is more variation in the data.
 
 ```python
@@ -414,6 +420,8 @@ for column in X_train_resampled.columns:
 plt.tight_layout()
 plt.show()
 ```
+<p align="center"> <img src="Credit Card Fraud_Images/4.png" width="1200"> </p>
+
 Violin plots visually display how numerical data is distributed across categories.
 
 The shape of each violin shows the probability distribution of the data. A line inside the violin marks the median value, providing a quick measure of central tendency. The width of the violin at different points indicates the spread of the data. Dots outside the violin represent extreme values.The dots beyond the whiskers may indicate that potential outliers are present.
@@ -427,6 +435,8 @@ plt.title('Scatter Plot of V1 vs. V2 (colored by Class)')
 plt.colorbar(label='Class')
 plt.show()
 ```
+<p align="center"> <img src="Credit Card Fraud_Images/5.png" width="1200"> </p>
+
 This scatter plot shows each observation in the dataset as a point. The point's position on the graph is determined by the values of variables V1 and V2. Each point is colored based on its class label (0 or 1), which is indicated by the 'Class' variable.It is seen that the data is spread out based on where the points are located.
 
 As a result the different colors, in this case blue and red are clearly seperated, which means that variables V1 and V2 do a good job of distinguishing between the classes.
@@ -439,6 +449,8 @@ plt.ylabel('Frequency')
 plt.title('Histogram of Transaction Amount')
 plt.show()
 ```
+<p align="center"> <img src="Credit Card Fraud_Images/6.png" width="1200"> </p>
+
 The histogram displays the distribution of transaction sizes. The bars are relatively similar in length, indicating that there are no significant differences in the frequency of transactions across different amounts. This suggests that the distribution of transaction sizes is uniform, with no particular range of sizes disproportionately represented.
 
 In conclusion, consistent transaction amounts make it harder for fraud and anomaly detection algorithms. A balanced distribution of transaction sizes helps the algorithm learn patterns across all amounts, enhancing its ability to detect suspicious activities effectively.
@@ -451,6 +463,8 @@ plt.ylabel('V1')
 plt.title('Boxplot of V1 by Class')
 plt.show()
 ```
+<p align="center"> <img src="Credit Card Fraud_Images/7.png" width="1200"> </p>
+
 The pairplot provides pairwise scatter plots of numerical features, colored by class. It helps to visualize relationships between features and identify potential patterns or separations between classes.
 
 In this case, for fraudulent transactions (Class 1), the middle 50% of values for V1 (amount in the transaction) are less varied than for non-fraudulent transactions (Class 0). Both types of transactions have outliers, but they are more common in fraudulent transactions. This suggests that the range of V1 values is larger and more variable for fraudulent transactions.
@@ -467,6 +481,8 @@ def pairplot_data_grid(data, x_var, y_var, hue_var):
 # Example usage:
 pairplot_data_grid(df, "Amount", "Class", "Class")
 ```
+<p align="center"> <img src="Credit Card Fraud_Images/8.png" width="1200"> </p>
+
 It can be observed that the fraud transactions are generally not above an amount of 25000.
 
 ```python
