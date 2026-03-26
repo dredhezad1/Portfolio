@@ -211,4 +211,157 @@ df['Anomaly'] = lof.fit_predict(df[['Amount']])
 # Flag or remove anomalous records based on the predictions
 anomalies = df[df['Anomaly'] == -1]
 ```
+```text
+Missing values:
+ V1        0
+V2        0
+V3        0
+V4        0
+V5        0
+V6        0
+V7        0
+V8        0
+V9        0
+V10       0
+V11       0
+V12       0
+V13       0
+V14       0
+V15       0
+V16       0
+V17       0
+V18       0
+V19       0
+V20       0
+V21       0
+V22       0
+V23       0
+V24       0
+V25       0
+V26       0
+V27       0
+V28       0
+Amount    0
+Class     0
+dtype: int64
+Data types:
+ V1        float64
+V2        float64
+V3        float64
+V4        float64
+V5        float64
+V6        float64
+V7        float64
+V8        float64
+V9        float64
+V10       float64
+V11       float64
+V12       float64
+V13       float64
+V14       float64
+V15       float64
+V16       float64
+V17       float64
+V18       float64
+V19       float64
+V20       float64
+V21       float64
+V22       float64
+V23       float64
+V24       float64
+V25       float64
+V26       float64
+V27       float64
+V28       float64
+Amount    float64
+Class       int64
+dtype: object
+Number of duplicates after removal: 0
+Target distribution:
+ Class
+0    284315
+1    284314
+Name: count, dtype: int64
+```
+In this section of the code, we identify and handle any negative transaction amounts, which are unexpected in the context of credit card transactions.
 
+```python
+negative_amounts = df[df['Amount'] < 0]
+print(negative_amounts)
+```
+
+```text
+Empty DataFrame
+Columns: [V1, V2, V3, V4, V5, V6, V7, V8, V9, V10, V11, V12, V13, V14, V15, V16, V17, V18, V19, V20, V21, V22, V23, V24, V25, V26, V27, V28, Amount, Class, Anomaly]
+Index: []
+
+[0 rows x 31 columns]
+```
+As a result, there aren't any transactions with negative amounts. This means that the data is accurate and follows the usual transaction rules. By completing this step, there is a high liklihood that the data include only valid and typical transaction records. Thus, this helps in making this fraud detection system more reliable and precise.
+
+To prepare the dataset for analysis, the cleaning phase begins by removing missing values and duplicate entries, handling outliers, and standardizing formats. After cleaning, the data is saved in a CSV file named "cleaned_data.csv" using the Pandas to_csv() function. This file is the basis for future analysis and modeling work.
+
+```python
+df.to_csv("cleaned_data.csv", index=False)
+
+import pandas as pd
+
+# Import the cleaned data for further analysis
+cleaned_data = pd.read_csv("cleaned_data.csv")
+```
+### Data Sampling
+
+To solve the problem of unequal class representation in the dataset, Synthetic Minority Over-sampling Technique (SMOTE) is used. SMOTE is a common method for handling class imbalance by creating samples for the group with fewer samples. In this project, we SMOTE is used to increase the number of samples in the minority class (fraudulent transactions) in the training data. This helps create a balanced training set, making sure that the machine learning model is not biased towards the group with more samples. The resampled training data (X_train_resampled and y_train_resampled) is used to train the model, which improved its ability to predict the minority class while also keeping it able to generalize to the whole dataset.
+
+```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from imblearn.over_sampling import SMOTE
+
+# Load the cleaned dataset
+cleaned_data = pd.read_csv("cleaned_data.csv")
+
+# Separate features and target variable
+X = cleaned_data.drop(columns=['Class'])  # Features
+y = cleaned_data['Class']  # Target variable
+
+# Splitting the dataset into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Application of SMOTE (Synthetic Minority Over-sampling Technique) to handle class imbalance
+smote = SMOTE(random_state=42)
+X_train_resampled, y_train_resampled = smote.fit_resample(X_train, y_train)
+```
+Data Exploration
+
+Data exploration is crucial for a data science project. It provides a comprehensive overview of the data, allowing to gain insights and make informed decisions. By using visualization techniques, patterns, outliers, and relationships in the data can be identified. This process does not involve only the analysis of numbers; it uncovers the hidden story behind the data and use it to make better decisions. Data exploration is like a compass and a map, providing guidance through the vast ocean of data to valuable insights.
+
+Visual representations are key to exploring data. Complicated data are shown in ways that make sense and are easy to understand. Visualizations like histograms, box plots, scatter plots, and heatmaps help in understanding how data is spread out, how it's related to other data, and what patterns it has.
+
+Furthermore, this step helps in choosing the best modeling techniques, feature engineering strategies, and ways to measure success, which leads to accurate and informative predictive models.
+```python
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Combine resampled features and target variable into a single DataFrame
+resampled_data = pd.concat([X_train_resampled, y_train_resampled], axis=1)
+
+# Distribution of the target variable
+plt.figure(figsize=(6, 4))
+sns.countplot(data=resampled_data, x='Class')
+plt.title('Distribution of Target Variable (Resampled)')
+plt.xlabel('Class')
+plt.ylabel('Count')
+plt.show()
+
+# Distribution of numerical features
+plt.figure(figsize=(12, 8))
+sns.pairplot(resampled_data.sample(1000), hue='Class', diag_kind='kde')
+plt.suptitle('Pairplot of Numerical Features (Resampled)', y=1.02)
+plt.show()
+
+# Correlation heatmap
+plt.figure(figsize=(10, 8))
+sns.heatmap(resampled_data.corr(), cmap='coolwarm', annot=True, fmt=".2f", linewidths=0.5)
+plt.title('Correlation Heatmap (Resampled)')
+plt.show()
