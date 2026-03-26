@@ -46,7 +46,7 @@ To ensure high data integrity and optimized performance, the project utilizes a 
 
 ** Implementation of Row-Level-Security
 
-<p align="center"> <img src="Images/RLS_Implementation_Regional_Manger_South.png" width="1200"> </p>
+<p align="center"> <img src="Images/RLS_Implementation_Regional_Manager_South.png" width="1200"> </p>
 
 📈 **Key Business Insights**
 
