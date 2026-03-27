@@ -40,8 +40,8 @@ This project features a multi-layered interactive dashboard suite built to analy
 
 <p align="center"> <img src="Images/5_Marketing Efficiency.png" width="1200"> </p>
 
----
-
 ### Row-Level-Security Implementation
+
+Row-Level Security (RLS) is implemented in this dashboard to ensure that users only see data relevant to their assigned role and location. In Power BI, roles such as Manager of Sales in Austria are defined, with filters applied to restrict access based on attributes like country (e.g., Country = "Austria"). This means that when a user with this role views the report, all visuals—including customer count, revenue, and customer experience metrics—are filtered to display only Austria-specific data. The setup is validated using the “View As Role” feature to simulate user perspectives and confirm correct data restriction. This approach improves data governance, enhances security, and allows organizations to safely share insights while maintaining controlled access to sensitive information.
 
 <p align="center"> <img src="Images/RLS_Implementation_Manger_Austria.png" width="1200"> </p>
