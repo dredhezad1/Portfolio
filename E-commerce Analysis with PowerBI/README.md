@@ -1,7 +1,8 @@
 # Global E-Commerce Performance & Unit Economics Analysis
 
 ## Executive Summary
-This project features a multi-layered interactive dashboard suite built to analyze a **$1.49M e-commerce marketplace**. By synthesizing data across Sales, Marketing, and Operations, I identified critical "profit leaks" in shipping and returns, quantified a **27% loyalty value capture gap**, and proposed a budget reallocation strategy to stabilize a declining **2.45 ROAS**.
+
+This project features a multi-layered interactive dashboard suite built to analyze a $1.49M e-commerce marketplace. By synthesizing data across Sales, Marketing, and Operations, I identified critical "profit leaks" in shipping and returns, quantified a 27% loyalty value capture gap, and proposed a budget reallocation strategy to stabilize a declining 2.45 ROAS. Additionally, Row-Level Security (RLS) was implemented in Power BI to ensure secure, role-based access to data, allowing users to view only the information relevant to their region or responsibilities while maintaining data privacy and governance.
 
 ## Deep Dive: Dashboard Analysis (5-Page Report)
 
