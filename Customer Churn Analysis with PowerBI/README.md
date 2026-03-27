@@ -38,13 +38,15 @@ Examines how **contract types, internet services, streaming features, and suppor
 
 Geographic heatmaps and age-based distribution identifying Texas and senior citizens (65+) as high-risk segments.
 
-**🏗️ Data Architecture: Snowflake Schema**
+**Data Architecture: Snowflake Schema**
 
 To ensure high data integrity and optimized performance, the project utilizes a Snowflake Schema. This normalized approach allows for granular analysis of service tiers (Phone, Internet, Add-ons) without compromising report speed.
 
 <p align="center"> <img src="Data Modeling - Snowflake Schema/Snowflake_Schema_Data_Modeling.png" width="1200"> </p>
 
-** Implementation of Row-Level-Security
+**Row-Level Security (RLS)**
+
+Row-Level Security (RLS) is implemented in this project to ensure that users can only access data relevant to their specific role or region. In Power BI, roles were created (e.g., Regional Manager) and filters were applied to restrict data visibility based on attributes such as region (for example, Region = "South"). This means that a Regional Manager responsible for the South region can only view data for that region, while data from other regions remains hidden. The implementation was tested using the “View As Role” feature to verify correct access control. Overall, RLS enhances data security, protects sensitive information, and enables personalized dashboard views for different users.
 
 <p align="center"> <img src="Images/RLS_Implementation_Regional_Manager_South.png" width="1200"> </p>
 
