@@ -150,7 +150,7 @@ Correlation Analysis: Examining relationships between features and the target va
 
 Class Imbalance Management: Using the SMOTE technique, the representation of minority classes are balanced, ensuring fair model training.
 
-Feature Engineering: Enhancing the dataset by introducing polynomial features to capture complex relationships that may not be evident in the original data. By meticulously processing and cleaning the data, a well-prepared dataset is created for accurate analysis and robust model development. This provides a strong foundation for our fraud detection system.
+Feature Engineering: Enhancing the dataset by introducing polynomial features to capture complex relationships that may not be evident in the original data. By meticulously processing and cleaning the data, a well-prepared dataset is created for accurate analysis and robust model development. This provides a strong foundation for the fraud detection system.
 
 ```python
 import pandas as pd
@@ -182,7 +182,7 @@ print("Missing values:\n", missing_values)
 data_types = df.dtypes
 print("Data types:\n", data_types)
 
-# Here, we'll use the Z-score method to detect outliers in the 'Amount' column and replace them with the median
+# Here, Z-score method is used to detect outliers in the 'Amount' column and replace them with the median
 from scipy import stats
 z_scores = stats.zscore(df['Amount'])
 outliers = (z_scores > 3) | (z_scores < -3)
@@ -283,7 +283,7 @@ Target distribution:
 1    284314
 Name: count, dtype: int64
 ```
-In this section of the code, we identify and handle any negative transaction amounts, which are unexpected in the context of credit card transactions.
+In this section of the code, the goal is to identify and handle any negative transaction amounts, which are unexpected in the context of credit card transactions.
 
 ```python
 negative_amounts = df[df['Amount'] < 0]
@@ -375,7 +375,7 @@ Visual representations are made to examine different parts of the re-sampled dat
 
 Furthermore, Seaborn's pairplot() function is used to create a pair plot that examines the distribution of numerical features. By showing the relationships between pairs of numerical features, this graph aids in pattern detection. Additionally, kernel density estimation (KDE) plots on the diagonal provide insight into the distribution of each feature, revealing potential clusters, patterns, or outliers within the dataset.
 
-A correlation heatmap is created to visualize how closely numerical features in the resampled dataset correlate with each other. Different colors in the heatmap show the strength and direction of these correlations, while values on the heatmap indicate the correlation coefficients. This lets us see which features are highly correlated, which can affect how well a model performs and cause multicollinearity problems.
+A correlation heatmap is created to visualize how closely numerical features in the resampled dataset correlate with each other. Different colors in the heatmap show the strength and direction of these correlations, while values on the heatmap indicate the correlation coefficients. From this, it can be seen which features are highly correlated, which can affect how well a model performs and cause multicollinearity problems.
 
 ```python
 # Boxplot of numerical features by class
@@ -409,7 +409,7 @@ plt.show()
 ```
 <p align="center"> <img src="Credit Card Fraud_Images/3.png" width="1200"> </p>
 
-The shape of the histogram and density plot shows how the data is distributed, it it is normal or with a bell curve or skewed, or with an uneven tail. The highest point of the density plot (mode) represents the value that occurs most often within each class. The width and shape of the histogram and density plot indicate how spread out (varied) the values are within each class. A wider spread means there is more variation in the data.
+The shape of the histogram and density plot shows how the data is distributed, if it is normal or with a bell curve or skewed, or with an uneven tail. The highest point of the density plot (mode) represents the value that occurs most often within each class. The width and shape of the histogram and density plot indicate how spread out (varied) the values are within each class. A wider spread means there is more variation in the data.
 
 ```python
 # Violin plot of numerical features by class
@@ -552,7 +552,7 @@ Name: count, dtype: int64
 ```
 ### Feature Engineeiring
 
-In this step, we create new features by combining existing ones using polynomial features transformation. This captures complex relationships and interactions between features, which might not be evident in the original individual features. We use the PolynomialFeatures class from scikit-learn to generate combinations of features up to a specific level (degree 2 in this case). The resulting X_poly dataset includes the original features and these newly generated combinations.
+In this step, new features are created by combining existing ones using polynomial features transformation. This captures complex relationships and interactions between features, which might not be evident in the original individual features. The PolynomialFeatures class is used from scikit-learn to generate combinations of features up to a specific level (degree 2 in this case). The resulting X_poly dataset includes the original features and these newly generated combinations.
 
 To ensure that all features have a consistent range, they are standardized before training the model. This is crucial for models like logistic regression, as scaling affects optimization and performance. Using the StandardScaler from scikit-learn, the features are transformed such that their mean becomes 0 and their standard deviation becomes 1. The standardized features are stored in a new variable called X_scaled.
 
@@ -663,7 +663,7 @@ print("Mean CV Accuracy:", cv_scores.mean())
 Cross-Validation Scores: [0.95950794 0.96283172 0.95935846 0.96055431 0.96183777]
 Mean CV Accuracy: 0.9608180395648604
 ```
-The cross-validation scores give us the accuracy of the model for each part of the cross-validation. Due to the closeness of the score, 0.9595 and 0.9628, it can be inferred that the model produces accurate results across different subsets of the data.
+The cross-validation scores give the accuracy of the model for each part of the cross-validation. Due to the closeness of the score, 0.9595 and 0.9628, it can be inferred that the model produces accurate results across different subsets of the data.
 
 ```python
 import pandas as pd
