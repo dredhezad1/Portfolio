@@ -4,19 +4,26 @@ This project demonstrates real-time neural style transfer using TensorFlow Lite 
 
 It uses pre-trained lightweight models to efficiently generate stylized images without heavy compute requirements.
 
-What This Project Does
+### What This Project Does
+
 Takes a content image
+
 Takes a style image (artistic reference)
+
 Applies the style onto the content image
+
 Produces a stylized output image
 
-How It Works
+### How It Works
 
 The pipeline consists of two main stages:
 
 Style Prediction Model
+
 Extracts a style bottleneck from the style image
+
 Style Transformation Model
+
 Applies the extracted style to the content image
 
 
