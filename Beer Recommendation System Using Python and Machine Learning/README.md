@@ -33,16 +33,21 @@ More importantly, the project highlights that success in recommendation systems 
 Businesses can directly apply this system to:
 
 1.Increase Sales
+
 Recommend beers customers are likely to enjoy, encouraging additional purchases.
 
 2.Personalize Customer Experience
+
 Show tailored suggestions on homepages, product pages, or checkout.
 
 3.Boost Customer Retention
+
 Keep users engaged by helping them consistently discover new products they like.
 
 4.Targeted Marketing
+
 Segment users based on preferences and send personalized offers or promotions.
 
 5.Product Discovery
+
 Help new or less popular beers gain visibility through smart recommendations.
