@@ -1,11 +1,9 @@
-# 📊 Global E-Commerce Performance & Unit Economics Analysis
+# Global E-Commerce Performance & Unit Economics Analysis
 
-## 🚀 Executive Summary
+## Executive Summary
 This project features a multi-layered interactive dashboard suite built to analyze a **$1.49M e-commerce marketplace**. By synthesizing data across Sales, Marketing, and Operations, I identified critical "profit leaks" in shipping and returns, quantified a **27% loyalty value capture gap**, and proposed a budget reallocation strategy to stabilize a declining **2.45 ROAS**.
 
----
-
-## 🔍 Deep Dive: Dashboard Analysis (5-Page Report)
+## Deep Dive: Dashboard Analysis (5-Page Report)
 
 ### 1. Overall Marketplace Performance
 * **The Challenge:** Revenue grew to $1.49M (22k orders), but growth is decoupling from order volume.
