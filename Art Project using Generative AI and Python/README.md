@@ -18,11 +18,11 @@ Produces a stylized output image
 
 The pipeline consists of two main stages:
 
-Style Prediction Model
+### Style Prediction Model 
 
 Extracts a style bottleneck from the style image
 
-Style Transformation Model
+### Style Transformation Model
 
 Applies the extracted style to the content image
 
